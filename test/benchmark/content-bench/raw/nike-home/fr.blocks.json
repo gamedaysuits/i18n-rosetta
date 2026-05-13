@@ -1,0 +1,47 @@
+[
+  {
+    "type": "tagline",
+    "text": "Nike. Just Do It. Nike FR",
+    "index": 0
+  },
+  {
+    "type": "heading",
+    "text": "Chaussures",
+    "index": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "Chaussures de running noires Chaussures de running blanches Chaussures Nike P-6000 Chaussures Nike Initiator Baskets V2K Run Nike Shox Baskets Nike Waffle Nike Cortez Nike Vomero Sneakers noires Chaussures Nike Motiva",
+    "index": 2
+  },
+  {
+    "type": "heading",
+    "text": "Vêtements",
+    "index": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "Pantalons de yoga Pantalons de survêtement Tech Fleece Tech Fleece",
+    "index": 4
+  },
+  {
+    "type": "heading",
+    "text": "Enfant",
+    "index": 5
+  },
+  {
+    "type": "tagline",
+    "text": "Chaussures noires pour fille Chaussures noires pour enfant",
+    "index": 6
+  },
+  {
+    "type": "heading",
+    "text": "Articles du moment",
+    "index": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "Clubs de football Football Nike England Nike Run Club Nike Training Club Chaussures Nike By You",
+    "index": 8
+  }
+]

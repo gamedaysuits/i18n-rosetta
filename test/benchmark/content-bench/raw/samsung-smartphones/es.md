@@ -1,0 +1,295 @@
+-->
+-->
+-->
+Smartphones Galaxy | Ofertas online | Samsung España
+-->
+-->
+-->
+붙이던 부분 삭제함 필요시 search/를 붙여서 사용-->
+runmodeInfo 이름 변경-->
+Elige tu ubicación e idioma.
+España / Español
+Other Countries
+Continuar
+Cancelar
+Search Form
+Borrar
+Scan Barcode
+Sin sugerencias
+AI Suggested Searches
+Búsquedas sugeridas
+BÚSQUEDAS POPULARES
+BÚSQUEDAS RECIENTES
+PRODUCTOS RELACIONADOS
+RECOMENDADO
+Cerrar
+Mobile
+Galaxy Smartphones
+Galaxy Tab
+Galaxy Book
+Galaxy Watch
+Galaxy Buds
+Galaxy Ring
+Accesorios para tu Galaxy
+Galaxy Smartphones
+Galaxy Tab
+Galaxy Book
+Galaxy Watch
+Galaxy Buds
+Galaxy Ring
+Accesorios para tu Galaxy
+## H1: Smartphones Galaxy
+Galaxy S
+Galaxy Z
+Galaxy A
+Comparar
+Accesorios para Smartphones Galaxy
+Todos los smartphones Galaxy
+Anterior
+Continuar
+Anterior
+Continuar
+Detener la reproducción automática de diapositivas
+## H2: " data-mobile-headline-text="<br><br>">
+Más información
+Comprar
+## H2: " data-mobile-headline-text="<br><br>">
+Más información
+Comprar
+Anterior
+Continuar
+reproducir
+Galaxy S26 Ultra
+Galaxy S26 Ultra
+Galaxy Z Fold7
+Galaxy Z Fold7
+Cancelar
+Cancelar
+Cancelar
+## H2: Novedades
+Nuevo
+Galaxy S26 Ultra
+Galaxy S26 Ultra
+Comprar
+Nuevo
+Galaxy S26 | S26+
+Galaxy S26 | S26+
+Comprar
+Galaxy Z Flip7
+Galaxy Z Flip7
+Comprar
+Galaxy Z Fold7
+Galaxy Z Fold7
+Comprar
+Nuevo
+Galaxy A57 5G
+Galaxy A57 5G
+Comprar
+Cancelar
+## H2: Entrega y Estrena
+Más información
+> .feature-kv__tags -->
+> .feature-kv__tags -->
+Anterior
+Nuevo
+Nuevo
+Nuevo
+Continuar
+Cancelar
+Ver todos
+> .feature-kv__tags -->
+> .feature-kv__tags -->
+Anterior
+## H3: Soporte rápido, cuando lo necesites
+## H3: Soporte rápido, cuando lo necesites
+Obtén ayuda experta rápidamente, con soporte dedicado justo cuando más lo necesitas
+Obtén ayuda experta rápidamente, con soporte dedicado justo cuando más lo necesitas
+Más información
+Continuar
+Cancelar
+Ver todo
+> .feature-kv__tags -->
+> .feature-kv__tags -->
+Anterior
+## H3: Galaxy A57 5G
+## H3: Galaxy A57 5G
+Ahorra entregando tu antiguo dispositivo.
+Ahorra entregando tu antiguo dispositivo.
+Comprar
+Continuar
+Cancelar
+Ver todo
+> .feature-kv__tags -->
+> .feature-kv__tags -->
+Anterior
+Nuevo
+Nuevo
+Continuar
+Cancelar
+Ver todos
+Búsqueda rápida
+## H2: Encuentra tus smartphones.
+## H2: Encuentra tus smartphones.
+Reiniciar
+Buscar
+## H3:
+¿Cuál es el smartphone Samsung Galaxy más potente?
+Actualmente, el smartphone Samsung Galaxy más potente es el Samsung Galaxy S25 Ultra . Este dispositivo móvil destaca por su rendimiento excepcional, gracias a su nuevo procesador Snapdragon Elite, que garantiza una experiencia fluida en tareas exigentes como juegos, edición de video y multitarea. ¡Realmente es tan versátil, que es una opción ideal para el día a día!
+Características Destacadas:
+Pantalla : Su espectacular pantalla Dynamic AMOLED 2X de 6.9 pulgadas ofrece una experiencia visual incomparable. La tasa de refresco adaptativa garantiza una fluidez excepcional en todo lo que hagas, desde navegar por redes sociales hasta disfrutar de tus juegos favoritos.
+Cámaras: Un sistema de cámaras avanzado que incluye una cámara principal de 200MP, además de cuatro cámaras traseras que incluyen una cámara ultra gran angular de 50MP, complementado por dos teleobjetivos que ofrecen zoom óptico de 5x y 10x, lo que lo convierte en una opción ideal para la fotografía profesional.
+Batería: Batería de 5,000 mAh que ofrece una excelente duración, permitiendo un uso prolongado sin necesidad de recarga frecuente e incluyendo una carga super rápida.
+Almacenamiento y RAM: Disponible con opciones de hasta TB de almacenamiento y GB de RAM, lo que asegura un rendimiento ágil y capacidad para almacenar grandes cantidades de datos.
+Durabilidad: Cuenta con clasificación IP68, lo que significa que es resistente al agua y al polvo, ideal para el uso diario.
+El Samsung Galaxy S25 Ultra no solo es el más potente de la gama Galaxy, sino que también ofrece un diseño premium y una experiencia de usuario inigualable, convirtiéndolo en la elección perfecta para quienes buscan lo mejor en tecnología móvil.
+...omitted...
+-->
+## H3:
+¿Qué móviles plegables ofrece Samsung?
+Samsung ofrece una gama de smartphones plegables innovadores bajo la serie Galaxy Z , que incluye los modelos Galaxy Z Fold y Galaxy Z Flip. Estos dispositivos combinan diseño, funcionalidad y rendimiento de última generación.
+Gama Samsung Galaxy Z
+Galaxy Z Fold: Diseñado en formato libro, ofrece una pantalla principal plegable de gran tamaño para una experiencia multitarea y de entretenimiento inmersiva. Los últimos modelos cuentan con pantallas Dynamic AMOLED 2X de alta resolución y tasa de refresco adaptativa de 120 Hz.
+Galaxy Z Flip: Inspirado en el diseño clásico de concha, este modelo plegable es compacto y elegante. Cuando está cerrado, cabe fácilmente en el bolsillo, pero al desplegarlo revela una pantalla principal amplia para tareas diarias.
+Ambas series destacan por su construcción resistente , con bisagras FlexHinge y marcos de aluminio duraderos. Además, los últimos modelos son resistentes al agua gracias a su certificación IPX8.
+En julio de 2024, Samsung presentó los nuevos Galaxy Z Fold6 y Z Flip6, sus smartphones plegables insignia para ese año.
+Galaxy Z Fold6
+Pantalla principal plegable de 7.6" QXGA+ Dynamic AMOLED 2X
+Pantalla externa de 6.3" HD+ Dynamic AMOLED 2X
+Procesador Snapdragon Gen for Galaxy
+Hasta GB de RAM y TB de almacenamiento
+Cámara principal de MP con OIS
+Batería de 4,400 mAh con carga rápida de 25W
+Galaxy Z Flip6
+Pantalla principal plegable de 6.7" FHD+ Dynamic AMOLED 2X
+Pantalla externa de 3.4"
+Procesador Snapdragon Gen for Galaxy
+Hasta GB de RAM y 512 GB de almacenamiento
+Sistema de cámaras triple con sensor principal de MP
+Batería de 4,000 mAh con carga rápida de 25W
+Ambos modelos incorporan la inteligencia artificial de Samsung , Galaxy AI , que mejora la productividad y creatividad del usuario. Además, están disponibles en una gran variedad de colores, así como colores exclusivos de Samsung.
+La serie Galaxy Z de Samsung ofrece una experiencia móvil única, combinando diseño plegable, rendimiento de gama alta y funciones avanzadas para adaptarse a diferentes estilos de vida. Los últimos lanzamientos, el Fold6 y Flip6, representan el compromiso de Samsung con la innovación en el segmento de smartphones plegables.
+...omitted...
+-->
+## H3:
+¿Cuáles son los smartphones Galaxy más económicos?
+En Samsung España, ofrecemos una amplia gama de smartphones Galaxy económicos, accesibles y con características atractivas.
+Los modelos más asequibles pertenecen a la serie Galaxy A, destacando el Samsung Galaxy A05S y el Samsung Galaxy A16 ambos disponibles por menos de 200 euros. Estos dispositivos ofrecen una excelente relación calidad-precio, ideales para quienes buscan un smartphone funcional y asequible.
+Samsung Galaxy A05s: Un smartphone accesible con grandes prestaciones
+El Samsung Galaxy A05s es la opción perfecta si buscas un smartphone con características sólidas a un precio asequible. Este modelo cuenta con una pantalla de 6.7" FHD+ , una cámara principal de MP , y una batería de 5,000 mAh que te acompaña durante todo el día. Con GB de almacenamiento y un procesador Octa-core, ofrece un rendimiento fluido para tus actividades diarias. Disponible en colores Verde, Negro y Gris , su diseño elegante se adapta a tu estilo.
+Características Destacadas:
+Pantalla: 6.7" FHD+
+Cámara: Principal de MP
+Batería: 5,000 mAh
+Almacenamiento: GB
+Colores disponibles: Verde, Negro y Gris
+Características adicionales: Procesador Octa-core, diseño elegante.
+Este modelo es ideal para quienes buscan un smartphone básico pero funcional, con una buena duración de batería y una pantalla amplia para disfrutar de contenido multimedia.
+¡No te pierdas la oportunidad de tener el Samsung Galaxy A05s! Compra ahora y disfruta de todas estas prestaciones a un precio increíble.
+Samsung Galaxy A16: Rendimiento óptimo y diseño elegante a un precio asequible
+El Samsung Galaxy A16 es una excelente opción si buscas un smartphone con buenas prestaciones, sin necesidad de conectividad 5G. Este dispositivo cuenta con una pantalla de 6.5" FHD+ , una cámara principal de MP , y una batería de 5,000 mAh que te proporciona energía para todo el día. Con 128 GB de almacenamiento y un procesador Octa-core, garantiza un rendimiento fluido para tus tareas diarias. Está disponible en colores Azul, Negro y Amarillo, con un diseño elegante que complementa cualquier estilo.
+Características Destacadas:
+Pantalla: 6.5" FHD+
+Cámara: Principal de MP
+Batería: 5,000 mAh
+Almacenamiento: 128 GB
+Colores disponibles: Azul, Negro y Amarillo
+Características adicionales: Procesador Octa-core, diseño elegante.
+Este modelo es ideal para quienes buscan un smartphone asequible, sin 5G pero con un rendimiento perfecto para el uso diario.
+¡Aprovecha esta oportunidad y adquiere tu Samsung Galaxy A16! Compra ahora para disfrutar de un smartphone con excelentes características a un precio insuperable.
+Estos modelos de la serie Galaxy A son ideales para quienes buscan smartphones asequibles sin sacrificar características importantes como la calidad de la cámara, la duración de la batería y el rendimiento general. Lo que los convierte en una excelente opción para quienes buscan un buen rendimiento sin gastar mucho.
+...omitted...
+-->
+## H3:
+¿Cuáles son los mejores móviles de Samsung?
+Descubre los mejores móviles y smartphones Samsung del año. Aquí te presentamos una guía completa con los modelos más característicos, desde los últimos lanzamientos hasta las opciones más destacadas por los usuario. Conoce cuál es el mejor smartphone Samsung según tus necesidades.
+## H4: Samsung Galaxy S25 Ultra
+El Galaxy S25 Ultra se establece como el buque insignia definitivo de Samsung, liderando la serie con prestaciones revolucionarias. Equipado con el procesador Snapdragon Elite más avanzado hasta la fecha, memoria RAM de 12GB y capacidad de almacenamiento de hasta 1TB, ofrece un rendimiento sin precedentes. Su impresionante pantalla Dynamic AMOLED 2X de 6.9 pulgadas eleva la experiencia visual a otro nivel, mientras que su sistema de cámaras con sensor principal de 200MP redefine la fotografía móvil. La integración del S Pen y su batería de 5.000 mAh con carga ultra rápida completan un dispositivo diseñado para la excelencia.
+## H4: Samsung Galaxy Z Fold6
+El Galaxy Z Fold6 pertenece a la gama de smartphones plegables de Samsung y forma parte de uno de los lanzamientos más recientes de 2024. Diseñado para aquellos que buscan un smartphone que funcione como una tablet. Con una pantalla principal de 7.6 pulgadas QXGA+ Dynamic AMOLED 2X, ofrece una experiencia multitarea excepcional. Equipado también con el procesador Snapdragon Gen 3, permite un rendimiento fluido en todas las aplicaciones. La configuración de cámaras incluye una cámara principal de MP, lo que lo convierte en una opción versátil para la fotografía. Su diseño robusto, batería de 4.400 mAh y funcionalidad multitarea lo hacen ideal para profesionales, usuarios exigentes, incluso gamers.
+Además, está disponible en una amplia gama de colores, incluyendo colores exclusivos.
+## H4: Samsung Galaxy Z Flip6
+El Galaxy Z Flip6 es otro de los smartphones plegables de Samsung que combina estilo y funcionalidad y pertenece al lanzamiento más reciente de 2024. Con su diseño compacto y su pantalla principal de 6.7 pulgadas FHD+ Dynamic AMOLED 2X, ofrece una experiencia visual envolvente. Este modelo cuenta con un procesador Snapdragon Gen 3, batería de 4000 mAh y una configuración de cámaras que incluye una cámara principal de MP. Su diseño plegable permite una mayor portabilidad, y el modo Flex ofrece nuevas formas de interactuar con el dispositivo, ideal para videollamadas y creación de contenido en redes sociales.
+Además, así como también el Galaxy Z Fold 6, está disponible en una amplia gama de colores, incluyendo colores exclusivos.
+## H4: Samsung Galaxy S25+
+El Galaxy S25+ se posiciona como la opción premium equilibrada, combina un diseño elegante con un rendimiento sólido. Su pantalla de 6.7 pulgadas WQHD+ Dynamic AMOLED 2X ofrece colores vibrantes y una tasa de refresco de adaptativa, ideal para una experiencia fluida. Al igual que el S25 Ultra, está impulsado por el último Snapdragon Elite y cuenta con hasta GB de RAM. La configuración de la cámara incluye una triple cámara trasera de MP, que garantiza fotografías de calidad. La batería de 4,900 mAh proporciona una buena autonomía, y su diseño ligero lo hace fácil de utilizar.
+El Galaxy S25 completa la familia con un diseño más compacto pero igualmente premium, ofreciendo una experiencia flagship en un formato de 6.2 pulgadas ideal para quienes buscan máxima portabilidad sin renunciar a prestaciones avanzadas.
+## H4: Samsung Galaxy S25
+El Galaxy S25 es el modelo más compacto de la serie, con una pantalla de 6.2 pulgadas Dynamic AMOLED 2X. A pesar de su tamaño, no escatima en características, ofreciendo el mismo procesador Snapdragon Elite y hasta GB de RAM. Su sistema de cámaras también incluye una triple cámara de MP, lo que permite capturar imágenes nítidas y detalladas. Con una batería de 4,000 mAh, es perfecto para usuarios que buscan un dispositivo potente y de fácil uso.
+...omitted...
+-->
+## H3:
+¿Cuál es el móvil Samsung con la mejor cámara?
+Actualmente, el Samsung Galaxy S25 Ultra se posiciona como el smartphone de Samsung con la mejor cámara. Este dispositivo está diseñado para ofrecer una experiencia fotográfica excepcional, combinando tecnología avanzada y un sistema de cámaras versátil.
+Características Destacadas:
+Cámara Principal:
+200 MP , diseñada para capturar imágenes con una resolución impresionante y detalles nítidos, perfecta para los más exigentes en fotografía móvil.
+Cámaras Secundarias:
+Ultra Gran Angular: MP, ideal para capturar paisajes y escenas amplias.
+Teleobjetivo 1: MP con zoom óptico, para retratos y detalles a media distancia.
+Teleobjetivo 2: MP con zoom óptico, para acercamientos de alta calidad.
+Zoom Avanzado: Incluye zoom óptico en 2x, 3x, 5x y 10x , además de un zoom digital mejorado de hasta 100x , que garantiza imágenes detalladas incluso a largas distancias.
+Tecnología Nightography Mejorada:
+Utiliza inteligencia artificial avanzada para optimizar las fotografías en condiciones de poca luz, asegurando colores vibrantes y detalles claros, incluso en la oscuridad. Además, también puedes hacer retratos realistas gracias a la capacidad de Object-aware Engine para detectar y adaptarse a los entornos de iluminación
+Grabación de Video:
+Capacidad de grabar en resolución 8K , ofreciendo videos de calidad cinematográfica con detalles nítidos y una claridad excepcional.
+El Galaxy S25 Ultra no solo es ideal para los entusiastas de la fotografía, sino que también es una excelente opción para aquellos que buscan un rendimiento excepcional en un smartphone.
+...omitted...
+-->
+## H3:
+¿Qué es un móvil libre y cuáles son sus ventajas?
+Un móvil libre es un dispositivo que no está vinculado a ninguna operadora telefónica específica, lo que significa que puedes utilizarlo con cualquier operador y cambiar de red cuando quieras sin restricciones. Estos dispositivos son adquiridos sin contratos de permanencia, lo que otorga al usuario la libertad de cambiar de compañía según sus necesidades y preferencias. Además, los móviles libres suelen tener un mayor valor de reventa.
+Ventajas de un Móvil Libre
+Flexibilidad: Puedes cambiar de operador sin restricciones, lo que te permite elegir la mejor tarifa o plan que se ajuste a tus necesidades.
+Ahorro Económico: Aunque el precio inicial de un móvil libre puede ser más alto, a largo plazo puede resultar más económico, ya que no estás atado a tarifas mensuales elevadas o a contratos de permanencia.
+Viajes Internacionales: Un móvil libre te permite utilizar tarjetas SIM locales cuando viajas al extranjero, evitando los altos costos de roaming.
+Sin Compromisos: No estás obligado a pagar por servicios que no utilizas, lo que te da mayor control sobre tus gastos.
+En Samsung , todos los teléfonos que ofrecemos son móviles libres , lo que te garantiza la máxima flexibilidad y control sobre tu dispositivo. Esto incluye modelos de alta gama como el Samsung Galaxy S25 Ultra , así como opciones más asequibles en la serie Galaxy A.
+Al adquirir un smartphone Samsung libre, los usuarios pueden disfrutar de las últimas tecnologías y características avanzadas sin las restricciones de un contrato de operador. Esto permite a los consumidores elegir el plan que mejor se adapte a su estilo de vida y necesidades de comunicación.
+Además, los móviles Samsung Galaxy libres son ideales para aquellos que desean personalizar su experiencia móvil, ya que pueden seleccionar entre diferentes operadoras y planes, así como cambiar de dispositivo sin complicaciones.
+...omitted...
+-->
+Imagen simulada.
+Imagen simulada. S Pen integrado solo en el Galaxy S26 Ultra. Es posible que se requiera el inicio de sesión en Samsung Account para usar ciertas funciones de AI.
+Imagen simulada. La UX/UI real puede variar. La disponibilidad de colores, tamaños, modelos y correas puede variar. Los productos se venden por separado. Contiene una imagen de fondo generada por AI con retoques. El programa Running Coach está disponible en teléfonos Android (Android o superior) y requiere la aplicación Samsung Health (v6.30.2 o superior). Es necesario iniciar sesión en Samsung Account. Servicio solo disponible con Galaxy Watch Ultra, la Galaxy Watch7 Series o la Galaxy Watch Series lanzada posteriormente. Para usar el programa Running Coach, el usuario debe realizar una prueba de nivel de carrera y obtener un nivel antes de iniciar el programa de entrenamiento.
+Imagen simulada. Es posible que se requiera el inicio de sesión en Samsung account para usar ciertas funciones de AI.
+Disponible solo en Samsung.com.
+Imagen simulada. Es posible que se requiera el inicio de sesión en Samsung Account para usar ciertas funciones de AI. La UX/UI real puede variar.
+Imagen simulada. La UX/UI real puede variar. La disponibilidad de colores, tamaños, modelos y correas puede variar. Los productos se venden por separado. Energy Score disponible en teléfonos Android (Android o posterior) y necesita la aplicación Samsung Health (v6.27 o posterior). Es necesario iniciar sesión en Samsung Account. El servicio solo está disponible cuando el usuario registra el Galaxy Watch (Galaxy Watch4 o versiones posteriores de la serie Galaxy Watch) o el Galaxy Ring al menos una vez. La disponibilidad del servicio puede variar según el país o la región. No está destinada a detectar, diagnosticar ni tratar ninguna afección médica o enfermedad. El resultado es solo para uso personal. Pide consejo a un profesional médico.
+Imagen simulada. Se requiere el inicio de sesión en Samsung account para usar ciertas funciones de AI. La UX/UI actual puede variar.
+Imagen simulada. La esfera del reloj gira solo cuando se está cargando. La disponibilidad de colores, tamaños, modelos y correas de reloj puede variar según el país o el operador. La correa Trail Band se vende por separado. Los productos se venden por separado. Energy Score está disponible para móviles Android (Android o superior) y requiere la aplicación Samsung Health (v6.27 o superior). Se requiere iniciar sesión en Samsung account.
+Servicio disponible solo cuando el usuario registra el Galaxy Watch (Galaxy Watch4 o las series de Galaxy Watch lanzadas posteriormente) o el Galaxy Ring al menos una vez. La disponibilidad del servicio puede variar según el país o región. No está pensado para detectar, diagnosticar o tratar ninguna afección médica. El resultado es solo para tu referencia personal. Consulta a un profesional médico para obtener asesoramiento.
+Sujeto a elegibilidad para Entrega y Estrena. Para obtener más información, comprueba los términos y condiciones. Imagen simulada con fines ilustrativos.
+Imagen simulada. La disponibilidad de colores, tamaños, modelos y correas puede variar según el país o el operador.
+Galaxy Z Fold6, Galaxy Z Flip6, Galaxy Watch Ultra, Galaxy Watch7 y Galaxy Buds3 Pro de venta por separado.
+Imagen simulada. Se requiere el inicio de sesión en Samsung Account para usar ciertas funciones de AI.
+Los colores y modelos disponibles pueden variar según el país o el operador.
+Se requiere el inicio de sesión en Samsung Account para usar ciertas funciones AI.
+Imagen simulada. Productos de venta por separado. Los colores disponibles pueden variar según el país o el operador.
+Los resultados pueden variar en función de las condiciones de luz y/o de disparo.
+Colores exclusivos online solo disponibles en samsung.com.
+Los colores disponibles pueden variar según el país, la región o el operador.
+Los colores exclusivos en línea requieren una producción especial. El plazo de entrega es de semanas.
+Imagen simulada con fines ilustrativos. La UX/UI real puede variar.
+El S Pen Fold Edition se vende por separado y solo es compatible con Z Fold5, Z Fold4 y Z Fold3. El Flex mode es compatible con ángulos de 75° y 115°.
+Imagen simulada.
+S Pen integrado solo en Galaxy S23 Ultra.
+Imagen simulada. Los colores disponibles pueden variar según el país o el operador.
+Imagen simulada.
+Imagen simulada con fines ilustrativos.
+Los colores y modelos disponibles pueden variar según el país o el operador.
+El Galaxy A53 5G tiene calificación IP67. Basado en una prueba de inmersión en condiciones de metro bajo agua dulce durante un máximo de minutos. Seguro solo contra agua a baja presión.
+S Pen incluido con Tab S8 Series. Samsung Galaxy Watch4 Classic y Buds Pro de venta por separado. La disponibilidad de colores puede variar según el país.
+Según las especificaciones de Galaxy S21 Ultra 5G. Puede que no se aplique a todos los modelos.
+Imagen de Galaxy Z Fold3 5G, Galaxy Z Flip3 5G y S Pen Fold Edition simulada con fines ilustrativos.
+El S Pen Fold Edition se vende por separado y es solo compatible con Z Fold3 5G.
+Imagen simulada con fines ilustrativos. El Galaxy Z Flip4, el Galaxy Watch5 y los Galaxy Buds2 Pro se venden por separado. La disponibilidad de colores, tamaños, modelos y correas de reloj puede variar según el país o el operador.
+Buscador de Galaxy A: OIS significa Optical Image Stabilization (Estabilización Óptica de la Imagen). Batería de días estimada según el perfil de uso de un usuario medio/típico. Evaluado independientemente por Strategy Analytics en el Reino Unido con las versiones de prelanzamiento de SM-A536, SM-A336, SM-A736, SM-A135 y SM-A235. Para más detalles, visita la página detallada de cada producto en samsung.com. La RAM y el almacenamiento interno pueden variar según el país. El almacenamiento real disponible puede variar según el software preinstalado. Tarjeta MicroSD de venta por separado. Algunos dispositivos Galaxy A tienen calificación IP67. Basado en una prueba de inmersión en condiciones de metros bajo agua dulce durante un máximo de minutos. Seguro solo contra agua a baja presión. La tasa de refresco puede variar según la aplicación. Algunas aplicaciones o interfaces de juegos pueden soportar menos de 120 Hz por razones como la compatibilidad.
+Go to Top
+-->
+-->
+Introduce tu email
+Por favor vuelve a comprobar la dirección de tu correo electrónico
+Close popup
+Close popup
+Close popup
+Cerrar ventana emergente

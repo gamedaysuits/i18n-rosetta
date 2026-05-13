@@ -1,0 +1,46 @@
+N26 La banque en ligne qu’on adore
+Erreur, la vidéo n&#x27;a pas pu être lue
+## H1: La première banque que vous allez adorer
+Gérez votre argent, épargnez et investissez avec une appli simple et intuitive utilisée par des millions de clients.
+## H2: La banque gratuite sans frais cachés
+Ouvrez votre compte en quelques minutes et profitez d&#x27;une banque 100 % mobile. Bénéficiez d&#x27;une carte virtuelle gratuite et de plusieurs retraits sans frais par mois. Ouvrir un compte N26 Standard
+## H2: Taux d&#x27;intérêt lié à la BCE
+Ouvrez un compte N26 Metal et obtenez % d&#x27;intérêt annuel brut avec Épargne Express, un taux lié à celui de la Banque centrale européenne. Découvrir Épargne Express
+## H2: Actions et ETF : achetez et vendez sans frais
+Découvrez les actions et les ETF sans frais et plus de 400 actifs crypto . Créez un plan d&#x27;épargne automatique. Optez pour le PEA pour des gains nets exonérés d&#x27;impôt sur le revenu. Commencer à investir
+## H2:
+L&#x27;achat et la vente d&#x27;actions et d&#x27;ETF avec N26 est sans frais. Des coûts liés aux produits peuvent s’appliquer, par exemple des frais de gestion des ETF et des incitation de tiers.
+## H2: La carte pour voyager
+Obtenez un cashback sur vos voyages, les meilleurs taux de change et l’accès aux salons d’aéroport. Voyagez sereinement avec des retraits sans frais à l’étranger et les assurances N26 Go et Metal Ouvrir un compte N26 Go
+## H2: Choisissez votre compte
+Comparez les comptes N26 et ouvrez le vôtre en quelques minutes. Comparer les comptes
+## H2:
+Valable uniquement pour les nouveaux clients qui ouvrent un nouveau compte N26 Metal à partir du 19.02.2025. Les dépôts Épargne Express génèrent des intérêts à un taux nominal brut annuel de % aligné sur le taux actuel de la facilité de dépôt de la Banque Centrale Européenne (à partir du 11.06.2025) . Ce taux nominal annuel brut est susceptible de modifications à tout moment par N26, indépendamment de la fluctuation du taux proposé par la BCE. Intérêts imposables et soumis aux prélèvements sociaux. Les Conditions Générales N26 Épargne Express s&#x27;appliquent. Offre réservée aux clients non-Business de N26 Bank SE, Succursale France.
+Pour les clients existants, les dépôts sur le compte Épargne Express de N26 sont rémunérés au taux nominal annuel brut de 1,50 % par an avec le compte premium N26 Metal, 0,55 % avec N26 Go et 0,25 % pour les comptes N26 Smart et N26 Standard, à partir du 11.06.2025. Les taux sont susceptibles de modifications à tout moment par N26. Intérêts imposables et soumis aux prélèvements sociaux. Offre réservée aux clients non-business de N26 Bank SE, Succursale France.
+Les sommes déposées sur vos comptes bancaires - incluant votre compte rémunéré Épargne Express - sont protégées à hauteur de 100 000 € auprès du Système de garantie des dépôts des banques allemandes.
+Les investissements en Actions et ETF comportent un risque de perte en capital. Actions et ETF est fourni par N26 Bank SE en partenariat avec Upvest Securities GmbH. Plus d’informations sur Actions et ETF sur cette page .
+L&#x27;achat et la vente d&#x27;actions et d&#x27;ETF avec N26 est sans frais. Des coûts liés aux produits peuvent s’appliquer, par exemple des frais de gestion des ETF et des incitation de tiers.
+Les investissements dans les actifs numériques (ou crypto actifs) comportent un risque élevé de perte totale ou partielle en capital en raison de la particulière volatilité des cours de ce type de produits et des risques liés à la cybersécurité. N26 Crypto est fourni par N26 Bank SE en partenariat avec Bitpanda GmbH. Plus d’informations sur cette page .
+Les investissements comportent un risque de perte en capital. Le compte PEA est géré par Upvest Securities GmbH. La Banque N26 SE assure la réception et la transmission des ordres ainsi que l&#x27;accès au compte PEA via l&#x27;application N26 pour les clients de la Banque N26 SE disposant d&#x27;un IBAN allemand, et de la succursale française de la Banque N26 SE disposant d&#x27;un IBAN français. Pour en savoir plus : https://n26.com/fr-fr/pea .
+Dépenses éligibles : Les conditions détaillées pour les clients qui s&#x27;inscrivent avant le juillet et après le octobre sont disponibles ici : https://n26.com/hb-ex
+## H2:
+## H3: N26 est-elle une banque ?
+N26 est la première banque 100% mobile à bénéficier d&#x27;une licence bancaire allemande délivrée par la BaFin, l&#x27;Autorité de supervision financière en Allemagne. Cela signifie que l&#x27;ensemble de vos dépôts sur vos comptes bancaires, incluant le compte Epargne Express est protégé à hauteur de 100 000 € par le système allemand de protection des dépôts. Nous opérons actuellement sur marchés et comptons plus de millions de clients.
+## H3: N26 est-elle sécurisée ?
+N26 a obtenu une licence bancaire allemande délivrée par la BaFin. Selon la règlementation en vigueur, les fonds de chaque client sont protégés jusqu’à 100 000 € par le système allemand de protection des dépôts. Avec 3D Secure, Mastercard Identity Check et l&#x27;authentification digitale et faciale, la sécurité des paiements en ligne de nos clients est toujours garantie.
+## H3: Comment N26 protège-t-elle mon argent et mes données personnelles ?
+En tant que banque, N26 est supervisée par l&#x27;Autorité fédérale de supervision financière (BaFin). Les fonds de nos clients sont garantis jusqu&#x27;à 100 000 € par le système allemand de protection des dépôts. De plus, l&#x27;application N26 dispose de nombreuses fonctionnalités pour assurer la sécurité des comptes bancaires et des données de ses utilisateurs.
+## H3: Comment ouvrir un compte N26 ?
+Pour ouvrir un compte N26, vous devez avoir plus de ans et résider en France. Vous devez également disposer d’un smartphone compatible. Il vous sera demandé de fournir une pièce d’identité valide, et si besoin d&#x27;autres justificatifs nécessaires à l&#x27;ouverture d&#x27;un compte N26.
+## H3: De quels documents ai-je besoin pour ouvrir un compte bancaire ?
+Aucune paperasse compliquée n&#x27;est requise pour ouvrir un compte bancaire chez N26. Vous devez simplement disposer d&#x27;un smartphone et présenter une pièce d&#x27;identité valide lors d&#x27;un appel vidéo. D&#x27;autres justificatifs pourront également être nécessaires.
+## H3: Combien coûte l&#x27;ouverture d&#x27;un compte bancaire ?
+Le compte bancaire standard N26 est gratuit, sans frais d&#x27;ouverture ni de tenue de compte. L&#x27;abonnement à un compte bancaire N26 Smart s&#x27;élève à 4,90 € par mois, à un 9,90 € par mois pour N26 Go et à 16,90 € par mois pour N26 Metal. Pour ouvrir un compte N26, aucune condition de revenu ou de dépôt n&#x27;est exigée.
+## H3: Combien de temps faut-il pour ouvrir un compte bancaire chez N26 ?
+Vous pouvez ouvrir votre compte mobile N26 en ligne en quelques minutes depuis votre téléphone ou le site Web N26 et sans paperasse. Cerise sur le gâteau : une fois votre compte bancaire N26 actif, vous pouvez commencer à l&#x27;utiliser immédiatement. Cela signifie que vous pouvez alimenter votre compte et commencer à payer avec votre carte virtuelle dès que votre compte est ouvert, sans attendre l&#x27;arrivée de votre carte physique.
+## H3: Comment obtenir un IBAN français avec mon compte N26 ?
+A partir du 29/06/2023, tous les clients N26 qui ouvrent un compte bancaire en France obtiennent automatiquement un RIB avec un IBAN français, c&#x27;est à dire un IBAN commençant par les lettres &#x27;FR&#x27;.
+## H3: Où puis-je trouver mon IBAN français et mon RIB ?
+Pour consulter votre IBAN N26 dans l&#x27;application mobile N26, rendez-vous dans la rubrique « Mon compte » en appuyant sur vos initiales dans le coin supérieur droit de l&#x27;écran d&#x27;accueil. À partir de là, vous pouvez facilement copier et coller votre IBAN et le partager. Pour télécharger votre RIB N26, rendez-vous sur l&#x27;espace client en ligne de N26.
+## H2: Articles similaires
+Ces articles pourraient vous intéresser Qu’est-ce que la crypto monnaie ? Guide pour débutants La crypto monnaie est une monnaie numérique qui existe électroniquement. Dans ce guide, découvrez son fonctionnement et comment elle peut révolutionner (ou non) le monde de la finance. astuces pour vous aider à économiser de l’argent rapidement Quels que soient vos objectifs, ces astuces pourraient bien vous permettre d’économiser encore plus rapidement... Quel est le meilleur moment pour acheter un billet d&#x27;avion ? Économisez sur vos billets d’avion pour vos prochaines vacances grâce à quelques astuces. Qu’est-ce que la crypto monnaie ? Guide pour débutants La crypto monnaie est une monnaie numérique qui existe électroniquement. Dans ce guide, découvrez son fonctionnement et comment elle peut révolutionner (ou non) le monde de la finance. astuces pour vous aider à économiser de l’argent rapidement Quels que soient vos objectifs, ces astuces pourraient bien vous permettre d’économiser encore plus rapidement... Quel est le meilleur moment pour acheter un billet d&#x27;avion ? Économisez sur vos billets d’avion pour vos prochaines vacances grâce à quelques astuces.

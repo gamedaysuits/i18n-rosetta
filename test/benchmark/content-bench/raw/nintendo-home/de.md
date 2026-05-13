@@ -1,0 +1,222 @@
+Offizielle Nintendo Deutschland-Seite
+Spiele Hardware Nintendo Switch Online Nintendo eShop My Nintendo Store Support News Folge uns ... Spiele Hardware Nintendo Switch Online Nintendo eShop My Nintendo Store Support News Folge uns ... Diverses
+## H3: Facebook
+Nintendo
+Nintendo Switch
+My Nintendo Store
+Fire Emblem
+Nintendo 3DS
+New Style Boutique
+Tomodachi Life
+The Legend of Zelda
+Super Smash Bros.
+Splatoon
+Animal Crossing
+Super Mario
+Mario Kart
+## H3: Instagram
+NintendoDE
+NintendoSwitchDE
+My Nintendo Store
+## H3: LinkedIn
+Besuche uns auf LinkedIn!
+## H3: Pinterest
+Nintendo DE
+## H3: Twitch
+NintendoDE
+## H3: X
+@NintendoDE
+My Nintendo Store
+@NintendoEurope
+@SuperMario_DE
+@AC_Melinda aus Animal Crossing: New Horizons
+## H3: YouTube
+Begleite uns auf YouTube! Lebe das Leben deiner Träume!
+Jetzt erhältlich! Jetzt im Kino
+Besuche die Website Erschaffe mithilfe von anderen Pokémon gemütliche Städte!
+Jetzt erhältlich! Erscheint am 21.05.
+Jetzt mehr entdecken! Es ist Zeit, ein Champion zu werden
+Jetzt spielen! Lebe das Leben deiner Träume!
+Jetzt erhältlich! Jetzt im Kino
+Besuche die Website Erschaffe mithilfe von anderen Pokémon gemütliche Städte!
+Jetzt erhältlich! Erscheint am 21.05.
+Jetzt mehr entdecken! Es ist Zeit, ein Champion zu werden
+Jetzt spielen! Lebe das Leben deiner Träume!
+Jetzt erhältlich! Jetzt im Kino
+Besuche die Website Erschaffe mithilfe von anderen Pokémon gemütliche Städte!
+Jetzt erhältlich! Erscheint am 21.05.
+Jetzt mehr entdecken! Es ist Zeit, ein Champion zu werden
+Jetzt spielen! Updates
+Spotlights News Spiele
+„Fantassstische Schlangen-Bananza“ – 12.05. bis 19.05.
+Schnapp dir exklusive Statuen im Spiel!
+News
+Diese Spiele erscheinen im Mai 2026!
+YouTube
+Yoshi and the Mysterious Book – Der neueste Trailer ist da!
+YouTube
+Splatoon Raiders erscheint am 23. Juli!
+News
+So kannst du Bubbles und andere auf deine Tomodachi Life: Wo Träume wahr werden-Insel bringen
+Nintendo eShop-Highlights – 30.04.2026
+Nintendo Switch
+30.04.2026
+Diese Spiele erscheinen im Mai 2026!
+Nintendo Switch 2, Nintendo Switch
+30.04.2026
+Nintendo eShop-Highlights – 23.04.2026
+Nintendo Switch
+23.04.2026
+Ein Rennen nach dem K.-o.-Kriterium erwartet dich im nächsten europäischen Online-Event für Mario Kart World!
+Nintendo Switch
+21.04.2026
+So kannst du Bubbles und andere auf deine Tomodachi Life: Wo Träume wahr werden-Insel bringen
+Nintendo Switch
+17.04.2026
+Nintendo eShop-Highlights – 16.04.2026
+Nintendo Switch
+16.04.2026
+Frag die Entwickler, Teil 21: Tomodachi Life: Wo Träume wahr werden – Kapitel
+Nintendo Switch
+14.04.2026
+Mehr sehen Spiele
+Finde dein nächstes Spiel Spotlights Super Mario Bros. 40th Demnächst erhältlich Neuheiten Nintendo Switch | 17.04.2026 PRAGMATA
+Nintendo Switch | 12.05.2026 Indiana Jones und der Große Kreis™
+Nintendo Switch | 03.06.2026 FINAL FANTASY VII REBIRTH
+Nintendo Switch | 13.03.2026 Monster Hunter Stories 3: Twisted Reflection
+Nintendo Switch | 27.02.2026 Resident Evil Requiem
+Nintendo Switch | 24.02.2026 Fallout 4: Anniversary Edition
+Nintendo Switch | 22.01.2026 FINAL FANTASY VII REMAKE INTERGRADE
+Mehr sehen Nintendo Switch | 17.04.2026 PRAGMATA
+Nintendo Switch | 12.05.2026 Indiana Jones und der Große Kreis™
+Nintendo Switch | 03.06.2026 FINAL FANTASY VII REBIRTH
+Nintendo Switch | 13.03.2026 Monster Hunter Stories 3: Twisted Reflection
+Nintendo Switch | 27.02.2026 Resident Evil Requiem
+Nintendo Switch | 24.02.2026 Fallout 4: Anniversary Edition
+Nintendo Switch | 22.01.2026 FINAL FANTASY VII REMAKE INTERGRADE
+Mehr sehen Nintendo Switch | 02.10.2025 Super Mario Galaxy + Super Mario Galaxy
+Nintendo Switch | 05.06.2025 Fortnite
+Nintendo Switch | 14.04.2026 Overwatch®
+Nintendo Switch | 16.04.2026 MOUSE: P.I. For Hire
+Nintendo Switch | 05.06.2025 Mario Kart World
+Nintendo Switch | 17.07.2025 Donkey Kong Bananza
+Nintendo Switch | 15.01.2026 Animal Crossing: New Horizons – Nintendo Switch Edition
+Mehr sehen Nintendo Switch | 02.10.2025 Super Mario Galaxy + Super Mario Galaxy
+Nintendo Switch | 05.06.2025 Fortnite
+Nintendo Switch | 14.04.2026 Overwatch®
+Nintendo Switch | 16.04.2026 MOUSE: P.I. For Hire
+Nintendo Switch | 05.06.2025 Mario Kart World
+Nintendo Switch | 17.07.2025 Donkey Kong Bananza
+Nintendo Switch | 15.01.2026 Animal Crossing: New Horizons – Nintendo Switch Edition
+Mehr sehen Nintendo Switch | 21.05.2026 Yoshi and the Mysterious Book
+Nintendo Switch | 02.10.2025 Super Mario Galaxy + Super Mario Galaxy
+Nintendo Switch | 26.03.2026 Super Mario Bros. Wonder – Nintendo Switch Edition + Gemeinsam im Bellabel-Park
+Nintendo Switch | 12.02.2026 Mario Tennis Fever
+Nintendo Switch | 05.06.2025 Mario Kart World
+Nintendo Switch | 24.07.2025 Super Mario Party Jamboree – Nintendo Switch Edition + Jamboree TV
+Mehr sehen Nintendo Switch | 21.05.2026 Yoshi and the Mysterious Book
+Nintendo Switch | 02.10.2025 Super Mario Galaxy + Super Mario Galaxy
+Nintendo Switch | 26.03.2026 Super Mario Bros. Wonder – Nintendo Switch Edition + Gemeinsam im Bellabel-Park
+Nintendo Switch | 12.02.2026 Mario Tennis Fever
+Nintendo Switch | 05.06.2025 Mario Kart World
+Nintendo Switch | 24.07.2025 Super Mario Party Jamboree – Nintendo Switch Edition + Jamboree TV
+Mehr sehen Nintendo Switch | 07.05.2026 Korean Drone Flying Tour Tapjeong Lake
+Nintendo Switch | 07.05.2026 To Farm Lands: Sowing Fields
+Nintendo Switch | 07.05.2026 Cozy Cat Cafe
+Nintendo Switch | 07.05.2026 Duck Side of the Moon
+Nintendo Switch | 07.05.2026 Akuma Rise
+Nintendo Switch | 07.05.2026 Akita: Legends Squad
+Nintendo Switch | 07.05.2026 Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food
+Mehr sehen Nintendo Switch | 07.05.2026 Korean Drone Flying Tour Tapjeong Lake
+Nintendo Switch | 07.05.2026 To Farm Lands: Sowing Fields
+Nintendo Switch | 07.05.2026 Cozy Cat Cafe
+Nintendo Switch | 07.05.2026 Duck Side of the Moon
+Nintendo Switch | 07.05.2026 Akuma Rise
+Nintendo Switch | 07.05.2026 Akita: Legends Squad
+Nintendo Switch | 07.05.2026 Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food
+Mehr sehen Nintendo Switch | 05.05.2026 Wax Heads
+Nintendo Switch | 05.05.2026 Shadows of the Afterland
+Nintendo Switch | 05.05.2026 House Fixer Simulator
+Nintendo Switch | 04.05.2026 Eternal Exodus
+Nintendo Switch | 04.05.2026 Axe Cop
+Nintendo Switch | 02.05.2026 Pixie Plates
+Nintendo Switch | 02.05.2026 Astra GalaxyX
+Mehr sehen Nintendo Switch | 05.05.2026 Wax Heads
+Nintendo Switch | 05.05.2026 Shadows of the Afterland
+Nintendo Switch | 05.05.2026 House Fixer Simulator
+Nintendo Switch | 04.05.2026 Eternal Exodus
+Nintendo Switch | 04.05.2026 Axe Cop
+Nintendo Switch | 02.05.2026 Pixie Plates
+Nintendo Switch | 02.05.2026 Astra GalaxyX
+Mehr sehen Smart-Geräte-Apps
+Smart-Gerät | 05.11.2025 Nintendo Store
+Smart-Gerät | 27.03.2025 Nintendo Today!
+Smart-Gerät | 31.10.2024 Nintendo Music
+Smart-Gerät | 25.09.2025 Fire Emblem Shadows
+Smart-Gerät | 02.11.2021 Pikmin Bloom
+Smart-Gerät | 02.12.2024 Animal Crossing: Pocket Camp Complete
+Smart-Gerät | 25.09.2019 Mario Kart Tour
+Smart-Gerät | 02.02.2017 Fire Emblem Heroes
+Smart-Gerät | 15.12.2016 Super Mario Run
+Smart-Gerät | 13.07.2016 Pokémon GO
+Smart-Gerät | 03.03.2017 Nintendo Switch – Nintendo Switch-Altersbeschränkungen
+Mehr sehen Smart-Gerät | 05.11.2025 Nintendo Store
+Smart-Gerät | 27.03.2025 Nintendo Today!
+Smart-Gerät | 31.10.2024 Nintendo Music
+Smart-Gerät | 25.09.2025 Fire Emblem Shadows
+Smart-Gerät | 02.11.2021 Pikmin Bloom
+Smart-Gerät | 02.12.2024 Animal Crossing: Pocket Camp Complete
+Smart-Gerät | 25.09.2019 Mario Kart Tour
+Smart-Gerät | 02.02.2017 Fire Emblem Heroes
+Smart-Gerät | 15.12.2016 Super Mario Run
+Smart-Gerät | 13.07.2016 Pokémon GO
+Smart-Gerät | 03.03.2017 Nintendo Switch – Nintendo Switch-Altersbeschränkungen
+Mehr sehen Bonus-Artikel & Bundles Yoshi and the Mysterious Book
+Jetzt erhältlich! Tomodachi Life: Wo Träume wahr werden
+Jetzt erhältlich! Nintendo Switch + Pokémon Pokopia
+NEU – Jetzt erhältlich! My Mario, eine Produktreihe im Mario-Design für jüngere Kinder
+Exklusiv im My Nintendo Store Virtual Boy für Nintendo Switch 2/Nintendo Switch
+Nintendo Switch Edition Super Mario Bros. Wonder + Plauderblume
+Jetzt erhältlich! Animal Crossing Merchandise
+Jetzt erhältlich! Super Mario Merchandise
+Nintendo Switch 2-Zubehör Nintendo GameCube Controller
+Die nächste Evolutionsstufe von Nintendo Switch ist da! Nintendo Switch + Mario Kart World
+Nintendo Switch 2-Zubehör Nintendo Switch 2-Kameras
+Nintendo Switch 2-Zubehör microSD Express Cards
+Nintendo Switch 2-Zubehör Nintendo Switch 2-Taschen
+Nintendo Switch 2-Zubehör Nintendo Switch 2-Controller-Zubehör
+Nintendo Switch 2-Zubehör Nintendo Switch Controller
+Bonus-Artikel & Bundles Yoshi and the Mysterious Book
+Jetzt erhältlich! Tomodachi Life: Wo Träume wahr werden
+Jetzt erhältlich! Nintendo Switch + Pokémon Pokopia
+NEU – Jetzt erhältlich! My Mario, eine Produktreihe im Mario-Design für jüngere Kinder
+Exklusiv im My Nintendo Store Virtual Boy für Nintendo Switch 2/Nintendo Switch
+Nintendo Switch Edition Super Mario Bros. Wonder + Plauderblume
+Jetzt erhältlich! Animal Crossing Merchandise
+Jetzt erhältlich! Super Mario Merchandise
+Nintendo Switch 2-Zubehör Nintendo GameCube Controller
+Die nächste Evolutionsstufe von Nintendo Switch ist da! Nintendo Switch + Mario Kart World
+Nintendo Switch 2-Zubehör Nintendo Switch 2-Kameras
+Nintendo Switch 2-Zubehör microSD Express Cards
+Nintendo Switch 2-Zubehör Nintendo Switch 2-Taschen
+Nintendo Switch 2-Zubehör Nintendo Switch 2-Controller-Zubehör
+Nintendo Switch 2-Zubehör Nintendo Switch Controller
+Zum My Nintendo Store Hardware
+Erhältlich für Nintendo Switch und Nintendo Switch
+Deutschland Land wechseln
+België
+Belgique
+Deutschland
+España
+France
+Italia
+Nederland
+Österreich
+Portugal
+Schweiz
+Suisse
+Svizzera
+UK & Ireland
+South Africa
+Alle Regionen
+Eltern und Altersbeschränkungen Support Impressum Jobs Webseiten-Datenschutzerklärung Cookie-Einstellungen Rechtliche Informationen Verträge hier kündigen CSR Barrierefreiheitserklärung Kontakt © Nintendo. 2026

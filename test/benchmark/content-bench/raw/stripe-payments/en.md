@@ -1,0 +1,416 @@
+Chat with Stripe sales
+Stripe Payments | Global Payment Processing Platform
+Sessions 2026
+Watch the keynote
+Accept payments online, in person, and around the world with a payments solution built for any business – from scaling startups to global enterprises.
+Questions? Chat here
+Choose your plan
+Monthly subscription
+Annual subscription
+Save 22%
+Pay with
+Card
+US bank account
+Card number
+1234 1234 1234 1234
+Expiry date
+MM/YY
+CVC
+123
+Search for your bank
+Plan details
+Professional
+Up to users
+US$149 /month
+US$1,400 /year
+This includes:
+months historical data
+hr data refresh
+1000+ third party integrations
+Simple reporting
+Total due today (USD) US$149.00
+Total due today (USD) US$1,400.00
+Confirm and subscribe
+️Cart
+Billing details
+Confirmation
+Shipping Address
+Enter address
+Micaela Patel
+The Warehouse, 7th Floor 211 Old Street
+London EC1V 9NR
+Pay with
+Card
+Klarna
+Revolut Pay
+Card information
+1234 1234 1234 1234
+Expiry date
+Security code
+Billing address is the same as shipping
+Save my info for secure 1-click checkout
+Pay faster on [merchant] and thousands of sites.
++44 (234) 567-8901
+Betala Wooden Chair
+£120.00 x
+Subtotal
+£240.00
+VAT (20%)
+£48.00
+Shipping Estimate
+FREE
+Total
+£288.00
+Place order
+Continue
+Pay Powdur
+JP¥7,788
+Powered by
+Terms
+Privacy
+Shipping information
+Email
+whitney@example.com
+Use your saved information
+Enter the code sent to ()  to securely use your saved information.
+Re-send code
+You won’t need to authenticate again on this device unless you log out.
+Review order
+Email address
+whitney@example.com
+Ship to
+Whitney Fujikawa
+Jingumae Tower Building 22F
+1-5-8 Jingumae, Shibuya-ku
+Tokyo, 150-0001
+Pay with
+0608
+Encrypted
+Pay JP¥7,788
+Check out as guest
+Shipping Address
+Japan
+Name
+Address
+Show all address fields
+Payment method
+Card
+Pay by Konbini
+Name
+Phone number (optional)
+You'll enter this number in store to confirm your payment
+Payable at
+Increase conversion with built-in optimisations, access to 100+ payment methods, and one-click checkout. Unify online and in-person payments to provide a seamless customer experience.
+Expand to new markets faster by launching payment methods and presenting in local currencies. Sell cross-border to 195+ countries and lower the costs of multi-currency management.
+Automatically decrease fraud and improve authorisation rates using Stripe Radar and Authorization Boost, powered by AI trained on billions of data points.
+Save time and engineering resources through increased developer productivity. Avoid downtime with leading reliability and reduce costs through alternative payment methods and rails.
+Stripe’s Optimized Checkout Suite delivers a frictionless customer experience. Increase revenue and save thousands of engineering hours with pre-built payment UIs, easy access to more than 100 payment methods, and Link, Stripe’s one-click checkout.
+average revenue uplift for businesses using Stripe’s latest checkout optimisations
+Email
+timotheero@stripe.com
+Payment method
+Card
+PayPal
+Klarna
+Card information
+1234 1234 1234 1234
+MM/YY
+CVC
+Launch faster with a conversion-optimised, full-page checkout
+Explore Checkout
+Payment succeeded
+Thanks for your purchase! A payment from POWDUR will appear on your statement.
+POWDUR
+CA$65.00
+Powdur Pure Set
+https://buy.stripe.com/aF8fUK
+The fastest way to accept payments – no code required
+Explore Payment Links
+Essential Hoodie
+Navy Blue - Medium
+CA$48.00
+Total
+CA$53.08
+Continue to checkout
+Launch a customisable embedded checkout experience
+Explore embedded form
+Build your own pixel-perfect payment experience
+Explore Elements
+Turn on the most popular payment methods from the Stripe Dashboard, and then use Stripe’s AI models to dynamically show customers the most relevant ones you’ve enabled. Experiment with new payment methods, A/B test to understand impact, and set custom rules with no code – while offloading maintenance and eligibility requirements to Stripe.
+Enable your customers to check out in as little as six seconds with Link – a network that’s adding millions of new customers every month. Returning customers can use Link to pay with a previously saved US bank account or credit card, helping you improve your conversion rates and customer experience.
+Shipping information
+Email
+olivia.martin@example.com
+Use your saved information
+Enter the code sent to ()  to securely use your saved information.
+Re-send code
+You won’t need to authenticate again on this device unless you log out.
+Review order
+Email address
+olivia.martin@example.com
+Ship to
+Olivia Martin
+3647 Halsey Ave
+Ontario M3B 2W6
+Pay with
+7878
+Encrypted
+Pay CA$71.21
+Check out as guest
+Shipping Address
+Canada
+Name
+Address
+Show all address fields
+Link is one of the most critical pieces of making sure we have a really, really well-operating shopfront.
+Read the full story
+Being able to just switch on local payments has helped us with global expansion. Stripe does all the hard work in the background. Local payment methods are no longer blocking us from investing more in certain regions.
+Read the full story
+Working with Stripe and implementing its Optimized Checkout Suite has helped BigCommerce increase revenue and we couldn't be more thrilled. That growth is not common and by adding Payment Element, Link, and local payment methods we have seen some great results not only for our business, but forour customers as well.
+Read the full story
+The Payment Element has been crucial in helping us reach markets and surface payment methods in countries that Zoom cannot natively support.
+Read the full story
+Reduce the complexity and cost of multi-currency management with flexible cross-border payment options available in 195 countries across 135+ currencies. Stripe has extensive local acquiring coverage in markets, with direct bank setups and local knowledge.
+Adapt to customer preferences and expand into new markets by surfacing global payment methods used by buyers around the world.
+Improve conversion by presenting in local currencies using the latest exchange rate with Adaptive Pricing .
+Reduce costs when managing multiple currencies by settling and paying out funds with multi-currency settlement.
+Card
+Afterpay
+Buy now pay later
+Affirm
+Buy now pay later
+interest-free payments of $56
+. Learn more.
+After submission, you will be redirected to securely complete next steps.
+Pay $168.00
+Klarna
+Jetzt kaufen, später bezahlen
+E-Mail
+Vor- und Nachname
+Land
+Deutschland
+Nach dem Absenden werden Sie weitergeleitet, um die nächsten Schritte sicher abzuschließen.
+SEPA-Lastschrift
+Paypal
+Card
+Card Number
+Expiry Date
+CVC
+Klarna
+Buy now pay later
+Clearpay
+Buy now pay later
+Pay £235.00
+银行卡
+有效期
+CVC
+支付宝
+微信支付
+支付 ¥450.00
+Tarjeta
+Número de tarjeta
+Caducidad
+CVC
+Transferencias bancarias
+OXXO
+Pagar MXN 3,500.00
+Build a unified commerce experience across online and in-person channels to personalise customer interactions, reward loyalty, and grow revenue. Stripe Terminal’s pre-certified devices serve a wide range of use cases, from countertop to kerbside. With select readers, you can customise splash screens, collect customer input, or run your own POS app directly.
+Total
+CA$173.88
+Tap, insert, or swipe to pay
+Processing
+Approved
+CA$173.88
+Learn how Stripe customers use Terminal to accept in-person payments and improve the customer experience.
+Watch video
+## H1: Dripos unifies commerce with Stripe Terminal and Stripe Reader S700
+Watch video
+## H1: Squire uses Tap to Pay so barbers can start accepting in-person payments in minutes
+Watch video
+## H1: Dines unlocks 150% jump in revenue per venue with Stripe Terminal
+Watch video
+## H1: atVenu streamlines merchandise sales at live events with Stripe
+Turn payments into profits with Stripe’s AI-powered set of payment optimisations, fraud prevention, and business intelligence products that seamlessly balance across auth, fraud, and cost. Users see a 2.2% revenue increase and 38% lower fraud on average.
+Optimisation impact
+Adaptive Acceptance
+Network tokens
+Card account updater
+Authorization Boost
+Maximise acceptance rates with Authorization Boost
+Learn more
+Purchase Authentication
+We've sent you a text message to your registered mobile number ending in 6080
+Confirmation code
+Confirm payment
+Re-send code
+Authentication
+Learn more
+Rule performance
+Rule Matches
+Changes
+Requested 3D Secure authentication
+679
+Allow rule match
+1,015
+Block rule match
+416
+Review rule match
+1,449
+Radar
+Learn more
+Total funds won
+Won with Smart Disputes
+CA$20,901
+89%
+Won manually
+CA$2,623
+11%
+CA$6,000
+CA$4,000
+CA$2,000
+CA$0
+Dispute management
+Learn more
+Get the information you need to make data-driven decisions that can improve your payments performance. Access in-depth analytics across the payments lifecycle and measurable recommendations to increase revenue.
+Use Stripe to easily customise your payments setup with more accessible, enterprise-grade capabilities that can accelerate time to market, increase revenue, and reduce costs.
+For qualified users and where available via Stripe
+Slack increased conversion by approximately 3.5% and reduced fraud by an estimated 53% with Stripe’s Payments Intelligence Suite, including Adaptive Acceptance, network tokens, card account updater, and Radar.
+With Stripe managing both one-time payments and recurring subscriptions, CLEAR has achieved higher conversion rates. Stripe’s card account updater and network tokenisation help CLEAR protect revenue, increase authorisation rates, and reduce churn caused by changes in customers’ credit cards.
+Read the full story
+Twilio SendGrid increased conversion by 2% and reduced fraud by 90% with Stripe’s Payments Intelligence Suite, including Adaptive Acceptance, network tokens, card account updater, and Radar.
+GitHub Sponsors Program saw an increase in total contributions to developers by 52% with Stripe’s Payments Intelligence Suite – seamlessly optimising for authorisation, cost, and fraud to increase customer trust and growth.
+From startups looking to launch quickly to large, global businesses eager to improve payment economics, Stripe’s secure, unified platform is built to help your business grow efficiently.
+Avoid downtime losses even during peak periods such as Black Friday. With more than 500M API requests per day and daily capacity tests, Stripe is the only major payment processor to publish its uptime . Our overprovisioned API servers mean easy scale-up and minimal latency.
+99.999
+historical uptime for Stripe services
+Simplify compliance with an industry-leading partner certified to the highest compliance standards and operational excellence. Stripe is a member of the PCI Board of Advisors and has a 100% PCI audit success rate as a PCI Level Service Provider.
+SSAE18/SOC type and type and SSAE18/SOC type and type reports
+Money Transmitter Licences across US
+Know Your Customer and AML checks
+PSD2 and Strong Customer Authentication (SCA) compliant
+PCI DSS Level certification
+E-Money Licences in the EU and the UK
+Build on a platform designed to protect your data with AES encryption and isolated infrastructure that doesn’t share any credentials with Stripe’s primary services.
+Stripe has been named a Leader in The Forrester Wave™: Merchant Payment Providers, Q1 2026 , recognised for its vision, innovation, ease of use, and speed to value for businesses of all sizes.
+Shopify has been doing this with Stripe for almost a decade, and we trust Stripe’s DNA to always do the right thing for its customers. If you’re good at building software, you think of APIs, architecture, speed, and resilience. This is what Stripe is so good at: making the complexity of money go away, being resilient, uptime, and beautiful APIs.
+Read the full story
+Creating payments experiences that combine payments innovation, reduced friction, and cost savings is at the core of what we do. Using Link to give customers the option to easily pay with their bank accounts puts us in a position to tick all those boxes while providing access to an increasingly popular mode of payment. Stripe shares our commitment to reliability, customer centricity, and continued innovation – which is why they are a key partner.
+Read the full story
+Through one integration, we were able to increase our acceptance rates by creating a bespoke approach for each market, offering relevant local payment methods, optimising payments, and navigating 3D Secure in a user-friendly way for our customers.
+Read the full story
+If you look at every company larger than us, they all use multiple payment processors – but Stripe didn’t exist when these companies were growing up. Our feeling is that we can’t just look to what our larger peers have before us – because now Stripe is here. We’re buying into Stripe’s platform and long-term vision.
+Read the full story
+A single integration and extensive documentation mean faster time to market, less maintenance of legacy systems, and more focus on customer and product experiences.
+const stripe = require('stripe')('sk_test_EXAMPLE_KEY_REDACTED');
+// Create a payment intent to start a purchase flow.
+let paymentIntent = await stripe.paymentIntents.create({
+amount: 2000,
+currency: 'usd',
+description: 'My first payment',
+});
+// Complete the payment using a test card.
+await stripe.paymentIntents.confirm(paymentIntent.id, {
+payment_method: 'pm_card_mastercard',
+});
+Stripe.api_key = 'sk_test_EXAMPLE_KEY_REDACTED'
+# Create a payment intent to start a purchase flow.
+payment_intent = Stripe::PaymentIntent.create({
+amount: 2000,
+currency: 'usd',
+description: 'My first payment',
+# Complete the payment using a test card.
+Stripe::PaymentIntent.confirm(payment_intent.id, {
+payment_method: 'pm_card_mastercard',
+stripe.api_key = 'sk_test_EXAMPLE_KEY_REDACTED'
+# Create a payment intent to start a purchase flow.
+payment_intent = stripe.PaymentIntent.create(
+amount=2000,
+currency='usd',
+description='My first payment',
+# Complete the payment using a test card.
+stripe.PaymentIntent.confirm(
+payment_intent.id,
+payment_method='pm_card_mastercard',
+stripe.Key = "sk_test_EXAMPLE_KEY_REDACTED"
+// Create a payment intent to start a purchase flow.
+params := &stripe.PaymentIntentParams{
+Amount: stripe.Int64(2000),
+Currency: stripe.String(string(stripe.CurrencyUSD)),
+Description: stripe.String("My first payment"),
+pi, _ := paymentintent.New(params)
+// Complete the payment using a test card.
+confirmParams := &stripe.PaymentIntentConfirmParams{
+PaymentMethod: stripe.String("pm_card_mastercard"),
+paymentintent.Confirm(pi.ID, confirmParams)
+$stripe = new \Stripe\StripeClient('sk_test_EXAMPLE_KEY_REDACTED');
+// Create a payment intent to start a purchase flow.
+$payment_intent = $stripe->paymentIntents->create([
+'amount' => 2000,
+'currency' => 'usd',
+'description' => 'My first payment',
+]);
+// Complete the payment using a test card.
+$payment_intent->confirm([
+'payment_method' => 'pm_card_mastercard',
+]);
+Stripe.apiKey = "sk_test_EXAMPLE_KEY_REDACTED";
+// Create a payment intent to start a purchase flow.
+PaymentIntentCreateParams params =
+PaymentIntentCreateParams.builder()
+.setAmount(2000L)
+.setCurrency("usd")
+.setDescription("My first payment")
+.build();
+PaymentIntent paymentIntent = PaymentIntent.create(params);
+// Complete the payment using a test card.
+PaymentIntentConfirmParams confirmParams =
+PaymentIntentConfirmParams.builder()
+.setPaymentMethod("pm_card_mastercard")
+.build();
+paymentIntent.confirm(confirmParams);
+StripeConfiguration.ApiKey = "sk_test_EXAMPLE_KEY_REDACTED";
+// Create a payment intent to start a purchase flow.
+var options = new PaymentIntentCreateOptions
+Amount = 2000,
+Currency = "usd",
+Description = "My first payment",
+var service = new PaymentIntentService();
+var paymentIntent = service.Create(options);
+// Complete the payment using a test card.
+var confirmOptions = new PaymentIntentConfirmOptions
+PaymentMethod = "pm_card_mastercard",
+service.Confirm(paymentIntent.Id, confirmOptions);
+const stripe = require('stripe')('sk_test_EXAMPLE_KEY_REDACTED');
+// Create a payment intent to start a purchase flow.
+let paymentIntent = await stripe.paymentIntents.create({
+amount: 2000,
+currency: 'usd',
+description: 'My first payment',
+});
+// Complete the payment using a test card.
+await stripe.paymentIntents.confirm(paymentIntent.id, {
+payment_method: 'pm_card_mastercard',
+});
+Explore specific products and features and how they can benefit your business. Or, if you’re new to payments, read our guides to learn more about the fundamentals.
+Access a complete payments solution with simple, pay-as-you-go pricing that lets you get started in minutes with no setup fees.
+Starts at
+2.9% +
+CA$0.30
+per successful charge
+Payment method pricing
+Designed for businesses with large payments volume or unique use cases.
+Volume discounts
+Country-specific rates
+Multi-product discounts
+Interchange plus pricing
+Blog
+## H3: Using ML to detect and respond to performance degradations in slices of Stripe payments
+Customer story
+## H3: URBN consolidates $5 billion in online and in-store revenue onto Stripe
+Blog
+## H3: Testing the conversion impact of 50+ global payment methods
+Create an account and start accepting payments – no contracts or banking details required. Or, contact us to design a custom package for your business.
+Bill one-off or manage subscriptions and reduce churn.
+Easily support multiparty payments and global payouts.
+Start accepting payments
+Contact sales

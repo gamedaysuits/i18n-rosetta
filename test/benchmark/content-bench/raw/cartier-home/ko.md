@@ -1,0 +1,137 @@
+까르띠에 - 공식 온라인 부티크
+주요 콘텐츠로 건너뛰기
+## H1: homepage
+"}'
+data-tracking-id="워치"
+data-tracking-position
+data-tracking='{"trackEvent": "eePromoClick", "asyncParams": {"promoName": "data-tracking-id", "promoPosition": "data-tracking-position", "promoCreative": "--context"}}'
+셀렉션 더 알아보기
+"}'
+data-tracking-id="주얼리"
+data-tracking-position
+data-tracking='{"trackEvent": "eePromoClick", "asyncParams": {"promoName": "data-tracking-id", "promoPosition": "data-tracking-position", "promoCreative": "--context"}}'
+더 알아보기
+"}'
+data-tracking-id="어버이날"
+data-tracking-position
+data-tracking='{"trackEvent": "eePromoClick", "asyncParams": {"promoName": "data-tracking-id", "promoPosition": "data-tracking-position", "promoCreative": "--context"}}'
+더 알아보기
+"}'
+data-tracking-id="어버이날 선물"
+data-tracking-position
+data-tracking='{"trackEvent": "eePromoClick", "asyncParams": {"promoName": "data-tracking-id", "promoPosition": "data-tracking-position", "promoCreative": "--context"}}'
+어버이날 선물
+메종이 스타일리시한 컬렉션을 엄선해 어머니를 위한 선물 리스트를 준비했습니다.
+셀렉션 더 알아보기
+## H2:
+어버이날 선물
+메종이 스타일리시한 컬렉션을 엄선해 어머니를 위한 선물 리스트를 준비했습니다.
+셀렉션 더 알아보기
+"}'
+data-tracking-id="어버이날 선물"
+data-tracking-position
+data-tracking='{"trackEvent": "eePromoClick", "asyncParams": {"promoName": "data-tracking-id", "promoPosition": "data-tracking-position", "promoCreative": "--context"}}'
+어버이날 선물
+메종이 스타일리시한 컬렉션을 엄선해 아버지를 위한 선물 리스트를 준비했습니다.
+셀렉션 더 알아보기
+## H2:
+어버이날 선물
+메종이 스타일리시한 컬렉션을 엄선해 아버지를 위한 선물 리스트를 준비했습니다.
+셀렉션 더 알아보기
+트라이 온
+저스트 앵 끌루 브레이슬릿, 스몰(small) 모델, 다이아몬드
+옐로우 골드, 다이아몬드
+₩9,100,000
+사이즈 선택
+저스트 앵 끌루 브레이슬릿, 스몰(small) 모델, 다이아몬드
+₩9,100,000
+제품 정보
+제품 정보
+Label -->
+사이즈 선택
+GET NOTIFIED
+더 알아보기
+상품이 재입고될 때 알림을 받아보세요.
+현재 온라인 구매 불가
+쇼핑백에 추가하기
+사이즈를 선택해 주세요
+트라이 온
+팬더 드 까르띠에 링, 스몰(small) 모델
+옐로우 골드, 차보라이트 가넷, 오닉스
+₩6,400,000
+사이즈 선택
+팬더 드 까르띠에 링, 스몰(small) 모델
+₩6,400,000
+제품 정보
+제품 정보
+Label -->
+사이즈 선택
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+- 구매 가능 시 알림 받기
+GET NOTIFIED
+더 알아보기
+상품이 재입고될 때 알림을 받아보세요.
+현재 온라인 구매 불가
+쇼핑백에 추가하기
+사이즈를 선택해 주세요
+팬더 드 까르띠에 워치
+small 모델, 쿼츠 무브먼트, 옐로우 골드, 스틸
+₩14,900,000
+백에 추가하기
+팬더 드 까르띠에 워치
+₩14,900,000
+제품 정보
+제품 정보
+트리니티 이어링, 클래식 모델
+화이트 골드, 옐로우 골드, 핑크 골드
+₩5,850,000
+백에 추가하기
+트리니티 이어링, 클래식 모델
+₩5,850,000
+제품 정보
+제품 정보
+"}'
+data-tracking-id="그녀를 위한 향수 셀렉션"
+data-tracking-position
+data-tracking='{"trackEvent": "eePromoClick", "asyncParams": {"promoName": "data-tracking-id", "promoPosition": "data-tracking-position", "promoCreative": "--context"}}'
+그녀를 위한 향수 셀렉션
+그녀의 시그니처 향이 될 까르띠에 향수를 만나보세요.
+셀렉션 더 알아보기
+## H2:
+그녀를 위한 향수 셀렉션
+그녀의 시그니처 향이 될 까르띠에 향수를 만나보세요.
+셀렉션 더 알아보기
+"}'
+data-tracking-id="그를 위한 향수 셀렉션"
+data-tracking-position
+data-tracking='{"trackEvent": "eePromoClick", "asyncParams": {"promoName": "data-tracking-id", "promoPosition": "data-tracking-position", "promoCreative": "--context"}}'
+그를 위한 향수 셀렉션
+그만의 시그니처가 될 까르띠에 향수를 만나보세요.
+셀렉션 더 알아보기
+## H2:
+그를 위한 향수 셀렉션
+그만의 시그니처가 될 까르띠에 향수를 만나보세요.
+셀렉션 더 알아보기
+"}'
+data-tracking-id="액세서리와 향수"
+data-tracking-position
+data-tracking='{"trackEvent": "eePromoClick", "asyncParams": {"promoName": "data-tracking-id", "promoPosition": "data-tracking-position", "promoCreative": "--context"}}'
+더 알아보기
+"}'>
+Learn more about Shipping information
+카카오페이/네이버페이 간편결제
+"}'>
+Learn more about Returns information
+당일 배송 서비스
+"}'>
+Read about our Free Gift Wrapping service
+부티크 상품 픽업 서비스

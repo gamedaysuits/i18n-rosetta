@@ -1,0 +1,47 @@
+[
+  {
+    "type": "tagline",
+    "text": "Nike. Just Do It. Nike DE",
+    "index": 0
+  },
+  {
+    "type": "heading",
+    "text": "Schuhe",
+    "index": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "Schwarze Laufschuhe Weiße Laufschuhe Nike P-6000 Schuhe Nike Initiator Schuhe Nike V2K Run Schuhe Nike Shox Nike Waffle-Sneaker Nike Cortez Nike Vomero Schwarze Sneaker Nike Motiva Schuhe",
+    "index": 2
+  },
+  {
+    "type": "heading",
+    "text": "Bekleidung",
+    "index": 3
+  },
+  {
+    "type": "tagline",
+    "text": "Yoga-Hosen Trainingshosen aus Tech Fleece Tech Fleece",
+    "index": 4
+  },
+  {
+    "type": "heading",
+    "text": "Kinder",
+    "index": 5
+  },
+  {
+    "type": "tagline",
+    "text": "Schwarze Schuhe für Mädchen Schwarze Schuhe für Jungen",
+    "index": 6
+  },
+  {
+    "type": "heading",
+    "text": "Highlights",
+    "index": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "Fußballclubs Fußball Nike England Nike Run Club Nike Training Club Nike By You Schuhe",
+    "index": 8
+  }
+]

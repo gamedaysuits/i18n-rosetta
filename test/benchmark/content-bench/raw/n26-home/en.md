@@ -1,0 +1,15 @@
+N26 | An Update from N26 US
+## H1: Building the bank the world loves to use
+## H2:
+N26 is the beautifully simple, 100% mobile bank that’s trusted by millions of customers across Europe. At the moment, we’re focusing our efforts on our core markets and are no longer offering N26 accounts in the US.
+If you have any questions regarding your former account, take a look at our FAQs.
+For the latest news and information about N26, please visit our N26 blog .
+## H2: FAQs
+## H3: I was an N26 customer, what happened to my account?
+All N26 customers in the US have been sent a notification of account closure to the email address connected to their account. At this point, all accounts have been closed. If you had money in your account, we issued a check to the address we have on file with your remaining account balance.
+## H3: I don&#x27;t have access to my registered email address/registered mailing address, how do I contact you to collect my funds?
+If you need further assistance, please contact N26 customer support at support@n26.com.
+## H3: Will I still be able to access my app and transaction details if my account was closed?
+Unfortunately no. Now that all accounts are closed you will not be able to log into the N26 app or website to access historic account information. Please note, any account information needed after account closure can be requested by emailing support@n26.com
+## H3: I have another question, how can I speak to customer service?
+Please contact N26 customer support by emailing support@n26.com.

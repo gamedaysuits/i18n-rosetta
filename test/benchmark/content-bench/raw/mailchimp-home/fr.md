@@ -1,0 +1,311 @@
+Plateforme d’emailing et SMS | Mailchimp
+Passer au contenu principal
+Inscrivez-vous sur Mailchimp avec un essai gratuit de jours ou économisez % sur plus de 000 contacts. Commercer maintenant.
+Inscrivez-vous sur Mailchimp et profitez d’un essai gratuit de jours sans risque, sans carte bancaire requise.. Commencer maintenant
+La première plateforme dautomatisation et de marketing par e-mail alimentée par lIA## H1: Un marketing par e-mail et SMS performant, sans phase d’apprentissage.
+Stimulez votre chiffre d’affaires grâce à des analyses marketing intuitives, des automatisations et des outils d’IA.
+Essai gratuit
+Mailchimp a une note de quatre étoiles et demie
+Basé sur 900+ Vérifier à travers le monde
+E-MAILS ET SMS POUR L’E-COMMERCE
+## H1: Une croissance sans effort, grâce à vos données
+Utilisez vos données pour alimenter des automatisations permanentes qui contribuent à améliorer le ROI des commerces de toutes tailles.
+Démarrer l’essai gratuit
+Mailchimp a une note de quatre étoiles et demie
+Basé sur 900+ Vérifier à travers le monde
+E-MAILS ET SMS POUR LES PETITES ENTREPRISES
+## H1: Un marketing assisté par IA qui attire les clients jusqu’à votre porte
+Découvrez des moyens efficaces pour élargir votre audience, affiner votre stratégie et fidéliser vos clients à votre petite entreprise.
+Démarrer l’essai gratuit
+Mailchimp a une note de quatre étoiles et demie
+Basé sur 900+ Vérifier à travers le monde
+## H1: Maintenez l’engagement de votre communauté grâce à des outils qui facilitent l’envoi d’e-mails.
+L’envoi d’e-mails est désormais plus facile. La plateforme assistée par IA de Mailchimp peut aider les organisations à but non lucratif et autres associations communautaires à gagner du temps.
+Démarrer l’essai gratuit
+Mailchimp a une note de quatre étoiles et demie
+Basé sur 900+ Vérifier à travers le monde
+E-MAILS ET SMS POUR LES PROFESSIONNELS
+## H1: Entretenez les relations avec vos clients, élargissez votre liste et développez votre activité
+Les entreprises de services professionnels utilisent des e-mails et SMS assistés par IA pour stimuler leur ROI auprès de leurs clients nouveaux et existants.
+Démarrer l’essai gratuit
+Mailchimp a une note de quatre étoiles et demie
+Basé sur 900+ Vérifier à travers le monde
+MARKETING PAR E-MAIL POUR LES CRÉATEURS DE CONTENU
+## H1: Développez votre liste, apprenez à connaître votre audience et augmentez votre ROI
+Mailchimp exploite la puissance des données comportementales en temps réel pour susciter et renouveler l’intérêt des abonnés à votre contenu.
+Démarrer l’essai gratuit
+Mailchimp a une note de quatre étoiles et demie
+Basé sur 900+ Vérifier à travers le monde
+## H2: Recommandé pour votre entreprise
+Personnaliser mon expérience
+## H3:
+Atteignez plus de clients grâce aux SMS
+Boostez vos résultats et utilisez les SMS intégrés pour atteindre votre audience avec le bon message sur le bon appareil.
+Découvrez le marketing par SMS
+## H3:
+Découvrez de nouvelles façons de stimuler vos ventes
+Utilisez des outils assistés par IA pour créer des e-mails efficaces et ciblés qui transforment les visiteurs en acheteurs.
+En savoir plus sur la stimulation des ventes
+## H3:
+Gagnez du temps sur les tâches répétitives
+Utilisez des automatisations permanentes pour générer du chiffre d’affaires sans que vous et votre équipe ayez à y consacrer trop d’attention.
+Découvrez les automatisations marketing
+## H3:
+Envoyez facilement du contenu de haute qualité
+Grâce à notre éditeur graphique, nos outils assistés par IA et plus de 300 superbes modèles, la conception d’e-mails devient un jeu d’enfant.
+Découvrir nos outils de création de contenu
+## H3:
+Visualisez d’un seul coup d’œil ce qui fonctionne
+Éliminez les approximations de votre marketing. Mailchimp vous permet de mesurer facilement l’impact de chaque envoi.
+Explorer les analyses et les rapports
+## H3:
+Personnalisez chaque interaction
+Libérez le potentiel de vos données client pour stimuler la croissance grâce à des outils qui facilitent la segmentation.
+Comprendre votre audience
+## H3:
+Développez votre liste de contacts
+Recueillez les coordonnées et les données essentielles des clients grâce à des formulaires contextuels et intégrés faciles à créer.
+Découvrez les formulaires contextuels
+## H3:
+Bénéficiez d’une assistance primée
+Chaque plan Mailchimp payant comprend une assistance par chat en direct et par e-mail 24h/24 7j/7\. Nous sommes là pour vous aider, à toute heure du jour et de la nuit.
+Voir les options dassistance
+## H3:
+Changer de fournisseur, c’est simple comme bonjour
+Transférez facilement votre liste de contacts et vos ressources grâce à une assistance dédiée à la prise en main et à des outils de migration.
+Découvrir les outils de migration
+## H3:
+Découvrez plus de 300 intégrations
+Mailchimp s’intègre parfaitement aux applications et plateformes déjà utilisées par votre entreprise.
+Consulter la bibliothèque d’intégrations
+Voir les tarifs
+Retail et ecommerce
+Hôtellerie, restauration, événements, etc.
+Organisation communautaire ou à but non lucratif
+Services professionnels
+Contenu ou produits numériques
+Autre
+Quelles sont les trois principales choses que vous souhaitez accomplir ?
+Sélectionnez jusqu’à
+Gagnez du temps grâce à lautomatisation
+Attirer plus de clients
+Optimiser les performances marketing
+Envoyer des campagnes SMS
+Gérer vos relations avec la clientèle
+Concevoir des emails efficaces
+Passer à un autre outil marketing
+## H2: Un marketing qui donne des résultats
+Depuis ans, Mailchimp aide des millions d’entreprises à obtenir plus d’ouvertures, de clics et de ventes.
+## H3: % de clics en plus
+Les clients ont constaté une augmentation de % du taux de clics lorsqu’ils utilisaient à la fois les e-mails et les SMS.## H3: ROI jusqu’à fois supérieur
+Les entreprises d’e-commerce obtiennent un ROI jusqu’à foissupérieur grâce au plan Standard de Mailchimp.
+## H3: Taux de distribution de %
+Les clients observent un taux de distribution des e-mails transactionnels de 99,99 %.## H3: Utilisez des outils dIA puissants
+Nos clients ont envoyé plus de 9,8 milliards d'e-mails avec du contenu généré par l'IA.## H2: Commencez facilement avec une présentation personnalisée du produit
+En souscrivant un plan Standard ou Premium, vous bénéficiez de l'accompagnement d'un spécialiste de l'onboarding pour apprendre à utiliser notre plateforme.
+En savoir plus sur l’intégration
+Essai gratuit
+Essai gratuit sans risques
+Économisez % sur plus de 000+ contacts
+## H2:
+Essayez notre plan Standard gratuitement !
+Découvrez pourquoi nos clients bénéficient d’un retour sur investissement jusqu’à fois supérieuren utilisant le plan Standard avec un essai sans risque de jours†. Annulez votre abonnement ou déclassez votre compte vers un plan Essentiels ou Gratuit à tout moment.
+Découvrez pourquoi nos clients bénéficient d’un retour sur investissement jusqu’à fois supérieuren utilisant le plan Standard avec un essai sans risque de jours†. Annulez votre abonnement ou déclassez votre compte vers un plan Essentiels ou Gratuit à tout moment.
+Découvrez pourquoi nos clients enregistrent un retour sur investissement jusqu’à fois supérieuravec le plan Standard, accessible via un essai gratuit de jours†. Annulez votre abonnement ou déclassez votre compte vers un plan Essentiels ou Gratuit à tout moment.
+Découvrez pourquoi nos clients enregistrent un retour sur investissement jusqu’à fois supérieuravec le plan Standard, accessible via un essai gratuit de jours†. Annulez votre abonnement ou déclassez votre compte vers un plan Essentiels ou Gratuit à tout moment.
+## H2:
+Obtenez % de réduction sur notre plan Standard
+Les entreprises disposant de plus de 000 contacts peuvent économiser 15% sur leurs premiers mois.† Conservez votre réduction si vous passez à Premium ou Essentiels. Annulez votre abonnement ou déclassez votre compte vers un plan gratuit à tout moment.
+Les entreprises disposant de plus de 000 contacts peuvent économiser 15% sur leurs premiers mois.† Conservez votre réduction si vous passez à Premium ou Essentiels. Annulez votre abonnement ou déclassez votre compte vers un plan gratuit à tout moment.
+Dépensez moins pour vous développer davantage avec % de réduction pendant mois, même si vous passez à nos plans Premium ou Essentials . Annulez votre abonnement ou déclassez votre compte vers un plan gratuit à tout moment.
+Dépensez moins pour vous développer davantage avec % de réduction pendant mois, même si vous passez à nos plans Premium ou Essentials . Annulez votre abonnement ou déclassez votre compte vers un plan gratuit à tout moment.
+Fonctionnalités d'IA générative
+Des informations exploitables sur la croissance de l'audience et les entonnoirs de conversion
+Automatisations améliorées
+Modèles d'e-mails à code personnalisé
+Formulaires contextuels personnalisables
+Intégration personnalisée
+Voir tous les plans
+$ AUD
+R$ BRL
+$ CAD
+CHF CHF
+DKK kr
+€ EUR
+£ GBP
+$ HKD
+₹ INR
+¥ JPY
+$ MXN
+$ NZD
+SEK kr
+$ SGD
+$ USD
+R ZAR
+Fréquence de facturation
+Enregistrements annuels 20%
+Rapports mensuels
+## H2:
+Standard
+Envoyez jusqu'à 000 e-mails chaque mois. Envoyez jusqu’à 100 e-mails sans risque, sans aucune carte bancaire nécessaire. Enregistrez un mode de paiement pour profiter de 900 envois pour le reste de votre essai gratuit.
+Vous avez besoin de gérer plus de contacts ? Prenez contact avec nous pour en savoir plus sur les plans personnalisés.
+Contacts
+Contacts
+0-500
+501-1 500
+501-2 500
+501-5 000
+001-10 000
+001-15 000
+001-20 000
+001-25 000
+001-30 000
+001-40 000
+001-50 000
+001-75 000
+001-100 000
+100 001-130 000
+130 001-150 000
+150 001-200 000
+200 001-250 000
+250 001-500 000
+500 001-1 000 000
+000 000+
+Gratuit pendant jours
+Enregistrer {saveAmount}/an
+Essai gratuit
+Essayez Gratuit pendant jours
+Gratuit
+pendant jours
+Ensuite, à partir de :
+/mois†
+par mois†
+Économisez % sur plus de 000+ contacts
+Économisez % sur plus de 000+ contacts
+/mois pendant mois
+par mois pendant mois
+Ensuite, à partir de :
+/mois†
+par mois†
+Essai gratuit
+Essai gratuit
+Acheter
+Acheter
+Limite de contacts dépassée
+Limite
+Sans risque  Aucune carte bancaire nécessaire.
+Économisez % pendant mois
+†Voir les conditions de l’essai gratuit . Envoyez 100 e-mails sans donner vos informations de paiement. Des majorations s’appliquent si la limite d’envoi d’e-mails ou de contacts est dépassée.
+En savoir plus
+†Voir les conditions de l’essai gratuit . Des majorations s’appliquent si la limite d’envoi d’e-mails ou de contacts est dépassée.
+En savoir plus
+†See Gratuit Trial Terms . Envoyé jusqu'à 100 e-mails sans info de paiement. L'envoi sera mis en pause si la limite de contact ou d'e-mail Envoyé est dépassée.
+En savoir plus
+†Voir les conditions de l’essai gratuit . Les envois seront mis en pause en cas de dépassement de la limite de contacts ou d'envois d'e-mails.
+En savoir plus
+†Voir les conditions de l'essai gratuit . Des frais supplémentaires s'appliquent en cas de dépassement de la limite de contacts ou d'envois d'e-mails.
+En savoir plus
+†Voir les conditions de l’essai gratuit . Des majorations s’appliquent si la limite d’envoi d’e-mails ou de contacts est dépassée.
+En savoir plus
+†Voir les conditions de l’essai gratuit . Des majorations s’appliquent si la limite d’envoi d’e-mails ou de contacts est dépassée.
+En savoir plus
+†Voir les conditions de l’offre . Des frais supplémentaires s'appliquent en cas de dépassement de la limite de contacts ou d'envois d'e-mails.
+En savoir plus
+Voir tous les plans
+## H2:
+Économisez % sur la meilleure plateforme de croissance assistée par des experts
+Suscitez l’intérêt de votre audience et augmentez vos ventes avec % de réduction sur vos premiers mois†. De plus, bénéficiez de l'assistance de nos experts pour vous aider à migrer vos données et vous fournir des conseils stratégiques - une exclusivité du plan Premium.
+## H2:
+Économisez % sur la meilleure plateforme de croissance assistée par des experts
+Suscitez l’intérêt de votre audience et augmentez vos ventes avec % de réduction sur vos premiers mois†. De plus, bénéficiez de l'assistance de nos experts pour vous aider à migrer vos données et vous fournir des conseils stratégiques - une exclusivité du plan Premium.
+Assistance téléphonique prioritaire
+Formulaires contextuels
+Tests multivariés et A/B
+Flux d’automatisation marketing améliorés
+Intégration personnalisée dédiée
+Segmentation prédictive
+Vous souhaitez développer votre liste de contacts ? Appelez le 1800 433 7197 pour des tarifs personnalisés, des offres annuelles, des démonstrations, etc. Contactez le service commercial .
+$ AUD
+R$ BRL
+$ CAD
+CHF CHF
+DKK kr
+€ EUR
+£ GBP
+$ HKD
+₹ INR
+¥ JPY
+$ MXN
+$ NZD
+SEK kr
+$ SGD
+$ USD
+R ZAR
+Fréquence de facturation
+Enregistrements annuels 20%
+Rapports mensuels
+## H2:
+Premium
+Envoyez jusqu'à 150 000 e-mails chaque mois.
+Vous avez besoin de gérer plus de contacts ? Prenez contact avec nous pour en savoir plus sur les plans personnalisés.
+Contacts
+Contacts
+0-500
+501-1 500
+501-2 500
+501-5 000
+001-10 000
+001-15 000
+001-20 000
+001-25 000
+001-30 000
+001-40 000
+001-50 000
+001-75 000
+001-100 000
+100 001-130 000
+130 001-150 000
+150 001-200 000
+200 001-250 000
+250 001-500 000
+500 001-1 000 000
+000 000+
+Enregistrer {saveAmount}/an
+Économisez % sur plus de 000+ contacts
+479
+/mois pendant mois
+par mois pendant mois
+Ensuite, à partir de :
+/mois†
+par mois†
+Acheter
+Acheter
+Demander démo
+Appelez le 1800 433 7197
+† Overages Appliquer si contact ou e-mail Envoyé la limite est dépassée.
+En savoir plus
+† L'envoi sera mis en pause si la limite de contact ou d'e-mail Envoyé est dépassée.
+En savoir plus
+†Voir les conditions de l’offre . Des frais supplémentaires s'appliquent en cas de dépassement de la limite de contacts ou d'envois d'e-mails.
+En savoir plus
+Vous souhaitez développer votre liste de contacts ? Appelez le 1800 433 7197 pour des tarifs personnalisés, des offres annuelles, des démonstrations, etc. Contactez le service commercial .
+## H2:
+Avec prise en charge de plus de 300 intégrations
+## H2: Des millions dutilisateurs nous font confiance pour leur marketing par e-mail. Alors, nattendez plus !
+Essai gratuit
+Clauses de non-responsabilité
+La première plateforme de marketing par e-mail alimentée par l'IA : sur la base des données publiques de décembre 2023 concernant le nombre de clients des concurrents qui annoncent également utiliser l'IA pour améliorer leurs produits et services de marketing par e-mail et d'automatisation.
+Première plateforme de marketing par e-mail et d’automatisation : d’après les données accessibles au public de mai 2025 concernant le nombre de clients des concurrents.
+Marketing par SMS : les SMS sont disponibles en tant que module complémentaire des plans payants pour certains pays. L'application et l'acceptation des conditions sont requises avant d'acheter des crédits. Les messages ne peuvent être envoyés qu'aux contacts dans le pays sélectionné. Les messages en Australie ne sont disponibles que pour les contacts dont le numéro commence par l'indicatif +61. Les crédits SMS sont ajoutés à votre compte une fois l'achat effectué et l'approbation obtenue. Les crédits sont émis mensuellement. Les crédits non utilisés expirent et ne sont pas reconduits. Les MMS ne sont disponibles que pour les plans Standard et Premium pour l'envoi de messages aux contacts situés aux États-Unis et au Canada. Les prix varient. Cliquez ici pour en savoir plus.
+Intuit Assist : la fonctionnalité Intuit Assist (bêta) est disponible en anglais uniquement pour certains utilisateurs ayant un plan Premium, un plan Standard ou un ancien plan dans certains pays. L'accès à Intuit Assist est actuellement disponible sans frais supplémentaires. Les tarifs, conditions, fonctionnalités spéciales et options de service sont susceptibles d'être modifiés sans préavis. La disponibilité des fonctionnalités et des options dépend du type de plan. Les fonctionnalités pourraient être disponibles prochainement, mais ne constituent pas une obligation et ne doivent pas être utilisées pour prendre une décision d'achat.
+Intégration personnalisée : les services d'intégration diffèrent selon le plan et sont disponibles pour les utilisateurs nouveaux ou mis à niveau disposant d'un plan Standard ou Premium, pendant les premiers jours suivant la création ou la mise à niveau du compte. Les services d'intégration sont actuellement proposés en anglais, en espagnol et en portugais pour les plans Premium, et en anglais pour les plans Standard.
+Hausse de % du taux de clics : chiffre basé sur les utilisateurs aux États-Unis ayant envoyé des campagnes par e-mail et par SMS, par rapport aux utilisateurs n’ayant envoyé que des campagnes par e-mail entre le 1er août 2023 et le janvier 2025.
+ROI multiplié par : sur la base de tous les chiffres d’affaires d’e-commerce attribuables aux campagnes Mailchimp des utilisateurs de plans payants d’août 2024 à aout 2025. Le calcul du retour sur investissement nécessite une boutique e-commerce connectée à un compte Mailchimp. Les résultats peuvent varier.
+ROI multiplié par avec le plan Standard : sur la base de tous les chiffres d'affaires d'e-commerce attribuables aux campagnes par e-mail Mailchimp des utilisateurs de plans payants du 01/12/2024 au 30/11/2025.
+La disponibilité des fonctionnalités et des options dépend du type de plan. Pour obtenir plus d'informations, consultez les plans et les tarifs.
+3,1 milliards d'e-mails envoyés : sur la base de la fonctionnalité InLine AI Assistant entre décembre 2023 et août 2024. Plans Standard et Premium uniquement.
+Formulaires contextuels (bêta) : disponibilité très limitée pour les utilisateurs nouveaux et existants de Mailchimp et sur les navigateurs Web uniquement. Il est possible que ces fonctionnalités soient bientôt plus largement disponibles, mais elles ne constituent pas une obligation et ne doivent pas être utilisées pour prendre une décision d'achat. La disponibilité des fonctionnalités et des options dépend du type de plan. Pour en savoir plus, consultez les plans et les tarifs .
+Conditions de l’essai gratuit :
+Essai gratuit sans carte bancaire : si vous bénéficiez d’un essai gratuit du plan Standard ou Essentiels (chacun étant un « plan marketing payant ») sans carte bancaire lors de l’inscription, vous pouvez envoyer jusqu’à 100 e-mails, y compris les envois groupés et les envois automatisés. L’ajout d’une carte bancaire pendant votre essai gratuit débloque les limites d’envoi d’e-mails de votre plan en fonction de votre tranche de contacts. Une fois votre essai gratuit terminé, votre carte bancaire sera débitée mensuellement ou annuellement au tarif en vigueur pour le plan marketing payant que vous avez choisi (en fonction de votre tranche de contacts et des envois d’e-mails), à moins que vous ne supprimiez votre compte Mailchimp, changiez de plan ou passiez à un plan marketing gratuit. Ajouter le marketing par SMS à votre plan marketing pendant votre essai gratuit nécessite une carte bancaire et active les limites complètes d’envoi d’e-mails de votre plan en fonction de votre tranche de contacts pour la durée de votre essai gratuit. Les frais de marketing par SMS ne sont pas inclus dans l’essai gratuit et vous serez facturé pour les crédits que vous achetez une fois votre demande d’inscription approuvée lors de votre essai gratuit. Voir les conditions complètes de l’offre . Les termes, conditions, prix, fonctionnalités spéciales et options de service et d’assistance peuvent être modifiés sans préavis.
+Conditions de l’essai gratuit :
+Essai gratuit sans carte bancaire : si vous bénéficiez d’un essai gratuit du plan Standard ou Essentiels (chacun étant un « plan marketing payant ») sans carte bancaire lors de l’inscription, vous pouvez envoyer jusqu’à 000 e-mails, y compris les envois groupés et les envois automatisés. L’ajout d’une carte bancaire pendant votre essai gratuit débloque les limites d’envoi d’e-mails de votre plan en fonction de votre tranche de contacts. Une fois votre essai gratuit terminé, votre carte bancaire sera débitée mensuellement ou annuellement au tarif en vigueur pour le plan marketing payant que vous avez choisi (en fonction de votre tranche de contacts et des envois d’e-mails), à moins que vous ne supprimiez votre compte Mailchimp, changiez de plan ou passiez à un plan marketing gratuit. Ajouter le marketing par SMS à votre plan marketing pendant votre essai gratuit nécessite une carte bancaire et active les limites complètes d’envoi d’e-mails de votre plan en fonction de votre tranche de contacts pour la durée de votre essai gratuit. Les frais de marketing par SMS ne sont pas inclus dans l’essai gratuit et vous serez facturé pour les crédits que vous achetez une fois votre demande d’inscription approuvée lors de votre essai gratuit. Voir les conditions complètes de l’offre . Les termes, conditions, prix, fonctionnalités spéciales et options de service et d’assistance peuvent être modifiés sans préavis.

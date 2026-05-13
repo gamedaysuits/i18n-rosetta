@@ -1,0 +1,88 @@
+お問い合わせ先 - Spotify
+## H1: Spotifyについて
+Spotifyなら、スマートフォン、パソコン、タブレットなどを使って、どんな瞬間にもぴったりの音楽やポッドキャストを簡単に見つけられます。
+Spotifyには、数千万以上の音楽やコンテンツが揃っています。ドライブ、エクササイズ、パーティタイムやリラックスタイムなど、その時の気分に合った音楽やポッドキャストを、ワンタップで楽しめます。自分で聴きたいコンテンツを選ぶだけではなく、Spotifyのおすすめもぜひお試しください。きっと新しい大好きに出会えます。
+友達、アーティスト、セレブが作ったプレイリストを聴いたり、ラジオステーションを作ったりして楽しむこともできます。
+Spotifyで音楽いっぱいの毎日を！定期購入またはフリープランを選択できます。
+## H2: カスタマーサービスとサポート
+サポートサイト 。Spotifyのサポートサイトでは、質問に対する回答や、Spotifyを最大限に楽しむ方法をチェックできます。
+コミュニティ 。Spotifyのエキスパートユーザーから、迅速なサポートを受けられます。質問に対する回答が見つからない場合は、質問を投稿すると、他のユーザーからすぐに回答をもらえます。また、Spotifyでの新しいアイディアについて提案や投票をしたり、他のファンと音楽について語り合ったりすることもできます。
+お問い合わせフォーム 。サポートサイトやコミュニティで解決策が見つからない場合は、Spotifyのカスタマーサポートにお問い合わせください。
+## H2: トピック別のサポート
+Spotifyでの広告配信については、 広告主向けのページ をご覧ください。
+プレスチームへのお問い合わせについては、 プレス向けのページ をご利用ください。
+求人情報については、 採用情報ページ をご確認ください。 Spotify USA, Inc.は、アメリカのお客様にサービスを提供しています。Spotify ABは、その他の国のお客様にサービスを提供しています。
+## H1: Spotify 本社
+Spotify AB
+Regeringsgatan
+SE-111 Stockholm
+Sweden
+Reg no: 556703-7485
+office@spotify.com
+## H1: 世界各国のSpotify
+Spotify Belgium
+Square de Meeus
+4th floor
+1000 Brussels
+Belgium
+office@spotify.com Spotify GmbH
+Unter den Linden
+10117 Berlin
+Germany
+office@spotify.com Spotify Canada Inc.
+220 Adelaide Street West
+M5H 1W7 Toronto Ontario
+Canada
+office@spotify.com Spotify Denmark ApS
+Kampmannsgade 2,
+1604 Copenhagen
+Denmark
+office@spotify.com SPOTIFY SPAIN SL
+Paseo de Recoletos, 7-9
+28004 Madrid
+Spain
+office@spotify.com Spotify Finland Oy
+c/o Intertrust (Finland)
+Uudenmaankatu 1-5
+00120 Helsinki
+Finland
+office@spotify.com Spotify France SAS
+Rue la Bruyère
+75009
+Paris
+France
+office@spotify.com Spotify India LLP
+Jet Airways - Godrej BKC
+1st Floor, Unit and 2,
+Plot C-68, G Block, Bandra Kurla Complex, Bandra East,
+Mumbai Suburban 400051
+Maharashtra
+India
+office@spotify.com Spotify Italy S.r.l.
+Via Joe Colombo
+20124 Milano
+Italy
+office@spotify.com Spotify Netherlands
+Singel 540 3h
+1017AZ, Amsterdam
+Netherlands
+office@spotify.com Spotify Ltd
+Adelphi Building
+Savoy Place
+London WC2N 6AT
+United Kingdom
+office@spotify.com Spotify USA Inc
+World Trade Center
+150 Greenwich Street, 62nd Floor
+New York, NY 10007
+USA
+office@spotify.com Spotify Mexico
+Pedregal Torre Virreyes Piso
+Col. Molino del Rey
+DF 11040
+Mexico
+office@spotify.com Spotify Israel
+office@spotify.com Spotify Technology S.A.
+Boulevard Prince Henri
+L-1724 Luxembourg
+office@spotify.com

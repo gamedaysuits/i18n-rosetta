@@ -1,0 +1,80 @@
+McDonald's Deutschland
+Beschenk dich selbst mit dem Purple Menü ...</h2>\r\n,dc:description:<p>... oder teile dein Glück mit dem Kauf eines Grimace Schlüsselanhängers mit der McDonald’s Kinderhilfe Stiftung.</p>\r\n,xdm:linkURL:/de/de-de/kampagnen/grimace.html}}" data-component="teaser">
+## H2: Beschenk dich selbst mit dem Purple Menü ...
+... oder teile dein Glück mit dem Kauf eines Grimace Schlüsselanhängers mit der McDonald’s Kinderhilfe Stiftung.
+Mehr erfahren
+In teilnehmenden Restaurants. Solange der Vorrat reicht.
+© 2026 McDonald’s
+<span class=\heading-2\>Die Coca-Cola® Gläser sind zurück!</span></p>\r\n,dc:description:<p>Jetzt neu: Starte deine Sammlung noch heute mit unseren exklusiven Coca-Cola® Gläsern. Nur in der App.</p>\r\n,xdm:linkURL:/de/de-de/kampagnen/coca-cola-glaeser.html}}" data-component="teaser">
+Die Coca-Cola® Gläser sind zurück!
+Jetzt neu: Starte deine Sammlung noch heute mit unseren exklusiven Coca-Cola® Gläsern. Nur in der App.
+Ab in die App!
+Coca-Cola ist eine eingetragene Schutzmarke der The Coca-Cola Company.   © 2026 McDonald’s
+Die neuen McCafé Drinks!</h2>\r\n,dc:description:<p>Egal ob Energizer, Refresher oder Coffee Specials - wir haben den perfekten Drink für deinen Genuss-Moment!</p>\r\n,xdm:linkURL:/de/de-de/kampagnen/beverages2026.html}}" data-component="teaser">
+## H2: Die neuen McCafé Drinks!
+Egal ob Energizer, Refresher oder Coffee Specials - wir haben den perfekten Drink für deinen Genuss-Moment!
+Mehr entdecken
+Aromatisierte Erfrischungsgetränke in verschiedenen Geschmacksrichtungen.
+Solange der Vorrat reicht. In allen teilnehmenden Restaurants.
+Sprite ist eine eingetragene Schutzmarke der The Coca-Cola Company.
+<span class=\heading-2\>100% McDonald’s Geschmack. Auch dauerhaft in veggie.</span></p>\r\n,dc:description:<p>Probiere jetzt unsere vegetarischen Leckerbissen in echter McDonald’s Qualität.</p>\r\n,xdm:linkURL:/de/de-de/kampagnen/veggie.html}}" data-component="teaser">
+100% McDonald’s Geschmack. Auch dauerhaft in veggie.
+Probiere jetzt unsere vegetarischen Leckerbissen in echter McDonald’s Qualität.
+Jetzt entdecken
+In allen teilnehmenden Restaurants. In Frühstücksrestaurants ab 10:30 Uhr. © 2026 McDonald’s
+<span class=\heading-2\>Tauche ein in Den \u000BSuper Mario Galaxy Film!</span></p>\r\n,dc:description:<p>Jetzt von Spielzeuganhängern \u000Bim Happy Meal®.</p>\r\n,xdm:linkURL:/de/de-de/familien/happy-meal/spielzeug.html}}" data-component="teaser">
+Tauche ein in Den Super Mario Galaxy Film!
+Jetzt von Spielzeuganhängern im Happy Meal®.
+Zum Spielzeug
+In Frühstücksrestaurants ab 10:30 Uhr. Ein Spielzeug oder Buch in jedem Happy Meal. Solange der Vorrat reicht.
+-->
+Grimace
+-->
+Coke
+-->
+McCafe
+-->
+McWrap
+-->
+Happy Meal
+Anhalten
+Wiedergabe
+</p>\r\n}}" data-component="text" id="text-6227f2ccb5" class="cmp-text">
+</p>\r\n}}" data-component="text" id="text-a439ea6b2b" class="cmp-text">
+## H2: Was gibt's Neues?
+Einfach in der App vorbestellen und bezahlen</h2>\r\n,dc:description:<p>Du liebst es entspannt? Dann bestelle deine Lieblingsprodukte jetzt bequem vor und bezahle über die McDonald's App.</p>\r\n,xdm:linkURL:/de/de-de/mymcdonalds.html}}" data-component="teaser">
+## H2: Einfach in der App vorbestellen und bezahlen
+Du liebst es entspannt? Dann bestelle deine Lieblingsprodukte jetzt bequem vor und bezahle über die McDonald's App.
+Mehr zur App
+Nur für registrierte App-User in ausgewählten Restaurants. App erhätlich im Apple Store und Google Play Store.
+Heute mal Ruhe? Heute McDelivery®!</h2>\r\n,dc:description:<p>Filmabend, Spielabend, Feierabend: McDelivery® bringt dein McDonald’s nach Hause – schnell, unkompliziert, lecker. Jetzt bestellen und genießen.</p>\r\n,xdm:linkURL:https://mcdelivery.de/}}" data-component="teaser">
+## H2: Heute mal Ruhe? Heute McDelivery®!
+Filmabend, Spielabend, Feierabend: McDelivery® bringt dein McDonald’s nach Hause – schnell, unkompliziert, lecker. Jetzt bestellen und genießen.
+Zu McDelivery®
+<b>Nachhaltigkeit zum Hierlesen oder Mitnehmen</b></h2>\r\n,dc:description:<p>Unsere Produkte? Kennst du sicher alle. Aber was steckt dahinter, wo kaufen wir ein und wie funktioniert das mit der Nachhaltigkeit bei McDonald’s?</p>\r\n,xdm:linkURL:/content/dam/sites/de/nfl/better-m/251216_McD_CR_Update.pdf}}" data-component="teaser">
+## H2: Nachhaltigkeit zum Hierlesen oder Mitnehmen
+Unsere Produkte? Kennst du sicher alle. Aber was steckt dahinter, wo kaufen wir ein und wie funktioniert das mit der Nachhaltigkeit bei McDonald’s?
+Hier erfährst du mehr
+</p>\r\n}}" data-component="text" id="text-2907f7d0ec" class="cmp-text">
+</p>\r\n}}" data-component="text" id="text-2375f32855" class="cmp-text">
+## H2: Schon probiert?
+An alle Chicken-Lover: Hier seid ihr goldrichtig!</h2>\r\n,dc:description:<p>Ob im Bun, im Wrap oder als Fingerfood - unser tasty, juicy, crispy Chicken kommt immer so, wie du es gerade am meisten liebst.</p>\r\n,xdm:linkURL:/de/de-de/kampagnen/immergoldrichtig.html}}" data-component="teaser">
+## H2: An alle Chicken-Lover: Hier seid ihr goldrichtig!
+Ob im Bun, im Wrap oder als Fingerfood - unser tasty, juicy, crispy Chicken kommt immer so, wie du es gerade am meisten liebst.
+Jetzt entdecken
+In allen teilnehmenden Restaurants. In Frühstücksrestaurants ab 10:30 Uhr. Nur solange der Vorrat reicht. ©2026 McDonald’s
+Geschmack, den du liebst. Auch dauerhaft in veggie.</h2>\r\n,dc:description:<p>Unsere neuen Veggie-Produkte sind gekommen, um zu bleiben – und jetzt schon moderne Klassiker. Jetzt probieren!</p>\r\n,xdm:linkURL:/de/de-de/kampagnen/veggie.html}}" data-component="teaser">
+## H2: Geschmack, den du liebst. Auch dauerhaft in veggie.
+Unsere neuen Veggie-Produkte sind gekommen, um zu bleiben – und jetzt schon moderne Klassiker. Jetzt probieren!
+Jetzt entdecken
+In allen teilnehmenden Restaurants. In Frühstücksrestaurants ab 10:30 Uhr. © 2026 McDonald’s
+Jeden Morgen bis 10:30 Uhr</h2>\r\n,dc:description:<p>Entdecke täglich unsere leckeren Frühstücksangebote. Ob süß, salzig, warm oder kalt – auch für dich ist bestimmt etwas dabei!</p>\r\n,xdm:linkURL:/de/de-de/kampagnen/fruehstueck.html}}" data-component="teaser">
+## H2: Jeden Morgen bis 10:30 Uhr
+Entdecke täglich unsere leckeren Frühstücksangebote. Ob süß, salzig, warm oder kalt – auch für dich ist bestimmt etwas dabei!
+Zum Frühstück
+Dein McMenü®: Jetzt noch bunter!</h2>\r\n,dc:description:<p>Stelle dir dein Menü zusammen – ab jetzt mit noch mehr Kombinationsmöglichkeiten. Ganz nach deinem Geschmack!</p>\r\n,xdm:linkURL:/de/de-de/produkte/alle-produkte/mcmenu.html}}" data-component="teaser">
+## H2: Dein McMenü®: Jetzt noch bunter!
+Stelle dir dein Menü zusammen – ab jetzt mit noch mehr Kombinationsmöglichkeiten. Ganz nach deinem Geschmack!
+Zum McMenü®
+## H2:
+Jetzt App laden und entspannt bestellen

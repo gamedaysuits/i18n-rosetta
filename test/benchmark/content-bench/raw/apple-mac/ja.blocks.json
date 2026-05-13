@@ -1,0 +1,412 @@
+[
+  {
+    "type": "tagline",
+    "text": "Mac - Apple（日本） Macを学割で購入できます 。 今すぐ見る",
+    "index": 0
+  },
+  {
+    "type": "heading",
+    "text": "Mac",
+    "index": 1
+  },
+  {
+    "type": "heading",
+    "text": "ラインナップはこちら。",
+    "index": 2
+  },
+  {
+    "type": "tagline",
+    "text": "すべての製品 ノートブック デスクトップ ディスプレイ New",
+    "index": 3
+  },
+  {
+    "type": "heading",
+    "text": "MacBook Neo",
+    "index": 4
+  },
+  {
+    "type": "tagline",
+    "text": "シルバー ブラッシュ シトラス インディゴ Macのワクワクを、う⁠れ⁠し⁠い⁠プ⁠ラ⁠イ⁠ス⁠で⁠。 さらに詳しく 購入 New",
+    "index": 5
+  },
+  {
+    "type": "heading",
+    "text": "13インチと15インチ",
+    "index": 6
+  },
+  {
+    "type": "paragraph",
+    "text": "MacBook Air スカイブルー シルバー スターライト ミッドナイト 薄い。速い。パワフルなポ⁠ー⁠タ⁠ブ⁠ルマ⁠シ⁠ン⁠。 さらに詳しく 購入 New",
+    "index": 7
+  },
+  {
+    "type": "heading",
+    "text": "14インチと16インチ",
+    "index": 8
+  },
+  {
+    "type": "tagline",
+    "text": "MacBook Pro スペースブラック シルバー 負荷の高いタスクも余裕。 最も進化したMacノ⁠ー⁠ト⁠ブ⁠ッ⁠ク⁠。 さらに詳しく 購入",
+    "index": 9
+  },
+  {
+    "type": "heading",
+    "text": "iMac",
+    "index": 10
+  },
+  {
+    "type": "tagline",
+    "text": "シルバー 創造力と生産性を高める オールインワンデ⁠ス⁠ク⁠ト⁠ッ⁠プ⁠。 さらに詳しく 購入",
+    "index": 11
+  },
+  {
+    "type": "heading",
+    "text": "Mac mini",
+    "index": 12
+  },
+  {
+    "type": "tagline",
+    "text": "最も小さく手に入れやすい Macデスクトップ。 さらに詳しく 購入",
+    "index": 13
+  },
+  {
+    "type": "heading",
+    "text": "Mac Studio",
+    "index": 14
+  },
+  {
+    "type": "tagline",
+    "text": "パワフルな性能と接続性。 プロのためのデ⁠ス⁠ク⁠ト⁠ッ⁠プ⁠。 さらに詳しく 購入 New",
+    "index": 15
+  },
+  {
+    "type": "heading",
+    "text": "Studio Display",
+    "index": 16
+  },
+  {
+    "type": "tagline",
+    "text": "Macにぴったりの5K Retinaデ⁠ィ⁠ス⁠プ⁠レ⁠イ⁠。 さらに詳しく 購入 New",
+    "index": 17
+  },
+  {
+    "type": "heading",
+    "text": "Studio Display XDR",
+    "index": 18
+  },
+  {
+    "type": "tagline",
+    "text": "クリエイティブワークとプロの現⁠場⁠に最⁠適⁠。 究⁠極⁠の5K Retina XDRデ⁠ィ⁠ス⁠プ⁠レ⁠イ⁠。 さらに詳しく 購入 New",
+    "index": 19
+  },
+  {
+    "type": "heading",
+    "text": "MacBook Neo",
+    "index": 20
+  },
+  {
+    "type": "tagline",
+    "text": "シルバー ブラッシュ シトラス インディゴ Macのワクワクを、う⁠れ⁠し⁠い⁠プ⁠ラ⁠イ⁠ス⁠で⁠。 さらに詳しく 購入 New",
+    "index": 21
+  },
+  {
+    "type": "heading",
+    "text": "13インチと15インチ",
+    "index": 22
+  },
+  {
+    "type": "paragraph",
+    "text": "MacBook Air スカイブルー シルバー スターライト ミッドナイト 薄い。速い。パワフルなポ⁠ー⁠タ⁠ブ⁠ルマ⁠シ⁠ン⁠。 さらに詳しく 購入 New",
+    "index": 23
+  },
+  {
+    "type": "heading",
+    "text": "14インチと16インチ",
+    "index": 24
+  },
+  {
+    "type": "tagline",
+    "text": "MacBook Pro スペースブラック シルバー 負荷の高いタスクも余裕。 最も進化したMacノ⁠ー⁠ト⁠ブ⁠ッ⁠ク⁠。 さらに詳しく 購入",
+    "index": 25
+  },
+  {
+    "type": "heading",
+    "text": "iMac",
+    "index": 26
+  },
+  {
+    "type": "tagline",
+    "text": "シルバー 創造力と生産性を高める オールインワンデ⁠ス⁠ク⁠ト⁠ッ⁠プ⁠。 さらに詳しく 購入",
+    "index": 27
+  },
+  {
+    "type": "heading",
+    "text": "Mac mini",
+    "index": 28
+  },
+  {
+    "type": "tagline",
+    "text": "最も小さく手に入れやすい Macデスクトップ。 さらに詳しく 購入",
+    "index": 29
+  },
+  {
+    "type": "heading",
+    "text": "Mac Studio",
+    "index": 30
+  },
+  {
+    "type": "tagline",
+    "text": "パワフルな性能と接続性。 プロのためのデ⁠ス⁠ク⁠ト⁠ッ⁠プ⁠。 さらに詳しく 購入 New",
+    "index": 31
+  },
+  {
+    "type": "heading",
+    "text": "Studio Display",
+    "index": 32
+  },
+  {
+    "type": "tagline",
+    "text": "Macにぴったりの5K Retinaデ⁠ィ⁠ス⁠プ⁠レ⁠イ⁠。 さらに詳しく 購入 New",
+    "index": 33
+  },
+  {
+    "type": "heading",
+    "text": "Studio Display XDR",
+    "index": 34
+  },
+  {
+    "type": "tagline",
+    "text": "クリエイティブワークとプロの現⁠場⁠に最⁠適⁠。 究⁠極⁠の5K Retina XDRデ⁠ィ⁠ス⁠プ⁠レ⁠イ⁠。 さらに詳しく 購入",
+    "index": 35
+  },
+  {
+    "type": "heading",
+    "text": "新しいMacを ​ 購⁠入⁠す⁠る⁠な⁠ら A⁠p⁠p⁠l⁠e⁠で⁠。 ​ 理⁠由⁠を⁠紹⁠介⁠し⁠ま⁠す⁠。",
+    "index": 36
+  },
+  {
+    "type": "tagline",
+    "text": "Macを見る",
+    "index": 37
+  },
+  {
+    "type": "heading",
+    "text": "クレジットカードとペイディ",
+    "index": 38
+  },
+  {
+    "type": "tagline",
+    "text": "金利0％の分割払い。 対象のクレジットカードまたはペイディあと払いプランApple専用なら、金利0%の分割払いで購入できま﻿す﻿ 。",
+    "index": 39
+  },
+  {
+    "type": "heading",
+    "text": "学生・教職員価格",
+    "index": 40
+  },
+  {
+    "type": "tagline",
+    "text": "新しいMacを学割で 購入できます。 学生はもちろん、教職員の方々なども対象で﻿す﻿ 。 学生・教職員価格についてさらに詳しく",
+    "index": 41
+  },
+  {
+    "type": "heading",
+    "text": "パーソナルセットアップ",
+    "index": 42
+  },
+  {
+    "type": "tagline",
+    "text": "パーソナルセ⁠ッ⁠ト⁠ア⁠ッ⁠プ⁠で⁠、新⁠し⁠い⁠M⁠a⁠c⁠を使⁠い⁠こ⁠な⁠そ⁠う⁠。 データ移行や最新機能の使い方などのサポートを一対一で受けられま⁠す⁠。 あなたの新しいMacについてさらに詳しく",
+    "index": 43
+  },
+  {
+    "type": "heading",
+    "text": "Macのカスタマイズ",
+    "index": 44
+  },
+  {
+    "type": "paragraph",
+    "text": "Macのカスタマイズ。 チップ、メモリ、 ​ ス⁠ト⁠レ⁠ー⁠ジ⁠、 ​ そ⁠し⁠て⁠カ⁠ラ⁠ー⁠も ​ 選⁠べ⁠ま⁠﻿⁠す⁠﻿⁠。 Macのカスタマイズについてさらに詳しく",
+    "index": 45
+  },
+  {
+    "type": "heading",
+    "text": "配送と受け取り",
+    "index": 46
+  },
+  {
+    "type": "tagline",
+    "text": "最短で翌日に 無料でお届け。 ご注文はすべて送料無料。最短で翌日にお届けしま﻿す﻿。 配送と受け取りのオプションについてさらに詳しく",
+    "index": 47
+  },
+  {
+    "type": "heading",
+    "text": "スペシャリストとショッピング",
+    "index": 48
+  },
+  {
+    "type": "tagline",
+    "text": "あなたの質問にお⁠答⁠え⁠し⁠ま⁠す⁠。 オンラインでもお近くのApple Storeでも、スペシャリストと一対一のショッピングを楽しめます。 ビデオ通話を利用したスペシャリストとのショッピングについてさらに詳しく",
+    "index": 49
+  },
+  {
+    "type": "heading",
+    "text": "Apple Store App",
+    "index": 50
+  },
+  {
+    "type": "paragraph",
+    "text": "あなただけのシ⁠ョ⁠ッ⁠ピ⁠ン⁠グ ​ 体⁠験⁠を ​ ど⁠う⁠ぞ⁠。 Apple Store Appを使えば、よりパーソナルな方法でショッピングを楽しめま﻿す﻿。 Apple Store Appでの購入についてさらに詳しく",
+    "index": 51
+  },
+  {
+    "type": "heading",
+    "text": "Macの魅力を ​ 紹⁠介⁠し⁠ま⁠す⁠。",
+    "index": 52
+  },
+  {
+    "type": "heading",
+    "text": "パフォーマンスとバッテリー",
+    "index": 53
+  },
+  {
+    "type": "tagline",
+    "text": "もっと速く。もっと自由に。",
+    "index": 54
+  },
+  {
+    "type": "heading",
+    "text": "AIのために設計",
+    "index": 55
+  },
+  {
+    "type": "tagline",
+    "text": "スマート。安全。 すべてをデバイス上で。",
+    "index": 56
+  },
+  {
+    "type": "heading",
+    "text": "macOSとApple Intelligence",
+    "index": 57
+  },
+  {
+    "type": "tagline",
+    "text": "すぐに使える。 ​ 好⁠き⁠に⁠な⁠る⁠。",
+    "index": 58
+  },
+  {
+    "type": "heading",
+    "text": "Mac + iPhone",
+    "index": 59
+  },
+  {
+    "type": "tagline",
+    "text": "連係する。驚きが広がる。",
+    "index": 60
+  },
+  {
+    "type": "heading",
+    "text": "互換性",
+    "index": 61
+  },
+  {
+    "type": "tagline",
+    "text": "お気に入りのアプリを Macでも使える。",
+    "index": 62
+  },
+  {
+    "type": "heading",
+    "text": "プライバシーとセキュリティ",
+    "index": 63
+  },
+  {
+    "type": "tagline",
+    "text": "あなたの情報は、 あなただけのもの。",
+    "index": 64
+  },
+  {
+    "type": "heading",
+    "text": "耐久性",
+    "index": 65
+  },
+  {
+    "type": "tagline",
+    "text": "いつまでも使えるように 作りました。",
+    "index": 66
+  },
+  {
+    "type": "heading",
+    "text": "Appleの取り組み",
+    "index": 67
+  },
+  {
+    "type": "tagline",
+    "text": "あらゆる活動に、 Appleの価値観を。",
+    "index": 68
+  },
+  {
+    "type": "heading",
+    "text": "Macへの乗り換え。",
+    "index": 69
+  },
+  {
+    "type": "paragraph",
+    "text": "Apple Trade Inで ​ お⁠使⁠い⁠の⁠デ⁠バ⁠イ⁠ス⁠を ​ 下⁠取⁠り⁠に⁠出⁠す⁠と⁠、 ​ 新⁠し⁠い⁠デ⁠バ⁠イ⁠ス⁠か⁠ら ​ 下⁠取⁠り⁠額⁠分⁠が ​ 割⁠引⁠さ⁠れ⁠ま⁠す⁠。 ​ 下⁠取⁠り⁠の⁠対⁠象⁠に ​ な⁠ら⁠な⁠い ​ A⁠p⁠p⁠l⁠e⁠製⁠デ⁠バ⁠イ⁠ス⁠は⁠、 ​ 私⁠た⁠ち⁠が ​ 無⁠料⁠で⁠リ⁠サ⁠イ⁠ク⁠ル⁠し⁠ま⁠﻿⁠す⁠﻿ ﻿⁠。 下取り額を確認する Macへの乗り換えは簡単。理⁠由⁠を⁠紹⁠介⁠し⁠ま⁠す⁠。 さらに詳しく",
+    "index": 70
+  },
+  {
+    "type": "heading",
+    "text": "相性抜群です。",
+    "index": 71
+  },
+  {
+    "type": "tagline",
+    "text": "キーボードやマウスなど、手放せなくなる ​ ア⁠イ⁠テ⁠ム⁠が⁠勢⁠ぞ⁠ろ⁠い⁠。 Macアクセサリを見る 27インチの5K Retinaデ⁠ィ⁠ス⁠プ⁠レ⁠イ⁠は⁠、 M⁠a⁠c⁠と⁠強⁠力⁠なペ⁠ア⁠に⁠な⁠り⁠ま⁠す⁠。 さらに詳しく",
+    "index": 72
+  },
+  {
+    "type": "heading",
+    "text": "Appleの世界に飛⁠び⁠込⁠も⁠う⁠。",
+    "index": 73
+  },
+  {
+    "type": "tagline",
+    "text": "Apple製デバイスのより高度な連係に⁠つ⁠い⁠てさ⁠ら⁠に⁠詳⁠し⁠く",
+    "index": 74
+  },
+  {
+    "type": "heading",
+    "text": "MacとiPhone",
+    "index": 75
+  },
+  {
+    "type": "tagline",
+    "text": "iPhoneにかかってきた電話や届いたメッセージにMacで直接応答する。iPhoneミラーリングやライブアクティビティで、MacからiPhoneの画面を見たり操作する。ユニバーサルクリップボードを使って、iPhone上でコピーした画像、ビデオ、テキストを、近くにあるMacの別のアプリにペーストする。iCloudに保存したファイルに、iPhoneとMacのどちらからでもアクセスする。できることは、ほかにもたくさ⁠ん⁠。",
+    "index": 76
+  },
+  {
+    "type": "heading",
+    "text": "MacとiPad",
+    "index": 77
+  },
+  {
+    "type": "tagline",
+    "text": "iPadで描いたスケッチを瞬時にMacに映し出す。Macで作業しながら別のスクリーンを見られるように、iPadを2台目のディスプレイとして使う。iPadで始めたプレゼンテーションやE﻿メールなどを、Macで完成させることもできま﻿す﻿。",
+    "index": 78
+  },
+  {
+    "type": "heading",
+    "text": "MacとApple Watch",
+    "index": 79
+  },
+  {
+    "type": "tagline",
+    "text": "Apple Watchを身につけていると、あなたのMacに自動ロック解除でスムーズにログインできます。パスワード入力は必要な﻿し﻿。",
+    "index": 80
+  },
+  {
+    "type": "heading",
+    "text": "Mac",
+    "index": 81
+  }
+]

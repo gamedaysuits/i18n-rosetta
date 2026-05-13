@@ -1,0 +1,3359 @@
+{
+  "timestamp": "2026-05-06T07:58:42.647Z",
+  "totalSites": 98,
+  "completed": 98,
+  "totalOk": 282,
+  "totalErr": 214,
+  "sites": {
+    "apple-iphone": {
+      "domain": "apple.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.apple.com/iphone/",
+          "blocks": 56,
+          "words": 903
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.apple.com/fr/iphone/",
+          "blocks": 53,
+          "words": 788
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.apple.com/de/iphone/",
+          "blocks": 47,
+          "words": 644
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.apple.com/jp/iphone/",
+          "blocks": 58,
+          "words": 301
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.apple.com/es/iphone/",
+          "blocks": 47,
+          "words": 713
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.apple.com/kr/iphone/",
+          "blocks": 48,
+          "words": 677
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.apple.com/cn/iphone/",
+          "blocks": 58,
+          "words": 436
+        }
+      }
+    },
+    "apple-ipad": {
+      "domain": "apple.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.apple.com/ipad/",
+          "blocks": 53,
+          "words": 620
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.apple.com/fr/ipad/",
+          "blocks": 55,
+          "words": 669
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.apple.com/de/ipad/",
+          "blocks": 55,
+          "words": 604
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.apple.com/jp/ipad/",
+          "blocks": 55,
+          "words": 231
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.apple.com/es/ipad/",
+          "blocks": 55,
+          "words": 641
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.apple.com/kr/ipad/",
+          "blocks": 55,
+          "words": 573
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.apple.com/cn/ipad/",
+          "blocks": 53,
+          "words": 247
+        }
+      }
+    },
+    "apple-mac": {
+      "domain": "apple.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.apple.com/mac/",
+          "blocks": 82,
+          "words": 835
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.apple.com/fr/mac/",
+          "blocks": 82,
+          "words": 963
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.apple.com/de/mac/",
+          "blocks": 82,
+          "words": 814
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.apple.com/jp/mac/",
+          "blocks": 82,
+          "words": 374
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.apple.com/es/mac/",
+          "blocks": 82,
+          "words": 876
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.apple.com/kr/mac/",
+          "blocks": 82,
+          "words": 789
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.apple.com/cn/mac/",
+          "blocks": 82,
+          "words": 418
+        }
+      }
+    },
+    "apple-watch": {
+      "domain": "apple.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.apple.com/apple-watch-series-10/",
+          "blocks": 48,
+          "words": 525
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.apple.com/fr/apple-watch-series-10/",
+          "blocks": 46,
+          "words": 515
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.apple.com/de/apple-watch-series-10/",
+          "blocks": 48,
+          "words": 473
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.apple.com/jp/apple-watch-series-10/",
+          "blocks": 50,
+          "words": 245
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.apple.com/es/apple-watch-series-10/",
+          "blocks": 48,
+          "words": 528
+        }
+      }
+    },
+    "apple-privacy": {
+      "domain": "apple.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.apple.com/privacy/",
+          "blocks": 46,
+          "words": 480
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.apple.com/fr/privacy/",
+          "blocks": 40,
+          "words": 505
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.apple.com/de/privacy/",
+          "blocks": 40,
+          "words": 430
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.apple.com/jp/privacy/",
+          "blocks": 39,
+          "words": 263
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.apple.com/es/privacy/",
+          "blocks": 36,
+          "words": 396
+        }
+      }
+    },
+    "apple-airpods": {
+      "domain": "apple.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.apple.com/airpods/",
+          "blocks": 21,
+          "words": 510
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.apple.com/fr/airpods/",
+          "blocks": 21,
+          "words": 563
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.apple.com/de/airpods/",
+          "blocks": 21,
+          "words": 478
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.apple.com/jp/airpods/",
+          "blocks": 21,
+          "words": 280
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.apple.com/es/airpods/",
+          "blocks": 21,
+          "words": 584
+        }
+      }
+    },
+    "samsung-tv": {
+      "domain": "samsung.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.samsung.com/us/tvs/",
+          "blocks": 45,
+          "words": 1269
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.samsung.com/fr/televisions/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.samsung.com/de/fernseher/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "samsung-smartphones": {
+      "domain": "samsung.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.samsung.com/us/smartphones/",
+          "blocks": 58,
+          "words": 2014
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.samsung.com/fr/smartphones/",
+          "blocks": 22,
+          "words": 1106
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.samsung.com/de/smartphones/",
+          "blocks": 20,
+          "words": 532
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.samsung.com/es/smartphones/",
+          "blocks": 30,
+          "words": 3636
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.samsung.com/kr/smartphones/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "microsoft-surface": {
+      "domain": "microsoft.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.microsoft.com/en-us/surface",
+          "blocks": 3,
+          "words": 2194
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.microsoft.com/fr-fr/surface",
+          "blocks": 1,
+          "words": 945
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.microsoft.com/de-de/surface",
+          "blocks": 1,
+          "words": 788
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.microsoft.com/ja-jp/surface",
+          "blocks": 1,
+          "words": 572
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.microsoft.com/es-es/surface",
+          "blocks": 1,
+          "words": 878
+        }
+      }
+    },
+    "google-pixel": {
+      "domain": "store.google.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.store.google.com/us/category/phones",
+          "error": "getaddrinfo ENOTFOUND www.store.google.com"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.store.google.com/fr/category/phones",
+          "error": "getaddrinfo ENOTFOUND www.store.google.com"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.store.google.com/de/category/phones",
+          "error": "getaddrinfo ENOTFOUND www.store.google.com"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.store.google.com/jp/category/phones",
+          "error": "getaddrinfo ENOTFOUND www.store.google.com"
+        }
+      }
+    },
+    "bose-home": {
+      "domain": "bose.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.bose.com/home",
+          "blocks": 13,
+          "words": 603
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.bose.com/fr/home",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.bose.com/de/home",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "sony-headphones": {
+      "domain": "sony.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.sony.com/en/headphones",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.sony.com/fr/headphones",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.sony.com/de/headphones",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.sony.com/ja/headphones",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "lg-tv": {
+      "domain": "lg.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.lg.com/us/tvs",
+          "blocks": 14,
+          "words": 1338
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.lg.com/fr/tvs",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.lg.com/de/tvs",
+          "error": "HTTP 404"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.lg.com/kr/tvs",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "canon-cameras": {
+      "domain": "canon.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.canon.com/en/cameras",
+          "error": "HTTP 404"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.canon.com/fr/cameras",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.canon.com/de/cameras",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.canon.com/ja/cameras",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "mercedes-vehicles": {
+      "domain": "mercedes-benz.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.mercedes-benz.com/en/vehicles.html",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.mercedes-benz.com/fr/vehicles.html",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.mercedes-benz.com/de/vehicles.html",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.mercedes-benz.com/ja/vehicles.html",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "bmw-models": {
+      "domain": "bmw.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.bmw.com/en/models.html",
+          "blocks": 1,
+          "words": 182
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.bmw.com/fr/models.html",
+          "blocks": 1,
+          "words": 182
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.bmw.com/de/models.html",
+          "blocks": 1,
+          "words": 182
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.bmw.com/ja/models.html",
+          "blocks": 1,
+          "words": 320
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.bmw.com/es/models.html",
+          "blocks": 1,
+          "words": 182
+        }
+      }
+    },
+    "audi-models": {
+      "domain": "audi.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.audi.com/en/models.html",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.audi.com/fr/models.html",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.audi.com/de/models.html",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.audi.com/es/models.html",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "porsche-models": {
+      "domain": "porsche.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.porsche.com/international/models/",
+          "blocks": 5,
+          "words": 54
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.porsche.com/france/models/",
+          "blocks": 5,
+          "words": 60
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.porsche.com/germany/models/",
+          "blocks": 5,
+          "words": 50
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.porsche.com/japan/models/",
+          "blocks": 5,
+          "words": 20
+        }
+      }
+    },
+    "volvo-cars": {
+      "domain": "volvocars.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.volvocars.com/us/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.volvocars.com/fr/",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.volvocars.com/de/",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.volvocars.com/jp/",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.volvocars.com/es/",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "hyundai-vehicles": {
+      "domain": "hyundai.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.hyundai.com/us/en/vehicles",
+          "error": "HTTP 404"
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.hyundai.com/fr/fr/vehicles",
+          "blocks": 13,
+          "words": 1234
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.hyundai.com/de/de/vehicles",
+          "error": "HTTP 404"
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.hyundai.com/kr/ko/vehicles",
+          "blocks": 21,
+          "words": 321
+        }
+      }
+    },
+    "toyota-home": {
+      "domain": "toyota.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.toyota.com/",
+          "blocks": 23,
+          "words": 1997
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.toyota.fr",
+          "blocks": 3,
+          "words": 106
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.toyota.de",
+          "blocks": 1,
+          "words": 50
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.toyota.jp",
+          "error": "Hostname/IP does not match certificate's altnames: Host: www.toyota.jp. is not in the cert's altnames: DNS:toyota.jp, DNS:etoyota.net, DNS:www.toyota.co.jp, DNS:cpo.lexus.jp"
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.toyota.es",
+          "blocks": 1,
+          "words": 58
+        }
+      }
+    },
+    "volkswagen-models": {
+      "domain": "volkswagen.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.volkswagen.com/en/models.html",
+          "blocks": 53,
+          "words": 659
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.volkswagen.com/fr/models.html",
+          "blocks": 53,
+          "words": 659
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.volkswagen.com/de/models.html",
+          "blocks": 53,
+          "words": 659
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.volkswagen.com/es/models.html",
+          "blocks": 53,
+          "words": 659
+        }
+      }
+    },
+    "kia-vehicles": {
+      "domain": "kia.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.kia.com/us/home",
+          "error": "HTTP 404"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.kia.com/fr/home",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.kia.com/de/home",
+          "error": "HTTP 404"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.kia.com/kr/home",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "tesla-models": {
+      "domain": "tesla.com",
+      "industry": "auto",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.tesla.com/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.tesla.com/fr_fr/",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.tesla.com/de_de/",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.tesla.com/ja_jp/",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.tesla.com/es_es/",
+          "error": "HTTP 403"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.tesla.com/zh_cn/",
+          "error": "HTTP 403"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.tesla.com/ko_kr/",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "nike-home": {
+      "domain": "nike.com",
+      "industry": "fashion",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.nike.com/",
+          "blocks": 11,
+          "words": 118
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.nike.com/fr/",
+          "blocks": 9,
+          "words": 85
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.nike.com/de/",
+          "blocks": 9,
+          "words": 74
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.nike.com/jp/",
+          "blocks": 11,
+          "words": 112
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.nike.com/es/",
+          "blocks": 9,
+          "words": 85
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.nike.com/kr/",
+          "blocks": 5,
+          "words": 38
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.nike.com/cn/",
+          "blocks": 13,
+          "words": 56
+        }
+      }
+    },
+    "dyson-home": {
+      "domain": "dyson.com",
+      "industry": "tech",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.dyson.com/en",
+          "error": "TIMEOUT"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.dyson.com/fr",
+          "error": "TIMEOUT"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.dyson.com/de",
+          "error": "TIMEOUT"
+        }
+      }
+    },
+    "ikea-home": {
+      "domain": "ikea.com",
+      "industry": "retail",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.ikea.com/us/en/",
+          "blocks": 98,
+          "words": 1706
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.ikea.com/fr/fr/",
+          "blocks": 105,
+          "words": 1479
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.ikea.com/de/de/",
+          "blocks": 84,
+          "words": 1290
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.ikea.com/jp/ja/",
+          "blocks": 81,
+          "words": 513
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.ikea.com/es/es/",
+          "blocks": 79,
+          "words": 1493
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.ikea.com/kr/ko/",
+          "blocks": 57,
+          "words": 556
+        }
+      }
+    },
+    "adidas-home": {
+      "domain": "adidas.com",
+      "industry": "fashion",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.adidas.com/us",
+          "error": "TIMEOUT"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.adidas.fr",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.adidas.de",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.adidas.jp",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.adidas.es",
+          "error": "HTTP 403"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.adidas.co.kr",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "zara-home": {
+      "domain": "zara.com",
+      "industry": "fashion",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.zara.com/us/en/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.zara.com/fr/fr/",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.zara.com/de/de/",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.zara.com/jp/ja/",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.zara.com/es/es/",
+          "error": "HTTP 403"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.zara.com/kr/ko/",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "lululemon-home": {
+      "domain": "lululemon.com",
+      "industry": "fashion",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.lululemon.com/",
+          "error": "TIMEOUT"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.lululemon.com/fr/",
+          "error": "TIMEOUT"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.lululemon.com/de/",
+          "error": "TIMEOUT"
+        }
+      }
+    },
+    "patagonia-footprint": {
+      "domain": "patagonia.com",
+      "industry": "fashion",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.patagonia.com/our-footprint/",
+          "blocks": 9,
+          "words": 157
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.patagonia.jp/our-footprint/",
+          "blocks": 9,
+          "words": 157
+        }
+      }
+    },
+    "northface-home": {
+      "domain": "thenorthface.com",
+      "industry": "fashion",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.thenorthface.com/en-us",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.thenorthface.com/fr-fr",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.thenorthface.com/de-de",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.thenorthface.com/ja-jp",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.thenorthface.com/es-es",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "sephora-home": {
+      "domain": "sephora.com",
+      "industry": "beauty",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.sephora.com/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.sephora.fr",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.sephora.de",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.sephora.es",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "loreal-home": {
+      "domain": "loreal.com",
+      "industry": "beauty",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.loreal.com/en/",
+          "blocks": 1,
+          "words": 261
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.loreal.com/fr/",
+          "blocks": 1,
+          "words": 263
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.loreal.com/de/",
+          "blocks": 1,
+          "words": 261
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.loreal.com/ja/",
+          "blocks": 1,
+          "words": 261
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.loreal.com/es/",
+          "blocks": 1,
+          "words": 261
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.loreal.com/zh/",
+          "blocks": 1,
+          "words": 91
+        }
+      }
+    },
+    "uniqlo-home": {
+      "domain": "uniqlo.com",
+      "industry": "fashion",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.uniqlo.com/us/en/",
+          "error": "TIMEOUT"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.uniqlo.com/fr/fr/",
+          "error": "TIMEOUT"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.uniqlo.com/de/de/",
+          "error": "TIMEOUT"
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.uniqlo.com/jp/ja/",
+          "blocks": 3,
+          "words": 60
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.uniqlo.com/kr/ko/",
+          "error": "TIMEOUT"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.uniqlo.com/cn/zh/",
+          "error": "TIMEOUT"
+        }
+      }
+    },
+    "hm-home": {
+      "domain": "hm.com",
+      "industry": "fashion",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.hm.com/en_us/",
+          "error": "TIMEOUT"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.hm.com/fr_fr/",
+          "error": "TIMEOUT"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.hm.com/de_de/",
+          "error": "TIMEOUT"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.hm.com/ja_jp/",
+          "error": "TIMEOUT"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.hm.com/es_es/",
+          "error": "TIMEOUT"
+        }
+      }
+    },
+    "stripe-home": {
+      "domain": "stripe.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.stripe.com/en-us",
+          "blocks": 98,
+          "words": 1714
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.stripe.com/fr",
+          "blocks": 96,
+          "words": 2147
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.stripe.com/de",
+          "blocks": 98,
+          "words": 1798
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.stripe.com/ja",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.stripe.com/es",
+          "blocks": 98,
+          "words": 2192
+        }
+      }
+    },
+    "lego-home": {
+      "domain": "lego.com",
+      "industry": "retail",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.lego.com/en-us",
+          "blocks": 102,
+          "words": 936
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.lego.com/fr-fr",
+          "blocks": 80,
+          "words": 1068
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.lego.com/de-de",
+          "blocks": 86,
+          "words": 969
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.lego.com/ja-jp",
+          "blocks": 82,
+          "words": 397
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.lego.com/es-es",
+          "blocks": 80,
+          "words": 1034
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.lego.com/ko-kr",
+          "blocks": 80,
+          "words": 745
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.lego.com/zh-cn",
+          "blocks": 7,
+          "words": 18
+        }
+      }
+    },
+    "stripe-payments": {
+      "domain": "stripe.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.stripe.com/en-us/payments",
+          "blocks": 15,
+          "words": 2449
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.stripe.com/fr/payments",
+          "blocks": 15,
+          "words": 3059
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.stripe.com/de/payments",
+          "blocks": 15,
+          "words": 2530
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.stripe.com/ja/payments",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.stripe.com/es/payments",
+          "blocks": 15,
+          "words": 3155
+        }
+      }
+    },
+    "notion-product": {
+      "domain": "notion.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.notion.com/product",
+          "blocks": 15,
+          "words": 411
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.notion.com/fr/product",
+          "blocks": 15,
+          "words": 550
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.notion.com/de/product",
+          "blocks": 15,
+          "words": 391
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.notion.com/ja/product",
+          "blocks": 15,
+          "words": 136
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.notion.com/es/product",
+          "blocks": 15,
+          "words": 580
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.notion.com/ko/product",
+          "blocks": 15,
+          "words": 399
+        }
+      }
+    },
+    "shopify-home": {
+      "domain": "shopify.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.shopify.com/",
+          "blocks": 44,
+          "words": 624
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.shopify.com/fr",
+          "blocks": 42,
+          "words": 678
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.shopify.com/de",
+          "blocks": 42,
+          "words": 580
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.shopify.com/ja",
+          "blocks": 44,
+          "words": 624
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.shopify.com/es",
+          "blocks": 44,
+          "words": 753
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.shopify.com/ko",
+          "error": "HTTP 404"
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.shopify.com/zh",
+          "blocks": 42,
+          "words": 237
+        }
+      }
+    },
+    "figma-home": {
+      "domain": "figma.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.figma.com/",
+          "blocks": 48,
+          "words": 511
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.figma.com/fr/",
+          "blocks": 48,
+          "words": 595
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.figma.com/de/",
+          "blocks": 48,
+          "words": 523
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.figma.com/ja/",
+          "blocks": 48,
+          "words": 200
+        }
+      }
+    },
+    "canva-home": {
+      "domain": "canva.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.canva.com/",
+          "blocks": 3,
+          "words": 60
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.canva.com/fr_fr/",
+          "blocks": 3,
+          "words": 66
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.canva.com/de_de/",
+          "blocks": 3,
+          "words": 65
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.canva.com/ja_jp/",
+          "blocks": 3,
+          "words": 14
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.canva.com/es_es/",
+          "blocks": 3,
+          "words": 73
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.canva.com/ko_kr/",
+          "blocks": 3,
+          "words": 47
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.canva.com/zh_cn/",
+          "blocks": 3,
+          "words": 19
+        }
+      }
+    },
+    "slack-home": {
+      "domain": "slack.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.slack.com/",
+          "blocks": 29,
+          "words": 971
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.slack.com/intl/fr-fr/",
+          "blocks": 29,
+          "words": 1269
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.slack.com/intl/de-de/",
+          "blocks": 29,
+          "words": 1041
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.slack.com/intl/ja-jp/",
+          "blocks": 29,
+          "words": 326
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.slack.com/intl/es-es/",
+          "blocks": 29,
+          "words": 1230
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.slack.com/intl/ko-kr/",
+          "blocks": 29,
+          "words": 863
+        }
+      }
+    },
+    "zoom-home": {
+      "domain": "zoom.us",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.zoom.us/",
+          "blocks": 35,
+          "words": 1375
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.zoom.us/fr/",
+          "blocks": 35,
+          "words": 1869
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.zoom.us/de/",
+          "blocks": 35,
+          "words": 1671
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.zoom.us/ja/",
+          "blocks": 35,
+          "words": 391
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.zoom.us/es/",
+          "blocks": 35,
+          "words": 1816
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.zoom.us/ko/",
+          "blocks": 35,
+          "words": 1409
+        }
+      }
+    },
+    "dropbox-home": {
+      "domain": "dropbox.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.dropbox.com/",
+          "blocks": 36,
+          "words": 519
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.dropbox.com/fr/",
+          "blocks": 34,
+          "words": 572
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.dropbox.com/de/",
+          "blocks": 34,
+          "words": 497
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.dropbox.com/ja/",
+          "blocks": 32,
+          "words": 145
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.dropbox.com/es/",
+          "blocks": 34,
+          "words": 549
+        }
+      }
+    },
+    "mailchimp-home": {
+      "domain": "mailchimp.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.mailchimp.com/",
+          "blocks": 21,
+          "words": 2568
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.mailchimp.com/fr/",
+          "blocks": 21,
+          "words": 3260
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.mailchimp.com/de/",
+          "blocks": 23,
+          "words": 2685
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.mailchimp.com/es/",
+          "blocks": 21,
+          "words": 3186
+        }
+      }
+    },
+    "hubspot-home": {
+      "domain": "hubspot.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.hubspot.com/",
+          "blocks": 50,
+          "words": 871
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.hubspot.com/fr/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.hubspot.com/de/",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.hubspot.com/ja/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.hubspot.com/es/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "squarespace-home": {
+      "domain": "squarespace.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.squarespace.com/",
+          "blocks": 115,
+          "words": 2512
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.squarespace.com/fr",
+          "blocks": 115,
+          "words": 3083
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.squarespace.com/de",
+          "blocks": 101,
+          "words": 2626
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.squarespace.com/ja",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.squarespace.com/es",
+          "blocks": 115,
+          "words": 3002
+        }
+      }
+    },
+    "coca-cola-home": {
+      "domain": "coca-cola.com",
+      "industry": "food",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.coca-cola.com/",
+          "blocks": 7,
+          "words": 173
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.coca-cola.com/fr/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.coca-cola.com/de/",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.coca-cola.com/ja/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.coca-cola.com/es/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "wix-home": {
+      "domain": "wix.com",
+      "industry": "saas",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.wix.com/",
+          "blocks": 112,
+          "words": 2977
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.wix.com/fr",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.wix.com/de",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.wix.com/ja",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.wix.com/es",
+          "error": "HTTP 404"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.wix.com/ko",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "nestle-home": {
+      "domain": "nestle.com",
+      "industry": "food",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.nestle.com/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.nestle.com/fr/",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.nestle.com/de/",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.nestle.com/ja/",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.nestle.com/es/",
+          "error": "HTTP 403"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.nestle.com/zh/",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "starbucks-home": {
+      "domain": "starbucks.com",
+      "industry": "food",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.starbucks.com/",
+          "blocks": 14,
+          "words": 271
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.starbucks.fr",
+          "blocks": 20,
+          "words": 251
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.starbucks.de",
+          "blocks": 46,
+          "words": 429
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.starbucks.co.jp",
+          "blocks": 5,
+          "words": 518
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.starbucks.co.kr",
+          "blocks": 0,
+          "words": 1
+        }
+      }
+    },
+    "mcdonalds-home": {
+      "domain": "mcdonalds.com",
+      "industry": "food",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.mcdonalds.com/",
+          "blocks": 21,
+          "words": 843
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.mcdonalds.fr",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.mcdonalds.de",
+          "blocks": 23,
+          "words": 753
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.mcdonalds.co.jp",
+          "blocks": 49,
+          "words": 336
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.mcdonalds.es",
+          "blocks": 21,
+          "words": 323
+        }
+      }
+    },
+    "redbull-home": {
+      "domain": "redbull.com",
+      "industry": "food",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.redbull.com/en/",
+          "blocks": 9,
+          "words": 400
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.redbull.com/fr-fr/",
+          "blocks": 9,
+          "words": 420
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.redbull.com/de-de/",
+          "blocks": 9,
+          "words": 371
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.redbull.com/ja-jp/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.redbull.com/es-es/",
+          "blocks": 9,
+          "words": 419
+        }
+      }
+    },
+    "danone-home": {
+      "domain": "danone.com",
+      "industry": "food",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.danone.com/",
+          "blocks": 129,
+          "words": 858
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.danone.com/fr/",
+          "blocks": 132,
+          "words": 966
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.danone.com/de/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.danone.com/es/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "heineken-home": {
+      "domain": "heineken.com",
+      "industry": "food",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.heineken.com/",
+          "blocks": 24,
+          "words": 402
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.heineken.com/fr/",
+          "blocks": 32,
+          "words": 477
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.heineken.com/de/",
+          "blocks": 21,
+          "words": 363
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.heineken.com/es/",
+          "blocks": 16,
+          "words": 283
+        }
+      }
+    },
+    "lavazza-home": {
+      "domain": "lavazza.com",
+      "industry": "food",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.lavazza.com/en/",
+          "blocks": 69,
+          "words": 1114
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.lavazza.com/fr/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.lavazza.com/de/",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.lavazza.com/ja/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.lavazza.com/es/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "airbnb-home": {
+      "domain": "airbnb.com",
+      "industry": "travel",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.airbnb.com/",
+          "blocks": 8,
+          "words": 41
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.airbnb.fr",
+          "blocks": 8,
+          "words": 46
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.airbnb.de",
+          "blocks": 8,
+          "words": 35
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.airbnb.jp",
+          "blocks": 8,
+          "words": 23
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.airbnb.es",
+          "blocks": 8,
+          "words": 52
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.airbnb.co.kr",
+          "blocks": 8,
+          "words": 44
+        }
+      }
+    },
+    "booking-home": {
+      "domain": "booking.com",
+      "industry": "travel",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.booking.com/",
+          "error": "HTTP 202"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.booking.com/fr/",
+          "error": "HTTP 202"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.booking.com/de/",
+          "error": "HTTP 202"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.booking.com/ja/",
+          "error": "HTTP 202"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.booking.com/es/",
+          "error": "HTTP 202"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.booking.com/ko/",
+          "error": "HTTP 202"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.booking.com/zh/",
+          "error": "HTTP 202"
+        }
+      }
+    },
+    "hilton-home": {
+      "domain": "hilton.com",
+      "industry": "travel",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.hilton.com/en/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.hilton.com/fr/",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.hilton.com/de/",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.hilton.com/ja/",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.hilton.com/es/",
+          "error": "HTTP 403"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.hilton.com/zh/",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "accor-home": {
+      "domain": "all.accor.com",
+      "industry": "travel",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.all.accor.com/",
+          "blocks": 0,
+          "words": 1
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.all.accor.com/fr/",
+          "blocks": 0,
+          "words": 1
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.all.accor.com/de/",
+          "blocks": 0,
+          "words": 1
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.all.accor.com/ja/",
+          "blocks": 0,
+          "words": 1
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.all.accor.com/es/",
+          "blocks": 0,
+          "words": 1
+        }
+      }
+    },
+    "lufthansa-home": {
+      "domain": "lufthansa.com",
+      "industry": "travel",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.lufthansa.com/us/en",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.lufthansa.com/fr/fr",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.lufthansa.com/de/de",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.lufthansa.com/jp/ja",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.lufthansa.com/es/es",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "emirates-home": {
+      "domain": "emirates.com",
+      "industry": "travel",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.emirates.com/us/english/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.emirates.com/fr/french/",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.emirates.com/de/german/",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.emirates.com/jp/japanese/",
+          "error": "HTTP 403"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.emirates.com/kr/korean/",
+          "error": "HTTP 403"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.emirates.com/cn/chinese/",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "tripadvisor-home": {
+      "domain": "tripadvisor.com",
+      "industry": "travel",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.tripadvisor.com/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.tripadvisor.fr",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.tripadvisor.de",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.tripadvisor.jp",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.tripadvisor.es",
+          "error": "HTTP 403"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.tripadvisor.co.kr",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "expedia-home": {
+      "domain": "expedia.com",
+      "industry": "travel",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.expedia.com/",
+          "error": "HTTP 429"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.expedia.fr",
+          "error": "HTTP 429"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.expedia.de",
+          "error": "HTTP 429"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.expedia.co.jp",
+          "error": "HTTP 429"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.expedia.es",
+          "error": "HTTP 429"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.expedia.co.kr",
+          "error": "HTTP 429"
+        }
+      }
+    },
+    "visa-home": {
+      "domain": "visa.com",
+      "industry": "finance",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.visa.com/",
+          "blocks": 7,
+          "words": 142
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.visa.com/fr-fr/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.visa.com/de-de/",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.visa.com/ja-jp/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.visa.com/es-es/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "mastercard-home": {
+      "domain": "mastercard.com",
+      "industry": "finance",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.mastercard.com/en-us.html",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.mastercard.com/fr-fr.html",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.mastercard.com/de-de.html",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.mastercard.com/ja-jp.html",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.mastercard.com/es-es.html",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "revolut-home": {
+      "domain": "revolut.com",
+      "industry": "finance",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.revolut.com/en-US",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.revolut.com/fr-FR",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.revolut.com/de-DE",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.revolut.com/ja-JP",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.revolut.com/es-ES",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "paypal-home": {
+      "domain": "paypal.com",
+      "industry": "finance",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.paypal.com/us/home",
+          "blocks": 51,
+          "words": 1497
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.paypal.com/fr/home",
+          "blocks": 22,
+          "words": 350
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.paypal.com/de/home",
+          "blocks": 47,
+          "words": 1040
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.paypal.com/jp/home",
+          "blocks": 27,
+          "words": 76
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.paypal.com/es/home",
+          "blocks": 31,
+          "words": 648
+        }
+      }
+    },
+    "allianz-home": {
+      "domain": "allianz.com",
+      "industry": "finance",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.allianz.com/en.html",
+          "blocks": 1,
+          "words": 1350
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.allianz.com/fr.html",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.allianz.com/de.html",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.allianz.com/es.html",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "wise-home": {
+      "domain": "wise.com",
+      "industry": "finance",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.wise.com/",
+          "blocks": 46,
+          "words": 1382
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.wise.com/fr/",
+          "blocks": 48,
+          "words": 1327
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.wise.com/de/",
+          "blocks": 48,
+          "words": 1326
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.wise.com/ja/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.wise.com/es/",
+          "blocks": 48,
+          "words": 1673
+        }
+      }
+    },
+    "n26-home": {
+      "domain": "n26.com",
+      "industry": "finance",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.n26.com/en-us",
+          "blocks": 12,
+          "words": 268
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.n26.com/fr-fr",
+          "blocks": 31,
+          "words": 1450
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.n26.com/de-de",
+          "blocks": 33,
+          "words": 1214
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.n26.com/es-es",
+          "blocks": 39,
+          "words": 1870
+        }
+      }
+    },
+    "hsbc-home": {
+      "domain": "hsbc.com",
+      "industry": "finance",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.hsbc.com/",
+          "blocks": 15,
+          "words": 326
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.hsbc.com/fr-fr",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.hsbc.com/de-de",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "philips-home": {
+      "domain": "philips.com",
+      "industry": "health",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.philips.com/a-w/about.html",
+          "blocks": 32,
+          "words": 873
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.philips.com/fr-fr/a-w/about.html",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.philips.com/de-de/a-w/about.html",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.philips.com/ja-jp/a-w/about.html",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "peloton-home": {
+      "domain": "onepeloton.com",
+      "industry": "health",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.onepeloton.com/",
+          "blocks": 19,
+          "words": 436
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.onepeloton.com/fr/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.onepeloton.com/de/",
+          "blocks": 96,
+          "words": 468
+        }
+      }
+    },
+    "garmin-home": {
+      "domain": "garmin.com",
+      "industry": "health",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.garmin.com/en-US",
+          "blocks": 1,
+          "words": 3
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.garmin.com/fr-FR",
+          "blocks": 1,
+          "words": 5
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.garmin.com/de-DE",
+          "blocks": 1,
+          "words": 7
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.garmin.com/ja-JP",
+          "blocks": 35,
+          "words": 145
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.garmin.com/es-ES",
+          "blocks": 1,
+          "words": 6
+        }
+      }
+    },
+    "roche-home": {
+      "domain": "roche.com",
+      "industry": "health",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.roche.com/",
+          "blocks": 47,
+          "words": 750
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.roche.com/fr/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.roche.com/de/",
+          "blocks": 47,
+          "words": 750
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.roche.com/ja/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.roche.com/es/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "siemens-health": {
+      "domain": "siemens-healthineers.com",
+      "industry": "health",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.siemens-healthineers.com/en-us",
+          "blocks": 46,
+          "words": 477
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.siemens-healthineers.com/fr",
+          "blocks": 53,
+          "words": 848
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.siemens-healthineers.com/de",
+          "blocks": 41,
+          "words": 433
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.siemens-healthineers.com/ja",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.siemens-healthineers.com/es",
+          "blocks": 53,
+          "words": 610
+        }
+      }
+    },
+    "jnj-home": {
+      "domain": "jnj.com",
+      "industry": "health",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.jnj.com/",
+          "blocks": 7,
+          "words": 701
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.jnj.com/fr/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.jnj.com/de/",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.jnj.com/ja/",
+          "error": "HTTP 404"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.jnj.com/es/",
+          "error": "HTTP 404"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.jnj.com/zh/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "spotify-about": {
+      "domain": "spotify.com",
+      "industry": "media",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.spotify.com/us/about-us/contact/",
+          "blocks": 11,
+          "words": 490
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.spotify.com/fr/about-us/contact/",
+          "blocks": 11,
+          "words": 496
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.spotify.com/de/about-us/contact/",
+          "blocks": 11,
+          "words": 454
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.spotify.com/jp/about-us/contact/",
+          "blocks": 11,
+          "words": 229
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.spotify.com/es/about-us/contact/",
+          "blocks": 11,
+          "words": 493
+        }
+      }
+    },
+    "netflix-home": {
+      "domain": "netflix.com",
+      "industry": "media",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.netflix.com/",
+          "blocks": 33,
+          "words": 502
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.netflix.com/fr/",
+          "blocks": 33,
+          "words": 580
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.netflix.com/de/",
+          "blocks": 33,
+          "words": 542
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.netflix.com/jp/",
+          "blocks": 33,
+          "words": 1065
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.netflix.com/es/",
+          "blocks": 33,
+          "words": 556
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.netflix.com/kr/",
+          "blocks": 33,
+          "words": 426
+        }
+      }
+    },
+    "nintendo-home": {
+      "domain": "nintendo.com",
+      "industry": "media",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.nintendo.com/us/",
+          "blocks": 199,
+          "words": 1403
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.nintendo.fr",
+          "blocks": 13,
+          "words": 1272
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.nintendo.de",
+          "blocks": 15,
+          "words": 1397
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.nintendo.co.jp",
+          "blocks": 1,
+          "words": 31
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.nintendo.es",
+          "blocks": 13,
+          "words": 1306
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.nintendo.co.kr",
+          "blocks": 7,
+          "words": 63
+        }
+      }
+    },
+    "playstation-home": {
+      "domain": "playstation.com",
+      "industry": "media",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.playstation.com/en-us/",
+          "blocks": 67,
+          "words": 984
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.playstation.com/fr-fr/",
+          "blocks": 68,
+          "words": 1079
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.playstation.com/de-de/",
+          "blocks": 68,
+          "words": 910
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.playstation.com/ja-jp/",
+          "blocks": 87,
+          "words": 420
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.playstation.com/es-es/",
+          "blocks": 66,
+          "words": 1047
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.playstation.com/ko-kr/",
+          "blocks": 79,
+          "words": 952
+        }
+      }
+    },
+    "disneyplus-home": {
+      "domain": "disneyplus.com",
+      "industry": "media",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.disneyplus.com/",
+          "blocks": 49,
+          "words": 2932
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.disneyplus.com/fr-fr",
+          "blocks": 26,
+          "words": 850
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.disneyplus.com/de-de",
+          "blocks": 22,
+          "words": 684
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.disneyplus.com/ja-jp",
+          "blocks": 19,
+          "words": 208
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.disneyplus.com/es-es",
+          "blocks": 26,
+          "words": 861
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.disneyplus.com/ko-kr",
+          "blocks": 21,
+          "words": 1007
+        }
+      }
+    },
+    "orange-home": {
+      "domain": "orange.com",
+      "industry": "telecom",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.orange.com/en",
+          "blocks": 4,
+          "words": 51
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.orange.com/fr",
+          "blocks": 4,
+          "words": 51
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.orange.com/es",
+          "blocks": 4,
+          "words": 51
+        }
+      }
+    },
+    "vodafone-home": {
+      "domain": "vodafone.com",
+      "industry": "telecom",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.vodafone.com/",
+          "blocks": 101,
+          "words": 1588
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.vodafone.de",
+          "blocks": 1,
+          "words": 356
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.vodafone.es",
+          "blocks": 12,
+          "words": 657
+        }
+      }
+    },
+    "rolex-home": {
+      "domain": "rolex.com",
+      "industry": "luxury",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.rolex.com/en",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.rolex.com/fr",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.rolex.com/de",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.rolex.com/ja",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.rolex.com/es",
+          "error": "HTTP 403"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.rolex.com/ko",
+          "error": "HTTP 403"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.rolex.com/zh",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "louisvuitton-home": {
+      "domain": "louisvuitton.com",
+      "industry": "luxury",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.louisvuitton.com/eng-us/homepage",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.louisvuitton.com/fra-fr/homepage",
+          "error": "HTTP 403"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.louisvuitton.com/deu-de/homepage",
+          "error": "HTTP 403"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.louisvuitton.com/jpn-jp/homepage",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.louisvuitton.com/esp-es/homepage",
+          "error": "HTTP 403"
+        },
+        "ko": {
+          "status": "error",
+          "url": "https://www.louisvuitton.com/kor-kr/homepage",
+          "error": "HTTP 403"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.louisvuitton.com/zhs-cn/homepage",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "hermes-home": {
+      "domain": "hermes.com",
+      "industry": "luxury",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.hermes.com/us/en/",
+          "blocks": 9,
+          "words": 242
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.hermes.com/fr/fr/",
+          "blocks": 7,
+          "words": 179
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.hermes.com/de/de/",
+          "blocks": 7,
+          "words": 168
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.hermes.com/jp/ja/",
+          "blocks": 9,
+          "words": 86
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.hermes.com/es/es/",
+          "blocks": 7,
+          "words": 181
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.hermes.com/kr/ko/",
+          "blocks": 7,
+          "words": 157
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.hermes.com/cn/zh/",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "miele-home": {
+      "domain": "miele.com",
+      "industry": "appliance",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.miele.com/en/",
+          "error": "HTTP 404"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.miele.com/fr/",
+          "error": "HTTP 404"
+        },
+        "de": {
+          "status": "error",
+          "url": "https://www.miele.com/de/",
+          "error": "HTTP 404"
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.miele.com/ja/",
+          "error": "HTTP 404"
+        }
+      }
+    },
+    "bosch-home": {
+      "domain": "bosch-home.com",
+      "industry": "appliance",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.bosch-home.com/us/",
+          "blocks": 13,
+          "words": 520
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.bosch-home.com/fr/",
+          "error": "HTTP 401"
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.bosch-home.com/de/",
+          "blocks": 16,
+          "words": 607
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.bosch-home.com/es/",
+          "error": "HTTP 401"
+        }
+      }
+    },
+    "kitchenaid-home": {
+      "domain": "kitchenaid.com",
+      "industry": "appliance",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.kitchenaid.com/",
+          "error": "TIMEOUT"
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.kitchenaid.fr",
+          "blocks": 29,
+          "words": 594
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.kitchenaid.de",
+          "blocks": 29,
+          "words": 536
+        }
+      }
+    },
+    "unicef-home": {
+      "domain": "unicef.org",
+      "industry": "nonprofit",
+      "locales": {
+        "en": {
+          "status": "error",
+          "url": "https://www.unicef.org/",
+          "error": "HTTP 403"
+        },
+        "fr": {
+          "status": "error",
+          "url": "https://www.unicef.org/fr/",
+          "error": "HTTP 403"
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.unicef.org/es/",
+          "error": "HTTP 403"
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.unicef.org/zh/",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "omega-home": {
+      "domain": "omegawatches.com",
+      "industry": "luxury",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.omegawatches.com/en-us",
+          "blocks": 15,
+          "words": 1504
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.omegawatches.com/fr-fr",
+          "blocks": 15,
+          "words": 1504
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.omegawatches.com/de-de",
+          "blocks": 15,
+          "words": 1504
+        },
+        "ja": {
+          "status": "ok",
+          "url": "https://www.omegawatches.com/ja-jp",
+          "blocks": 15,
+          "words": 1504
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.omegawatches.com/es-es",
+          "blocks": 15,
+          "words": 1504
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.omegawatches.com/ko-kr",
+          "blocks": 15,
+          "words": 1504
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.omegawatches.com/zh-cn",
+          "blocks": 15,
+          "words": 1504
+        }
+      }
+    },
+    "cartier-home": {
+      "domain": "cartier.com",
+      "industry": "luxury",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.cartier.com/en-us",
+          "blocks": 3,
+          "words": 221
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.cartier.com/fr-fr",
+          "blocks": 21,
+          "words": 460
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.cartier.com/de-de",
+          "blocks": 21,
+          "words": 481
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.cartier.com/ja-jp",
+          "error": "TIMEOUT"
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.cartier.com/es-es",
+          "blocks": 21,
+          "words": 574
+        },
+        "ko": {
+          "status": "ok",
+          "url": "https://www.cartier.com/ko-kr",
+          "blocks": 3,
+          "words": 481
+        },
+        "zh": {
+          "status": "error",
+          "url": "https://www.cartier.com/zh-cn",
+          "error": "TIMEOUT"
+        }
+      }
+    },
+    "wwf-home": {
+      "domain": "worldwildlife.org",
+      "industry": "nonprofit",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.worldwildlife.org/",
+          "blocks": 11,
+          "words": 393
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.wwf.fr",
+          "blocks": 20,
+          "words": 464
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.wwf.de",
+          "blocks": 25,
+          "words": 1017
+        },
+        "es": {
+          "status": "error",
+          "url": "https://www.wwf.es",
+          "error": "HTTP 403"
+        }
+      }
+    },
+    "redcross-home": {
+      "domain": "icrc.org",
+      "industry": "nonprofit",
+      "locales": {
+        "en": {
+          "status": "ok",
+          "url": "https://www.icrc.org/en",
+          "blocks": 34,
+          "words": 485
+        },
+        "fr": {
+          "status": "ok",
+          "url": "https://www.icrc.org/fr",
+          "blocks": 25,
+          "words": 469
+        },
+        "de": {
+          "status": "ok",
+          "url": "https://www.icrc.org/de",
+          "blocks": 23,
+          "words": 305
+        },
+        "es": {
+          "status": "ok",
+          "url": "https://www.icrc.org/es",
+          "blocks": 30,
+          "words": 599
+        },
+        "ja": {
+          "status": "error",
+          "url": "https://www.icrc.org/ja",
+          "error": "HTTP 404"
+        },
+        "zh": {
+          "status": "ok",
+          "url": "https://www.icrc.org/zh",
+          "blocks": 25,
+          "words": 109
+        }
+      }
+    }
+  }
+}

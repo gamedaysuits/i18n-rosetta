@@ -1,0 +1,192 @@
+Microsoft Surface Copilot Plus パソコン、タッチスクリーン in 1、ノート PC、オールインワン コンピューター | Microsoft Surface
+This is the Trace Id: dcf42f78d0dbe411bb792fd178d39095
+&#x30E1;&#x30A4;&#x30F3; &#x30B3;&#x30F3;&#x30C6;&#x30F3;&#x30C4;&#x3078;&#x30B9;&#x30AD;&#x30C3;&#x30D7;
+Surface
+Surface Pro
+Surface Pro &#x30AD;&#x30FC;&#x30DC;&#x30FC;&#x30C9;
+Surface &#x30B9;&#x30EA;&#x30E0; &#x30DA;&#x30F3;
+Surface Laptop
+Surface Laptop &#x30A2;&#x30AF;&#x30BB;&#x30B5;&#x30EA;
+Surface Studio 2&#x2B;
+Surface Laptop Studio
+Surface &#x30C7;&#x30D0;&#x30A4;&#x30B9;&#x306E;&#x6BD4;&#x8F03;
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Pro&#x3001;Copilot&#x2B; PC&#x3001;12 &#x30A4;&#x30F3;&#x30C1; | Snapdragon
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Pro&#x3001;Copilot&#x2B; PC&#x3001;13 &#x30A4;&#x30F3;&#x30C1; | Intel
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Pro&#x3001;Copilot&#x2B; PC&#x3001;13 &#x30A4;&#x30F3;&#x30C1; | Snapdragon
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Pro
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Go
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Laptop&#x3001;Copilot&#x2B; PC&#x3001;13 &#x30A4;&#x30F3;&#x30C1; | Snapdragon
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Laptop&#x3001;Copilot&#x2B; PC&#x3001;13.8 &#x30A4;&#x30F3;&#x30C1;&#x3068; &#x30A4;&#x30F3;&#x30C1; | Intel
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Laptop&#x3001;Copilot&#x2B; PC&#x3001;13.8 &#x30A4;&#x30F3;&#x30C1;&#x3068; &#x30A4;&#x30F3;&#x30C1; | Snapdragon
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Laptop
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Laptop Studio
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface Studio 2&#x2B;
+Surface Hub
+&#x3059;&#x3079;&#x3066;&#x306E;&#x30A2;&#x30AF;&#x30BB;&#x30B5;&#x30EA;
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface &#x30C7;&#x30D0;&#x30A4;&#x30B9;&#x3092;&#x6BD4;&#x8F03;&#x3059;&#x308B;
+&#x6CD5;&#x4EBA;&#x5411;&#x3051; Surface &#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;
+Surface Pro &#x30A2;&#x30AF;&#x30BB;&#x30B5;&#x30EA;
+Surface Laptop &#x30A2;&#x30AF;&#x30BB;&#x30B5;&#x30EA;
+Surface Pro &#x30AD;&#x30FC;&#x30DC;&#x30FC;&#x30C9;
+Surface &#x30A2;&#x30AF;&#x30BB;&#x30B5;&#x30EA;
+&#x3059;&#x3079;&#x3066;&#x306E; Surface
+&#x304A;&#x5F97;&#x306A; Surface
+Surface &#x4FEE;&#x7406;&#x7528;&#x90E8;&#x54C1;
+&#x8CFC;&#x5165;&#x5834;&#x6240;
+Surface &#x306E;&#x30B5;&#x30DD;&#x30FC;&#x30C8;
+&#x65B0;&#x3057;&#x3044; Surface Copilot&#x2B; PC &#x306B;&#x30C7;&#x30FC;&#x30BF;&#x3092;&#x8EE2;&#x9001;&#x3059;&#x308B;
+&#x30BB;&#x30FC;&#x30EB;&#x3092;&#x898B;&#x308B;
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+Xbox
+&#x30BB;&#x30FC;&#x30EB;
+&#x6CD5;&#x4EBA;&#x5411;&#x3051;
+&#x30B5;&#x30DD;&#x30FC;&#x30C8;
+Windows &#x30A2;&#x30D7;&#x30EA;
+OneDrive
+Outlook
+Skype &#x304B;&#x3089; Teams &#x3078;&#x306E;&#x79FB;&#x884C;
+OneNote
+Microsoft Teams
+Xbox &#x3092;&#x8CFC;&#x5165;&#x3059;&#x308B;
+&#x30A2;&#x30AF;&#x30BB;&#x30B5;&#x30EA;
+Xbox Game Pass Ultimate
+Xbox &#x3068;&#x30B2;&#x30FC;&#x30E0;
+PC &#x30B2;&#x30FC;&#x30E0;
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+&#x4E00;&#x822C;&#x6CD5;&#x4EBA;&#x5411;&#x3051; Microsoft 365
+Microsoft Power Platform
+Windows 365
+&#x30C7;&#x30B8;&#x30BF;&#x30EB;&#x4E3B;&#x6A29;
+Microsoft &#x958B;&#x767A;&#x8005;
+Microsoft Learn
+AI &#x30DE;&#x30FC;&#x30B1;&#x30C3;&#x30C8;&#x30D7;&#x30EC;&#x30FC;&#x30B9; &#x30A2;&#x30D7;&#x30EA;&#x306E;&#x30B5;&#x30DD;&#x30FC;&#x30C8;
+Microsoft Tech Community
+Microsoft Marketplace
+&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;&#x958B;&#x767A;&#x4F1A;&#x793E;
+Visual Studio
+Microsoft Rewards
+&#x7121;&#x6599;&#x30C0;&#x30A6;&#x30F3;&#x30ED;&#x30FC;&#x30C9; & &#x30BB;&#x30AD;&#x30E5;&#x30EA;&#x30C6;&#x30A3;
+&#x6559;&#x80B2;
+&#x30D7;&#x30EA;&#x30DA;&#x30A4;&#x30C9; &#x30AB;&#x30FC;&#x30C9;
+&#x30E9;&#x30A4;&#x30BB;&#x30F3;&#x30B9;
+&#x30B5;&#x30A4;&#x30C8;&#x30DE;&#x30C3;&#x30D7;&#x306E;&#x8868;&#x793A;
+アニメーション
+お得な Surface 特別モデル発売中！
+今すぐ購入
+## H1:
+## H2:
+Surface Copilot+ PC をすべて見る
+Surface Pro</span>" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/pro-violet-landing-left-fy25?fmt=png-alpha&wid=516&hei=291&fit=crop" data-bi-bhvr="0" data-bi-hN="<span class=h3 mb-0>Surface Pro</span>" data-bi-compNm="Content card vertical up - noDepth" data-bi-cN="Surface Pro の詳細を見る">
+## H3:
+Surface Pro
+Microsoft の多機能な in PC。
+Surface Pro</span>" data-bi-hn="<span class=h3 mb-0>Surface Pro</span>" data-bi-compnm="Content card vertical up - noDepth" data-original-text="Surface Pro の詳細を見る" role=" " aria-label="Surface Pro の詳細を見る" target="_self" href="https://www.microsoft.com/ja-jp/surface/devices/surface-pro">
+Surface Pro の詳細を見る
+<span class=h3 mb-0>Surface Laptop</span></span>" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/laptop-platinum-landing-right-fy25?fmt=png-alpha&wid=516&hei=291&fit=crop" data-bi-bhvr="0" data-bi-hN="<span class=h5 mb-0><span class=h3 mb-0>Surface Laptop</span></span>" data-bi-compNm="Content card vertical up - noDepth" data-bi-cN="Surface Laptop の詳細を見る">
+## H3:
+Surface Laptop
+Microsoft の洗練されたタッチスクリーン PC。
+<span class=h3 mb-0>Surface Laptop</span></span>" data-bi-hn="<span class=h5 mb-0><span class=h3 mb-0>Surface Laptop</span></span>" data-bi-compnm="Content card vertical up - noDepth" data-original-text="Surface Laptop の詳細を見る" role=" " aria-label="Surface Laptop の詳細を見る" target="_self" href="https://www.microsoft.com/ja-jp/surface/devices/surface-laptop">
+Surface Laptop の詳細を見る
+## H2:
+Surface Copilot PC のメリットを見る
+これまでで最も速く、最もインテリジェントな Windows PC は、毎日の生活を豊かにするように設計された新しい最高の AI 機能を備えています。
+## H3:
+必要な速度を
+## H4:
+MacBook Air M4 よりも高速
+Snapdragon X Elite 搭載 Surface Laptop (Cinebench MT ベンチマークを使用)
+## H3:
+充電器を持ち歩く必要はありません
+## H4:
+最大 時間のバッテリー駆動時間
+## H3:
+検索して見つける、それ以外も
+## H4:
+ローカル AI 処理が 倍向上
+## H2:
+Windows に移行しましょう
+Windows のサポートは終了しました。簡単な ステップで Windows に移行し、新しい Surface デバイスで過去最高の Windows をご体験ください。
+簡単な ステップでアップグレード
+## H2:
+目的に合った最適な Surface を見つけましょう
+Copilot+ PC の詳細を確認し、それぞれの仕様を比較して、自分にぴったりの AI 搭載ノート PC や in デバイスを選択しましょう。
+Copilot+ PCs を比較する
+Previous slide
+-->
+-->
+Next slide
+[1]
+Copilot PC のエクスペリエンスはデバイスや市場によって異なります。継続的にアップデートが必要になる場合があり、時期は異なります。
+[2]
+Snapdragon X Elite 搭載の Surface Laptop 13.8 インチおよび インチとM4 コア CPU 搭載の インチ MacBook Air の比較 (Cinebench 2024 Multi-Core ベンチマークに基づく)。パフォーマンスはデバイスによって異なります。 aka.ms/cpclaims をご覧ください。
+[3]
+Surface Laptop、13 インチのローカル ビデオ再生テストの場合。バッテリー駆動時間は使用方法、ネットワークや機能の構成、信号強度、設定などの要因によって大きく異なります。 aka.ms/SurfaceBatteryPerformance をご覧ください。
+[4]
+Surface Copilot PC と、法人向け Surface Laptop および Surface Pro の NPU TOPS の比較。実際の TOPS のパフォーマンスは、使用条件やその他の要因によって異なる場合があります。
+## H3:
+Surface をフォロー
+## H3:
+このページを共有
+トップに戻る
+Surface Pro
+Surface Laptop
+Surface Laptop Studio
+&#x7D44;&#x7E54;&#x7528; Copilot
+&#x500B;&#x4EBA;&#x7528; Copilot
+Windows &#x3067;&#x306E; AI
+Microsoft &#x88FD;&#x54C1;&#x3092;&#x898B;&#x308B;
+Windows &#x30A2;&#x30D7;&#x30EA;
+&#x30A2;&#x30AB;&#x30A6;&#x30F3;&#x30C8; &#x30D7;&#x30ED;&#x30D5;&#x30A1;&#x30A4;&#x30EB;
+&#x30C0;&#x30A6;&#x30F3;&#x30ED;&#x30FC;&#x30C9; &#x30BB;&#x30F3;&#x30BF;&#x30FC;
+Microsoft Store &#x30B5;&#x30DD;&#x30FC;&#x30C8;
+&#x8FD4;&#x54C1;&#x30FB;&#x8FD4;&#x91D1;
+&#x3054;&#x6CE8;&#x6587;&#x5C65;&#x6B74;
+Microsoft Store &#x3092;&#x304A;&#x9078;&#x3073;&#x3044;&#x305F;&#x3060;&#x304F;&#x7406;&#x7531;
+Microsoft Education
+&#x6559;&#x80B2;&#x6A5F;&#x95A2;&#x5411;&#x3051;&#x30C7;&#x30D0;&#x30A4;&#x30B9;
+Microsoft Teams for Education
+Microsoft 365 Education
+Office Education
+&#x6559;&#x80B2;&#x8005;&#x5411;&#x3051;&#x30C8;&#x30EC;&#x30FC;&#x30CB;&#x30F3;&#x30B0;&#x304A;&#x3088;&#x3073;&#x958B;&#x767A;
+&#x5B66;&#x751F;&#x304A;&#x3088;&#x3073;&#x4FDD;&#x8B77;&#x8005;&#x5411;&#x3051;&#x30AD;&#x30E3;&#x30F3;&#x30DA;&#x30FC;&#x30F3;
+&#x5B66;&#x751F;&#x5411;&#x3051; Azure
+Microsoft AI
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Advertising
+Microsoft 365 Copilot
+Microsoft Teams
+Microsoft &#x958B;&#x767A;&#x8005;
+Microsoft Learn
+AI &#x30DE;&#x30FC;&#x30B1;&#x30C3;&#x30C8;&#x30D7;&#x30EC;&#x30FC;&#x30B9; &#x30A2;&#x30D7;&#x30EA;&#x306E;&#x30B5;&#x30DD;&#x30FC;&#x30C8;
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;&#x958B;&#x767A;&#x4F1A;&#x793E;
+Visual Studio
+&#x63A1;&#x7528;&#x60C5;&#x5831;
+&#x4F1A;&#x793E;&#x306E;&#x30CB;&#x30E5;&#x30FC;&#x30B9;
+&#x30DE;&#x30A4;&#x30AF;&#x30ED;&#x30BD;&#x30D5;&#x30C8;&#x306B;&#x304A;&#x3051;&#x308B;&#x30D7;&#x30E9;&#x30A4;&#x30D0;&#x30B7;&#x30FC;
+&#x6295;&#x8CC7;&#x5BB6;
+&#x30A2;&#x30AF;&#x30BB;&#x30B7;&#x30D3;&#x30EA;&#x30C6;&#x30A3;
+&#x6301;&#x7D9A;&#x53EF;&#x80FD;&#x6027;
+&#x65E5;&#x672C;&#x8A9E; (&#x65E5;&#x672C;)
+&#x30D7;&#x30E9;&#x30A4;&#x30D0;&#x30B7;&#x30FC;&#x306B;&#x95A2;&#x3059;&#x308B;&#x9078;&#x629E;
+&#x30B3;&#x30F3;&#x30B7;&#x30E5;&#x30FC;&#x30DE;&#x30FC;&#x306E;&#x6B63;&#x5E38;&#x6027;&#x306E;&#x30D7;&#x30E9;&#x30A4;&#x30D0;&#x30B7;&#x30FC;
+Microsoft &#x306B;&#x554F;&#x3044;&#x5408;&#x308F;&#x305B;
+&#x30D7;&#x30E9;&#x30A4;&#x30D0;&#x30B7;&#x30FC;
+&#x7279;&#x5B9A;&#x5546;&#x53D6;&#x5F15;&#x6CD5;&#x306B;&#x57FA;&#x3065;&#x304F;&#x8868;&#x793A;
+Cookie &#x306E;&#x7BA1;&#x7406;
+&#x4F7F;&#x7528;&#x6761;&#x4EF6;
+&#x5546;&#x6A19;
+&#x5E83;&#x544A;&#x306B;&#x3064;&#x3044;&#x3066;

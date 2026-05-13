@@ -1,0 +1,33 @@
+BMW Canada: BMW Official Website | Sports Cars | Convertibles
+## H2:
+Get in before it’s gone. Unlock early access to your offers.
+View Offers
+Book a Test Drive
+## H2:
+Explore all BMW has to offer and get behind the wheel today.
+## H3:
+Design your vehicle.
+Build Your Own
+## H3:
+Shop new vehicles.
+Browse Inventory
+## H3:
+Explore special offers.
+View Offers
+## H3:
+Find a Retailer.
+Contact Now
+A Tribute To Dedication.
+Discover now
+Discover BMW's all-electric lineup.
+Book a test drive
+View Inventory
+Save 15% on select accessoriesuntil May 31.
+Customize your BMW
+Receive 15% off select M Performance Parts, BMW Generation Wallbox and Transport Accessories (excludes Roof Boxes) when you lease/finance through BMW Financial Services Canada (OAC) or purchase a new in-stock 2026 BMW model. Offer expires May 31, 2026. Delivery must be taken by May 31, 2026. Installation costs may apply and are extra. Offer is non-transferable nor redeemable for cash. Exclusions may apply.
+## H2:
+Find your drive.
+Browse new and demo inventory today.
+Shop New Inventory
+Shop Demo Inventory
+Request a Test Drive

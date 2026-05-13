@@ -1,0 +1,70 @@
+{
+  "name": "i18n-rosetta",
+  "version": "3.0.0",
+  "description": "Research-grade translation engine for i18n projects. Pluggable methods, per-pair quality tiers, and deterministic script converters. Supports JSON (next-intl, i18next), TOML, and YAML (Hugo).",
+  "type": "module",
+  "exports": "./lib/sync.js",
+  "bin": {
+    "i18n-rosetta": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "test:unit": "node --test test/sync.test.js",
+    "test:redteam": "node --test test/redteam.test.js",
+    "test:format": "node --test test/format.test.js",
+    "test:content": "node --test test/content.test.js",
+    "test:content-sync": "node --test test/content-sync.test.js",
+    "test:hugo": "node --test test/hugo-e2e.test.js",
+    "test:lint": "node --test test/lint.test.js",
+    "test:pairs": "node --test test/pairs.test.js",
+    "test:methods": "node --test test/methods.test.js",
+    "test:migrate": "node --test test/migrate.test.js",
+    "test:init-help": "node --test test/init-help.test.js",
+    "test:sync-pairs": "node --test test/sync-pairs.test.js",
+    "prepublishOnly": "npm test",
+    "sync": "node bin/cli.js sync",
+    "watch": "node bin/cli.js watch",
+    "audit": "node bin/cli.js audit",
+    "lint": "node bin/cli.js lint",
+    "init": "node bin/cli.js init"
+  },
+  "author": "Curtis Forbes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamedaysuits/i18n-rosetta.git"
+  },
+  "homepage": "https://github.com/gamedaysuits/i18n-rosetta#readme",
+  "bugs": {
+    "url": "https://github.com/gamedaysuits/i18n-rosetta/issues"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "translation",
+    "openrouter",
+    "localization",
+    "l10n",
+    "auto-translate",
+    "multilingual",
+    "machine-translation",
+    "language-pairs",
+    "seo",
+    "hugo",
+    "toml",
+    "yaml",
+    "next-intl",
+    "i18next",
+    "markdown"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.11.0"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "schemas/",
+    "README.md",
+    "LICENSE"
+  ]
+}

@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Environment files — never commit secrets
+.env
+.env.local
+.env.*
+!.env.example
+
+# OS artifacts
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Editor config
+.idea/
+.vscode/
+
+# Internal planning docs (not for public repo)
+docs/internal/
+
+# Rosetta user config (generated per-project, not part of the tool)
+i18n-rosetta.config.json
+.i18n-rosetta.lock
+
+# Research vault
+.vault/
+
+# Coverage and build artifacts
+coverage/
+*.tgz
+
+# Test temp directories
+test/fixtures/_tmp_*
+
+# Benchmark tooling
+test/benchmark/.venv/
+test/benchmark/results/raw/
+test/benchmark/results/analysis/

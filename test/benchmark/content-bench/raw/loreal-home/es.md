@@ -1,0 +1,113 @@
+L’Oréal, the most innovative and caring company
+Go to Content
+Go To Footer
+stock)
+OR.PA
+€ 366.30
++1.37%
+Accessibility
+Animations
+Activate
+Deactivate
+Contrast
+Deactivate
+Activate
+Accessibility
+Location
+Discover L'Oral Group
+Create The Beauty That Moves The World
+www.loreal.com
+Connect with L'Oral in your location
+Create The Beauty That Moves The World
+Africa & Middle East
+Back
+Africa & Middle East
+Middle East
+Morocco
+South Africa
+Israel
+Americas
+Back
+Americas
+Argentina
+Caribbean
+Brazil
+Canada
+Central America
+Chile
+Colombia
+Mexico
+Peru
+Uruguay
+USA
+Asia Pacific
+Back
+Asia Pacific
+Australia
+Chinese Mainland
+Hong Kong, SAR
+India
+Indonesia
+Korea
+Malaysia
+New Zealand
+Philippines
+Singapore
+Taiwan Region
+Thailand
+Japan
+Vietnam
+Europe
+Back
+Europe
+Adria Balkan
+Austria
+Belgium & Luxembourg
+Czech Republic
+France
+Germany
+Greece
+Hungary
+Italy
+Netherlands
+Nordics
+Poland
+Portugal
+Romania
+Russia
+Slovakia
+Spain
+Switzerland
+Turkey
+UK & Ireland
+Ukraine
+Location
+Language Switcher
+search
+## H2:
+Discover
+Our beautiful stories
+L'Or&eacute;al has set itself the mission of offering all women and men worldwide the best of cosmetics innovation in terms of quality, efficacy and safety. Here's a look at the Group's latest stories.
+Our Global Brands Portfolio
+Our Global Brands Portfolio
+Careers
+Careers
+Our latest news
+Our latest news
+De toutes beautés
+De toutes beautés
+Essentiality of Beauty
+Essentiality of Beauty
+Group
+Commitments
+Brands
+Beauty Science
+Careers
+Journalists
+Suppliers
+Investors & Shareholders
+L'Oral - facebook - Open in a new window
+L'Oral -twitter - Open in a new window
+L'Oral - instagram - Open in a new window
+L'Oral - Linkedin - Open in a new window
+L'Oral - youtube - Open in a new window

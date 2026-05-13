@@ -1,0 +1,232 @@
+[
+  {
+    "type": "tagline",
+    "text": "Homepage | Starbucks",
+    "index": 0
+  },
+  {
+    "type": "heading",
+    "text": "Neu: Caramelised Banana Flavour ist da 🍌",
+    "index": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "Jetzt mit Matcha, Espresso oder geschüttelt mit Eis probieren. Entdecke das Menü",
+    "index": 2
+  },
+  {
+    "type": "heading",
+    "text": "Caramelised Banana Flavour Velvet Latte",
+    "index": 3
+  },
+  {
+    "type": "heading",
+    "text": "Iced Caramelised Banana Flavour Latte",
+    "index": 4
+  },
+  {
+    "type": "heading",
+    "text": "Iced Caramelised Banana Flavour Oat Shaken Espresso",
+    "index": 5
+  },
+  {
+    "type": "heading",
+    "text": "Iced Caramelised Banana Flavour Matcha Latte",
+    "index": 6
+  },
+  {
+    "type": "heading",
+    "text": "Ristretto Mocha",
+    "index": 7
+  },
+  {
+    "type": "heading",
+    "text": "Protein Sugar Free Vanilla Latte",
+    "index": 8
+  },
+  {
+    "type": "heading",
+    "text": "Iced Protein Sugar Free Vanilla Latte",
+    "index": 9
+  },
+  {
+    "type": "heading",
+    "text": "Protein Matcha Latte",
+    "index": 10
+  },
+  {
+    "type": "heading",
+    "text": "Iced Protein Matcha Latte",
+    "index": 11
+  },
+  {
+    "type": "heading",
+    "text": "Frozen Mango Dragonfruit Refresha ®",
+    "index": 12
+  },
+  {
+    "type": "heading",
+    "text": "Frozen Strawberry Acai Refresha ®",
+    "index": 13
+  },
+  {
+    "type": "heading",
+    "text": "Strawberry Lemon Swirl",
+    "index": 14
+  },
+  {
+    "type": "heading",
+    "text": "Feta & Spinach Roll",
+    "index": 15
+  },
+  {
+    "type": "heading",
+    "text": "Pink Velvet Cake",
+    "index": 16
+  },
+  {
+    "type": "heading",
+    "text": "Caramelised Banana Loaf Cake",
+    "index": 17
+  },
+  {
+    "type": "heading",
+    "text": "Cake Pop - Flamingo",
+    "index": 18
+  },
+  {
+    "type": "heading",
+    "text": "Ruby Chocolate-Macadamia Cookie",
+    "index": 19
+  },
+  {
+    "type": "heading",
+    "text": "Banana-Caramel Cheesecake Muffin",
+    "index": 20
+  },
+  {
+    "type": "heading",
+    "text": "Avocado & Egg Bagel",
+    "index": 21
+  },
+  {
+    "type": "heading",
+    "text": "Bresaola Pesto Sandwich",
+    "index": 22
+  },
+  {
+    "type": "heading",
+    "text": "Freue Dich auf exklusive Angebote, Early Access zu neuen Produkten und - ja, kostenlosen Kaffee!",
+    "index": 23
+  },
+  {
+    "type": "heading",
+    "text": "Sammle Sterne für jeden ausgegebenen Euro ⭐",
+    "index": 24
+  },
+  {
+    "type": "paragraph",
+    "text": "Egal ob Du mit Deiner Starbucks Card, in bar, mit EC- oder Kreditkarte zahlst.",
+    "index": 25
+  },
+  {
+    "type": "heading",
+    "text": "Gratis Drinks!",
+    "index": 26
+  },
+  {
+    "type": "tagline",
+    "text": "Alle 150 Sterne geht ein Getränk auf uns.",
+    "index": 27
+  },
+  {
+    "type": "heading",
+    "text": "Ganz schnell zum Gold-Status!",
+    "index": 28
+  },
+  {
+    "type": "paragraph",
+    "text": "Bei 450 Sternen erreichst Du die Gold-Stufe. Als Gold-Mitglied erhältst Du sowohl unsere Sirups als auch Espresso-Shots kostenlos zu Deinem Getränk. Außerdem wartet ein Gratis-Refill (Filterkaffee oder Tee) innerhalb des selben Besuchs auf Dich. Jetzt mitmachen Anmelden",
+    "index": 29
+  },
+  {
+    "type": "heading",
+    "text": "Mobile Order & Pay®",
+    "index": 30
+  },
+  {
+    "type": "paragraph",
+    "text": "Du hast das Handy, wir haben die App. Sammle Sterne und behalte Deine Rewards im Auge - mit der Starbucks® App. Bestelle und bezahle mobil und hol Dir Dein Getränk ganz bequem im Coffee House Deiner Wahl ab. Erfahre mehr",
+    "index": 31
+  },
+  {
+    "type": "heading",
+    "text": "Ganz nach Deinem Geschmack!",
+    "index": 32
+  },
+  {
+    "type": "paragraph",
+    "text": "Entdecke unzählige Möglichkeiten, Dein Getränk ganz nach Deinem Geschmack zu gestalten. Erfahre mehr",
+    "index": 33
+  },
+  {
+    "type": "heading",
+    "text": "Starbucks® Reusables",
+    "index": 34
+  },
+  {
+    "type": "tagline",
+    "text": "Mehrweg statt Einweg Erfahre mehr",
+    "index": 35
+  },
+  {
+    "type": "heading",
+    "text": "Starbucks® Delivers mit Uber Eats, Wolt und Lieferando",
+    "index": 36
+  },
+  {
+    "type": "paragraph",
+    "text": "Lass Dir Deine Starbucks® Lieblinge direkt vor Deine Haustür liefern oder einfach vorbestellen und direkt im Coffee House abholen Jetzt bestellen",
+    "index": 37
+  },
+  {
+    "type": "heading",
+    "text": "Unsere Verantwortung",
+    "index": 38
+  },
+  {
+    "type": "paragraph",
+    "text": "Erfahre mehr über unsere Ziele und was wir tun, um sie zu erreichen. Erfahre mehr",
+    "index": 39
+  },
+  {
+    "type": "heading",
+    "text": "Starbucks® Stories",
+    "index": 40
+  },
+  {
+    "type": "paragraph",
+    "text": "Bleibe auf dem Laufenden mit unseren neusten Stories. Erfahre mehr",
+    "index": 41
+  },
+  {
+    "type": "heading",
+    "text": "Über uns",
+    "index": 42
+  },
+  {
+    "type": "tagline",
+    "text": "Über unsere Geschichte und das Unternehmen. Erfahre mehr",
+    "index": 43
+  },
+  {
+    "type": "heading",
+    "text": "Für Dich kuratiert",
+    "index": 44
+  },
+  {
+    "type": "paragraph",
+    "text": "Caramelised Banana Flavour ist da 🍌 Menü entdecken NEU: Protein Lattes 💪 Stark in den Tag Bleib&#x27; auf dem Laufenden Erfahre mehr Starbucks® Reusables Alle Details Karriere beginnt hier Sei dabei",
+    "index": 45
+  }
+]

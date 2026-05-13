@@ -1,0 +1,412 @@
+[
+  {
+    "type": "tagline",
+    "text": "Mac - Apple (中国大陆)",
+    "index": 0
+  },
+  {
+    "type": "heading",
+    "text": "Mac",
+    "index": 1
+  },
+  {
+    "type": "heading",
+    "text": "全系产品细细看",
+    "index": 2
+  },
+  {
+    "type": "tagline",
+    "text": "所有产品 笔记本电脑 台式电脑 显示器",
+    "index": 3
+  },
+  {
+    "type": "heading",
+    "text": "MacBook Neo",
+    "index": 4
+  },
+  {
+    "type": "paragraph",
+    "text": "桃粉色 柑橘黄色 靛蓝色 一身 Mac 实力， 实打实超值。 进一步了解 购买",
+    "index": 5
+  },
+  {
+    "type": "heading",
+    "text": "MacBook Air  英寸和 英寸",
+    "index": 6
+  },
+  {
+    "type": "tagline",
+    "text": "天蓝色 星光色 午夜色 身形薄、身手快， 强实力随身带。 进一步了解 购买",
+    "index": 7
+  },
+  {
+    "type": "heading",
+    "text": "MacBook Pro  英寸和 英寸",
+    "index": 8
+  },
+  {
+    "type": "tagline",
+    "text": "深空黑色 银色 超先进的 Mac 笔电， 艰巨任务巨拿手。 进一步了解 购买",
+    "index": 9
+  },
+  {
+    "type": "heading",
+    "text": "iMac",
+    "index": 10
+  },
+  {
+    "type": "tagline",
+    "text": "银色 这款一体机， 创作和工作都出彩。 进一步了解 购买",
+    "index": 11
+  },
+  {
+    "type": "heading",
+    "text": "Mac mini",
+    "index": 12
+  },
+  {
+    "type": "tagline",
+    "text": "超小巧的 Mac 台式机， 入手好超值。 进一步了解 购买",
+    "index": 13
+  },
+  {
+    "type": "heading",
+    "text": "Mac Studio",
+    "index": 14
+  },
+  {
+    "type": "tagline",
+    "text": "性能强端口多， 为专业人士而来。 进一步了解 购买",
+    "index": 15
+  },
+  {
+    "type": "heading",
+    "text": "Studio Display",
+    "index": 16
+  },
+  {
+    "type": "tagline",
+    "text": "5K 视网膜显示器， 显然 Mac 好搭档。 进一步了解 购买",
+    "index": 17
+  },
+  {
+    "type": "heading",
+    "text": "Studio Display XDR",
+    "index": 18
+  },
+  {
+    "type": "tagline",
+    "text": "超先进的 5K 视网膜 XDR 显示器， 力挺各类创作和专业工作。 进一步了解 购买",
+    "index": 19
+  },
+  {
+    "type": "heading",
+    "text": "MacBook Neo",
+    "index": 20
+  },
+  {
+    "type": "paragraph",
+    "text": "桃粉色 柑橘黄色 靛蓝色 一身 Mac 实力， 实打实超值。 进一步了解 购买",
+    "index": 21
+  },
+  {
+    "type": "heading",
+    "text": "MacBook Air  英寸和 英寸",
+    "index": 22
+  },
+  {
+    "type": "tagline",
+    "text": "天蓝色 星光色 午夜色 身形薄、身手快， 强实力随身带。 进一步了解 购买",
+    "index": 23
+  },
+  {
+    "type": "heading",
+    "text": "MacBook Pro  英寸和 英寸",
+    "index": 24
+  },
+  {
+    "type": "tagline",
+    "text": "深空黑色 银色 超先进的 Mac 笔电， 艰巨任务巨拿手。 进一步了解 购买",
+    "index": 25
+  },
+  {
+    "type": "heading",
+    "text": "iMac",
+    "index": 26
+  },
+  {
+    "type": "tagline",
+    "text": "银色 这款一体机， 创作和工作都出彩。 进一步了解 购买",
+    "index": 27
+  },
+  {
+    "type": "heading",
+    "text": "Mac mini",
+    "index": 28
+  },
+  {
+    "type": "tagline",
+    "text": "超小巧的 Mac 台式机， 入手好超值。 进一步了解 购买",
+    "index": 29
+  },
+  {
+    "type": "heading",
+    "text": "Mac Studio",
+    "index": 30
+  },
+  {
+    "type": "tagline",
+    "text": "性能强端口多， 为专业人士而来。 进一步了解 购买",
+    "index": 31
+  },
+  {
+    "type": "heading",
+    "text": "Studio Display",
+    "index": 32
+  },
+  {
+    "type": "tagline",
+    "text": "5K 视网膜显示器， 显然 Mac 好搭档。 进一步了解 购买",
+    "index": 33
+  },
+  {
+    "type": "heading",
+    "text": "Studio Display XDR",
+    "index": 34
+  },
+  {
+    "type": "tagline",
+    "text": "超先进的 5K 视网膜 XDR 显示器， 力挺各类创作和专业工作。 进一步了解 购买",
+    "index": 35
+  },
+  {
+    "type": "heading",
+    "text": "在 Apple 购买 Mac",
+    "index": 36
+  },
+  {
+    "type": "tagline",
+    "text": "好处多多 选购 Mac",
+    "index": 37
+  },
+  {
+    "type": "heading",
+    "text": "灵活的付款方案",
+    "index": 38
+  },
+  {
+    "type": "tagline",
+    "text": "分期付款方案任你选。 各种方便的分期付款方案，为你更添轻松。支付宝新增多家银行支持分期，最长可享 个月免息分期 ◊ 。 进一步了解灵活的付款方案",
+    "index": 39
+  },
+  {
+    "type": "heading",
+    "text": "教育优惠",
+    "index": 40
+  },
+  {
+    "type": "tagline",
+    "text": "以教育优惠购买新 Mac 省⁠更⁠多。 面向高校师生和教职员工 。 进一步了解教育优惠",
+    "index": 41
+  },
+  {
+    "type": "heading",
+    "text": "个人设置辅导",
+    "index": 42
+  },
+  {
+    "type": "tagline",
+    "text": "个人设置辅导，帮你上手新 Mac。 一对一专业辅导，引导你转移数据，让你了解各⁠种新功能，并提供更多帮助。 进一步了解你的新 Mac",
+    "index": 43
+  },
+  {
+    "type": "heading",
+    "text": "送货和取货",
+    "index": 44
+  },
+  {
+    "type": "tagline",
+    "text": "可免费送货， 也可到店取货。 所有订单均可享免费送货。部分订单可选择免⁠费的三小时快送 ，或亲自到店取货。 进一步了解送货和取货服务",
+    "index": 45
+  },
+  {
+    "type": "heading",
+    "text": "Mac 定制",
+    "index": 46
+  },
+  {
+    "type": "tagline",
+    "text": "Mac 定制 选择你想要的芯片、内存、存储容量，以及外⁠观颜色。 进一步了解 Mac 定制",
+    "index": 47
+  },
+  {
+    "type": "heading",
+    "text": "导购",
+    "index": 48
+  },
+  {
+    "type": "paragraph",
+    "text": "Specialist 专家协⁠助⁠选⁠购。 无论线上还是在 Apple Store 零售店，我们都能帮你找到心仪的产品，并解答你的各种疑⁠问。 进一步了解 Specialist 专家协助选购",
+    "index": 49
+  },
+  {
+    "type": "heading",
+    "text": "Apple Store App",
+    "index": 50
+  },
+  {
+    "type": "paragraph",
+    "text": "专属于你的购物体验。 更个性化的购物方式，尽在 Apple Store app。 进一步了解 Apple Store app",
+    "index": 51
+  },
+  {
+    "type": "heading",
+    "text": "来了解一下 Mac",
+    "index": 52
+  },
+  {
+    "type": "heading",
+    "text": "性能和电池续航",
+    "index": 53
+  },
+  {
+    "type": "tagline",
+    "text": "跑得快，跑得久。",
+    "index": 54
+  },
+  {
+    "type": "heading",
+    "text": "为 AI 精心构建",
+    "index": 55
+  },
+  {
+    "type": "tagline",
+    "text": "智能又安全， 全在设备端。",
+    "index": 56
+  },
+  {
+    "type": "heading",
+    "text": "macOS",
+    "index": 57
+  },
+  {
+    "type": "tagline",
+    "text": "简简单单， 用起来就喜欢。",
+    "index": 58
+  },
+  {
+    "type": "heading",
+    "text": "Mac + iPhone",
+    "index": 59
+  },
+  {
+    "type": "tagline",
+    "text": "合力出奇迹。",
+    "index": 60
+  },
+  {
+    "type": "heading",
+    "text": "兼容性",
+    "index": 61
+  },
+  {
+    "type": "tagline",
+    "text": "各种常用 App， Mac 都能跑。",
+    "index": 62
+  },
+  {
+    "type": "heading",
+    "text": "隐私和安全",
+    "index": 63
+  },
+  {
+    "type": "tagline",
+    "text": "你的私事， 只关你的事。",
+    "index": 64
+  },
+  {
+    "type": "heading",
+    "text": "耐用性",
+    "index": 65
+  },
+  {
+    "type": "tagline",
+    "text": "精心打造， 经得起时间考验。",
+    "index": 66
+  },
+  {
+    "type": "heading",
+    "text": "Apple 价值观",
+    "index": 67
+  },
+  {
+    "type": "tagline",
+    "text": "我们的价值观， 处处有体现。",
+    "index": 68
+  },
+  {
+    "type": "heading",
+    "text": "换成 Mac",
+    "index": 69
+  },
+  {
+    "type": "paragraph",
+    "text": "通过 Apple Trade In 换购计划，你可折抵现有设备来 换购新机，超值入手 。如果你的设备不符合折抵条件， 我们会免费帮你回收处理。 看看你设备的折抵金额 轻轻松松，换用 Mac。 进一步了解",
+    "index": 70
+  },
+  {
+    "type": "heading",
+    "text": "Mac 左膀右臂",
+    "index": 71
+  },
+  {
+    "type": "paragraph",
+    "text": "来看看键盘、鼠标等各种精彩配件。 选购 Mac 配件 英寸 5K 视网膜显示器，明显是 Mac 的养眼好搭⁠档。 进一步了解",
+    "index": 72
+  },
+  {
+    "type": "heading",
+    "text": "解锁 Apple 世界",
+    "index": 73
+  },
+  {
+    "type": "tagline",
+    "text": "了解各款 Apple 设备如何更默契地配合",
+    "index": 74
+  },
+  {
+    "type": "heading",
+    "text": "Mac 与 iPhone",
+    "index": 75
+  },
+  {
+    "type": "paragraph",
+    "text": "直接用 Mac 接听 iPhone 上的来电或回信息；借助 iPhone 镜像功能和实时活动，在 Mac 上就能看到 iPhone 屏幕内容并进行操控；通用剪贴板让你能从 iPhone 拷贝图片、视频或文字，再粘贴到手边 Mac 上的其他 app 中；而得益于 iCloud，无论是用 iPhone 还是 Mac，你都能访问自己的文件。这样的精妙配合举不胜举。",
+    "index": 76
+  },
+  {
+    "type": "heading",
+    "text": "Mac 与 iPad",
+    "index": 77
+  },
+  {
+    "type": "paragraph",
+    "text": "在 iPad 上的手绘，当即就能在 Mac 上显现；用 Mac 工作时，可将 iPad 当作第二块显示屏，方便参考其他资料；你甚至可以在 iPad 上给演示文稿或邮件等起个头，再转到 Mac 上接着写。",
+    "index": 78
+  },
+  {
+    "type": "heading",
+    "text": "Mac 与 Apple Watch",
+    "index": 79
+  },
+  {
+    "type": "tagline",
+    "text": "戴着 Apple Watch 并启用了自动解锁功能时，可自动登录你的 Mac，无需再输入密码。",
+    "index": 80
+  },
+  {
+    "type": "heading",
+    "text": "Mac",
+    "index": 81
+  }
+]

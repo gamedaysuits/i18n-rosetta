@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-05-06T07:59:52.589Z",
+  "stats": {
+    "totalRawBlocks": 2105,
+    "includedBlocks": 1108,
+    "skippedNoEN": 31,
+    "skippedShort": 664,
+    "sourceStrings": 1108
+  },
+  "languageCoverage": {
+    "fr": 932,
+    "de": 926,
+    "ja": 314,
+    "es": 864,
+    "ko": 305,
+    "zh": 111
+  },
+  "industryBreakdown": {
+    "travel": 1,
+    "tech": 179,
+    "auto": 48,
+    "appliance": 9,
+    "saas": 349,
+    "luxury": 20,
+    "food": 74,
+    "media": 102,
+    "retail": 129,
+    "beauty": 1,
+    "finance": 70,
+    "fashion": 11,
+    "telecom": 9,
+    "health": 75,
+    "nonprofit": 31
+  },
+  "typeBreakdown": {
+    "paragraph": 543,
+    "tagline": 119,
+    "heading": 446
+  }
+}

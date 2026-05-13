@@ -1,0 +1,47 @@
+[
+  {
+    "type": "tagline",
+    "text": "Nike. Just Do It. Nike ES",
+    "index": 0
+  },
+  {
+    "type": "heading",
+    "text": "Zapatillas",
+    "index": 1
+  },
+  {
+    "type": "paragraph",
+    "text": "Zapatillas de running en negro Zapatillas de running en blanco Zapatillas Nike P-6000 Zapatillas Nike Initiator Zapatillas de running V2K Nike Shox Zapatillas Nike Waffle Nike Cortez Nike Vomero Zapatillas en negro Zapatillas Nike Motiva",
+    "index": 2
+  },
+  {
+    "type": "heading",
+    "text": "Ropa",
+    "index": 3
+  },
+  {
+    "type": "tagline",
+    "text": "Pantalones de yoga Joggers Tech Fleece Tech Fleece",
+    "index": 4
+  },
+  {
+    "type": "heading",
+    "text": "Niño/a",
+    "index": 5
+  },
+  {
+    "type": "tagline",
+    "text": "Zapatillas negras para niña Zapatillas negras para niños",
+    "index": 6
+  },
+  {
+    "type": "heading",
+    "text": "Destacados",
+    "index": 7
+  },
+  {
+    "type": "paragraph",
+    "text": "Equipos de fútbol Fútbol Nike Inglaterra Nike Run Club Nike Training Club Zapatillas Nike By You",
+    "index": 8
+  }
+]

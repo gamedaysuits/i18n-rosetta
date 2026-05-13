@@ -1,0 +1,42 @@
+Slack | Plataforma de trabajo y herramientas de productividad basadas en IA
+Ir al contenido principal
+## H1: Tu equipo y agentes, codo con codo.
+Slack conecta a tu equipo. Slackbot multiplica lo que pueden hacer.
+Primeros pasos Encontrar tu plan Los mejores equipos confían en nosotros
+Pregunta a Slackbot Planifica lanzamientos Ejecuta proyectos Chatea con clientes Automatiza tareas Pregunta a Slackbot
+Planifica lanzamientos
+Ejecuta proyectos
+Chatea con clientes
+Automatiza tareas
+## H2: Reinventa tus posibilidades con la IA y los agentes.
+IA en Slack te ahorra esfuerzos y te ayuda a sacar el trabajo adelante. Resume y realiza búsquedas basadas en conversaciones reales. Con los datos obtenidos, hace que las aplicaciones y los agentes tengan más información que nunca para trabajar. Actualiza oportunidades solo con pedírselo a Slackbot
+Resume una conversación que te hayas perdido
+Obtén respuestas rápido con Claude
+Activa las notas automáticas con IA en las juntas
+Revisa código con GitHub Copilot
+Consulta datos de clientes en Agentforce
+Conocimientos Personas Procesos Plataforma
+## H2: Knowledge
+Ofrece información a todo el mundo, al instante. Consulta todos los archivos, decisiones y conversaciones para aprovechar la información compartida en lugar de tener que empezar desde cero. Te presentamos Slackbot: tu agente personal para el trabajo Slackbot no es una IA cualquiera. Es una IA que conoce a tu equipo. Organiza el trabajo entre tus aplicaciones y agentes para que una conversación saque el trabajo adelante. Más información sobre Slackbot Una búsqueda para gobernarlas a todas La búsqueda con IA te pone toda la información de la empresa al alcance de la mano. Más información sobre las búsquedas con IA Incorpora los datos de CRM en la conversación. La información de los clientes ahora se ubica en el mismo lugar que las conversaciones para sacar las negociaciones adelante. Más información sobre Salesforce en Slack min media de tiempo que los usuarios pueden ahorrar a la semana con la IA en Slack
+## H2: People
+Conexión humana entre equipos. La interfaz conversacional de Slack hace que la colaboración sea más cercana, ya sea con un compañero o con un agente. Todo comienza en los canales. Los canales son espacios flexibles y transparentes para trabajar con tu equipo, asistentes de IA y agentes. Explorar los canales Hablar es más fácil que escribir... ... inicia una junta, nuestra herramienta de vídeo integrada. Con IA en Slack, las notas de tus reuniones se toman solas. Más información sobre las juntas Olvídate de las conversaciones perdidas en bandejas de entrada de correo. Slack Connect te permite chatear con clientes y proveedores en tiempo real desde Slack. El correo electrónico no te permite hacerlo. Más información sobre Slack Connect “Slack ha sido un componente esencial de nuestro crecimiento, nuestra agilidad y nuestra capacidad para remar en la misma dirección durante nuestra expansión” Kate Jenson, directora de la región América, Anthropic
+## H2: Process
+Gestiona todo tu trabajo desde un solo lugar. Automatiza las reuniones de sincronización, las novedades de los proyectos y las aprobaciones para que tu equipo pueda centrarse en el trabajo que de verdad importa. Todo el mundo puede automatizar procesos en Slack. Con tu ratón o a través de código, Slack permite que cualquier persona automatice sus procesos para ahorrar tiempo. Más información sobre los flujos de trabajo Gestiona proyectos y tareas. Supervisar. Aprobar. Marcar como completado. Todo sin salir de la conversación. Más información sobre las listas Una forma más sencilla de empezar. ¿El gestor de proyectos está bloqueado? ¿Vas a comenzar una reunión informativa? Tenemos la plantilla que necesitas Ver todas las plantillas % de aumento en el tiempo ahorrado gracias a las automatizaciones para usuarios de Slack
+## H2: Platform
+Seguridad. Adaptabilidad. Sin silos. Nuestra plataforma abierta y flexible está diseñada para integrar los mejores agentes y servicios de IA para cada empresa. Además, se puede adaptar a la forma de trabajar de tus equipos. Desde Atlassian a Zoom. Google Drive. ChatGPT. Vercel. Box. Asana. Workday. Si te suena, seguramente se pueda usar en Slack. Ver todas las integraciones Adapta Slack a tus necesidades. Nuestra plataforma es flexible para que puedas crear soluciones específicas para tu negocio. Más información sobre las herramientas de desarrollo Trabaja sin preocupaciones. Si se comparte en Slack, la seguridad está garantizada. Nuestro programa de seguridad protege tus datos en todos los aspectos. Más información sobre la seguridad “El trabajo comienza en las conversaciones. Por eso, Slack es el lugar ideal para crear nuestros agentes”. Guillermo Rauch, director general, Vercel
+## H2: Las empresas más innovadoras gestionan sus negocios en Slack.
+## H3: Cómo OpenAI conecta con los clientes y amplía ChatGPT gracias a Slack
+## H3: Cómo Spotify disparó las ventas publicitarias y agilizó las operaciones con Slack
+## H3: Signable lidera el cambio digital con la ayuda de Slack
+## H3: Para servir a millones sin problemas, ezCater recurre a Slack y Agentforce
+## H3: Cómo OpenAI conecta con los clientes y amplía ChatGPT gracias a Slack
+## H3: Cómo Spotify disparó las ventas publicitarias y agilizó las operaciones con Slack
+## H3: Signable lidera el cambio digital con la ayuda de Slack
+## H3: Para servir a millones sin problemas, ezCater recurre a Slack y Agentforce
+Comenzar Encontrar tu plan
+## H2: Nuestro negocio es que crezca tu negocio.
+% de los usuarios afirman que Slack les ayuda a estar más conectados 43 El número medio de aplicaciones usadas por los equipos de Slack 87 % de los usuarios afirman que Slack les ayuda a colaborar de forma más eficiente
+## H2: A millones de personas les encanta trabajar en Slack.
+700 M Mensajes enviados diariamente 4 M Usuarios de Slack Connect que trabajan directamente con equipos externos cada semana 3 M Flujos de trabajo diarios 1,7 M Aplicaciones usadas activamente cada semana No lo decimos nosotros. Slack es líder en más de 303 informes de mercado de G2 Es posible que el enlace se abra en una nueva ventana Más información Es posible que el enlace se abra en una nueva ventana Ver ahora Es posible que el enlace se abra en una nueva ventana Leer ahora Es posible que el enlace se abra en una nueva ventana Seguir leyendo Es posible que el enlace se abra en una nueva ventana Más información Es posible que el enlace se abra en una nueva ventana Ver ahora Es posible que el enlace se abra en una nueva ventana Leer ahora Es posible que el enlace se abra en una nueva ventana Seguir leyendo Información basada en un análisis interno durante la prueba piloto de las funciones de IA de Slack (síntesis de canales, resúmenes de hilos de conversaciones y respuestas de búsqueda mediante IA). Principales métricas de satisfacción del cliente del año fiscal 2024 Base: N.º total = 247-1696, datos internos de Slack. Datos internos de Slack del año fiscal 2025, análisis de uso del producto. Encuesta de seguimiento de clientes de Slack, AF25 Encuesta interna de usuarios activos semanales de Slack en EE. UU., Reino Unido, Canadá y Australia. N.º total = 2410. Informes de mercado de primavera de 2026 de G2 para gestión de trabajo, gestión de flujos de trabajo, software de colaboración en proyectos, búsqueda empresarial, bases de conocimientos, preguntas y respuestas para empleados, conferencias de audio, mensajería instantánea empresarial, espacios de trabajo unificados y mucho más.
+## H3: Descubre todo lo que puedes conseguir con Slack.
+Comenzar Solicitar demo esc

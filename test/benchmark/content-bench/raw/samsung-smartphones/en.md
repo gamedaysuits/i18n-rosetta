@@ -1,0 +1,267 @@
+-->
+-->
+-->
+Explore the Latest Galaxy Smartphones | Samsung US
+-->
+-->
+-->
+붙이던 부분 삭제함 필요시 search/를 붙여서 사용-->
+runmodeInfo 이름 변경-->
+Choose your location and language.
+USA / ENGLISH
+USA / English
+Other Countries
+Continue
+Close
+Welcome to the ! Please enjoy our special offers for you
+MY BENEFITS
+SPECIAL OFFERS
+Search Form
+Clear
+Scan Barcode
+NO SUGGESTIONS
+AI Suggested Searches
+Suggested Searches
+POPULAR SEARCHES
+RECENT SEARCHES
+RELATED PRODUCTS
+RECOMMENDED
+Close
+## H1:
+Smartphones
+Feature Favorites
+Design Inspirations
+Switch to Galaxy
+Galaxy S
+A world-first display
+Galaxy Z
+Join the flip side
+Galaxy A
+Innovation for all
+Compare
+Find the smartphone for you
+Accessories
+Phenomenal phones are just the beginning
+All Smartphones
+Explore all of our Galaxy smartphones
+Stop automatic slide show
+## H2:
+θ</sup> or $200 off without trade-in<sup>∞</sup> and $100 instant Samsung Credit on select add-ons.<sup></sup>" data-mobile-description="Celebrate Mother's Day with Galaxy S26 Ultra. Get up to $720 instant trade-in credit<sup>θ</sup> or $200 off without trade-in<sup>∞</sup> and $100 instant Samsung Credit on select add-ons.<sup></sup>">
+Learn more
+Buy now
+## H2:
+θ</sup> Plus, get up to 30% off select buds and cases with your purchase.<sup>±</sup>" data-mobile-description="When moments become memories, rely on Awesome. Celebrate Mother's Day and get up to $180 trade-in credit.<sup>θ</sup> Plus, get up to 30% off select buds and cases with your purchase.<sup>±</sup>">
+Buy Galaxy A57
+Buy Galaxy A37
+## H2: Buds4 Pro" data-mobile-headline-text="Galaxy S26 Ultra | Buds4 Pro">
+±,</sup>" data-mobile-description="The perfect pair for a memorable Mother's Day. Get up to $100 off add-ons and save 10% of Buds4 | Buds Pro.<sup>±,</sup>">
+Buy Galaxy S26 Ultra
+Buy Galaxy Buds4 Pro
+## H2: <br><br> " data-mobile-headline-text="<br><br> ">
+θ</sup>" data-mobile-description="Get up to $480 instant trade-in credit.<sup>θ</sup>">
+Learn more
+Buy now
+## H2:
+θ</sup>" data-mobile-description="Get up to $1,000 instant trade-in credit.<sup>θ</sup>">
+Learn more
+Buy now
+## H2:
+θ</sup>" data-mobile-description="Save up to $600 instant trade-in credit.<sup>θ</sup>">
+Learn more
+Buy now
+Previous
+Next
+play
+Galaxy S26 Ultra
+Galaxy S26 Ultra
+Galaxy A57 | A37 5G
+Galaxy A57 | A37 5G
+Ecosystem
+Ecosystem
+Galaxy S26 | S26+
+Galaxy S26 | S26+
+Galaxy Z Fold7
+Galaxy Z Fold7
+Galaxy Z Flip7
+Galaxy Z Flip7
+Close
+Close
+Close
+## H2: What's new
+New
+Galaxy S26 Ultra
+Galaxy S26 Ultra
+The world's first Privacy Display built into a phone.
+The world's first Privacy Display built into a phone.
+Buy now
+New
+Galaxy S26 | S26+
+Galaxy S26 | S26+
+More tools for creativity than ever.
+More tools for creativity than ever.
+Buy now
+Galaxy Z Flip7
+Galaxy Z Flip7
+Pocket-perfect AI, plus an expanded front FlexWindow.
+Pocket-perfect AI, plus an expanded front FlexWindow.
+Buy now
+Galaxy Z Fold7
+Galaxy Z Fold7
+The thinnest, lightest Galaxy Z Fold yet.
+The thinnest, lightest Galaxy Z Fold yet.
+Buy now
+New
+Galaxy A57 5G
+Galaxy A57 5G
+Awesome Intelligence at a price you'll love.
+Awesome Intelligence at a price you'll love.
+Buy now
+Close
+## H2: Samsung Trade-in
+Get up to $720 instant trade-in credit with Galaxy S26 Ultra. θ
+Learn more
+Buy now
+## H2:
+" data-mobile-description="Creative tools and smart assistance at your fingertips.<br/>">
+See all
+Close
+Close
+Close
+Previous
+## H2: Galaxy S26 Ultra
+Clearer-than-ever night video and Galaxy AI photo editing, all on a revolutionary screen that protects your privacy.
+Buy now
+## H2: Galaxy S26 | S26+
+Power your creativity with Photo Assist and Nightography Video.
+Buy now
+## H2: Galaxy S25 Ultra
+Elevate life with evolved AI that handles multiple tasks with a single ask.
+Buy now
+## H2: Galaxy S25 FE
+Elevate your everyday with a vivid 6.7" display, a long-lasting battery and pro-grade camera.
+Buy now
+Next
+play
+Indicator
+Close
+Close
+Close
+Close
+## H2:
+" data-mobile-description="Foldable innovation.<br/>">
+See all
+Close
+Close
+Close
+Previous
+## H2: Galaxy Z Fold7
+The Ultra experience, unfolded. Our large-screen design, re-engineered to be our slimmest, lightest Fold ever.
+Buy now
+## H2: Galaxy Z Flip7
+Our thinnest and most advanced Galaxy Z Flip ever — unparalleled performance that fits your lifestyle and your pocket.
+Buy now
+## H2: Galaxy Z TriFold
+Meet the shape of what’s next. Experience content on an expansive foldable display as Galaxy AI and Gemini Live streamline your day.
+Buy now
+Next
+play
+Indicator
+Close
+Close
+Close
+## H2:
+" data-mobile-description="Awesome is for everyone with amazing devices that bring the magic of Galaxy at a price point you'll love.<br/>">
+See all
+Close
+Close
+Close
+Previous
+## H2: Galaxy A57 5G
+Get more awesome with A Series' best processor, plus new Awesome Intelligence features like Edit Suggestion and Best Face.
+Buy now
+## H2: Galaxy A37 5G
+All of the essentials, like a lasting battery and triple-lens camera system for streaming
+and creating.
+Buy now
+## H2: Galaxy A17 5G
+Packed with next-level essentials and AI so you stay connected at an incredible value.
+Buy now
+Next
+play
+Indicator
+Close
+Close
+Close
+## H2: Try Galaxy
+Want to test run the Galaxy experience? You can easily do it through the Try Galaxy app or trygalaxy.com. Check out exclusive apps and themes, One UI, Galaxy AI and more.
+Learn more
+## H2: The connected power of Samsung Galaxy
+See all
+Previous
+## H2: Galaxy Buds4 Pro
+The best Buds speakers ever. For real music lovers.
+Buy now
+## H2: Galaxy Watch8
+New design. Elevated feel. Wellness coaching made simple.
+Buy now
+## H2: Galaxy Tab S11 Series
+Powerful meets thin. Made smarter with AI.
+Buy now
+## H2: Galaxy Ring
+The style you want. The insights you need.
+Buy now
+Next
+play
+Indicator
+Close
+Close
+Close
+Close
+## H2: Can your phone do that?
+Watch as Audrey Nuna tunes out noise and lays down a track with Hi-Res Audio on Galaxy S26 Ultra and Buds4 Pro.
+Can your phone do that Play Video
+Close
+## H2: Turn your questions
+into confidence
+Galaxy Guide is the place to ask everything you want to know about switching or upgrading.
+Try Galaxy Guide
+## H3: Smart Switch
+Switching made simple.
+Learn more
+## H2: Trade-in
+Trade in your old devices for a brand new Galaxy.
+Learn more
+## H3: Support
+Samsung support on the spot.
+Learn more
+## H3: Buy with confidence
+## H4: Trade-in
+Trade in your current phone for an instant discount.
+## H4: Finance Available
+Pay on your terms, from to months. +
+## H4: Free Delivery
+Order by 8pm and get it the next day. 24/7 tracking.
+θ For a limited time only, on Samsung.com/Shop Samsung App, or purchase a new qualifying Galaxy device (“Qualifying Purchase”), send in your qualifying trade-in device to Samsung through the Samsung Trade-In Program, and if Samsung determines your trade-in device meets all eligibility requirements, you will receive a trade-in credit specific to your qualifying trade-in device to apply toward your Qualifying Purchase. Device models that currently qualify for trade-in and trade-in credit amounts associated with those models are available on Samsung.com and the Shop Samsung App; eligible models and amounts may change at Samsung’s sole discretion. To be eligible for trade-in, your qualifying device must meet all Trade-In Program eligibility requirements, which include, but are not limited to, that the device powers on, holds a charge, and does not power off unexpectedly; has a functioning display; has no breaks or cracks in the screen (unless a cracked screen offer applies); has no breaks or cracks in the case; has no liquid damage (whether visible or not); has no other defects that go beyond normal wear and tear; is not on a black list; has a verified FCC ID; has been reset to factory settings; has all personal information removed; has all software locks disabled; and is owned by you (leased devices are not eligible). Anticipated trade-in value will be applied as a credit at time of purchase, but, if you do not send in your trade-in device within days of receipt of your Qualifying Purchase, you will be charged back for the trade-in credit applied to your purchase, or if you send in your trade-in device within days of receipt of your Qualifying Purchase but Samsung determines your device does not meet all eligibility requirements, you will be charged back for the trade-in credit applied to your purchase minus $25. Participation in this program does not excuse you from contracts with your carrier or retailer (or any related payments or fees) for the device that was traded in. Limit trade-in per Qualifying Purchase. Samsung reserves the right to modify or discontinue this offer at any time. The Trade-In Program cannot be combined with any other Samsung, carrier or retailer promotions, discounts, or offers unless specifically provided for in the terms and conditions of such offers. Additional terms, including terms that govern the resolution of disputes, apply. Click here to learn
+± 4/09/26 - 5/07/26 while supplies last, on samsung.com or in the Samsung Shop App. Must purchase a select Galaxy A37 or A57 ("Qualifying Purchase") and Galaxy Buds4, Buds3 FE, or Galaxy A37 or A57 case Device ("Promotional Product(s)") in the same transaction through the Qualifying Purchase buy/add-on page. Discount automatically reflected at checkout. If you return or cancel your Qualifying Purchase, you must return the Promotional Product with your Qualifying Purchase or pay for the Promotional Product in full. This offer is non-transferable and limited to per Qualifying Purchase. Void where prohibited or restricted by law.
++ Subject to credit approval. Restrictions apply.
+Measured diagonally, Galaxy Z TriFold's Cover Screen size is 6.5” in the full rectangle and 6.5” accounting for the rounded corners; actual viewable area is smaller due to the rounded corners and camera hole.
+Galaxy Guide is powered by artificial intelligence and is not operated by a human.
+Samsung Account login may be required to use certain AI features.
+Samsung does not make any promises, assurances or guarantees as to the accuracy, completeness or reliability of the output provided by AI features.
+Availability of Galaxy AI features may vary depending on the region/country, OS/One UI version, device model and phone carrier.
+Galaxy AI basic features provided by Samsung are free. Future releases may include enhanced features or new services that are offered on a paid basis. Different terms may apply for AI features provided by third parties. Galaxy AI basic features are those services listed under "Advanced intelligence" in the current Samsung Services Terms and Conditions.
+Galaxy AI service may be limited for minors in certain regions with age restrictions over AI usage.
+Photo Assist requires a network connection and Samsung Account login. Service availability may vary by country, language or device model. Photo Assist may result in a resized photo. A visible watermark is overlaid on the image output upon saving in order to indicate that the image is generated by AI. The accuracy and reliability of the generated output is not guaranteed.
+Image simulated. Actual UX/UI may differ. Availability of colors, sizes, models, and watch bands may vary by country or carrier. Products sold separately.
+When folding the device, fold the side without the camera first. Folding from the other side may cause damage to the device. When the side without the camera of the device is folded, the folded side is designed to be slightly elevated above the screen. This helps the device open easily.
+4/6/2026 - 5/31/2026, while supplies last, purchase a new Galaxy S26U device (“Qualifying Purchase”) on samsung.com or in the Shop Samsung App and receive a $100 Samsung Credit ("Gift") towards additional, eligible products. Gift cannot be applied to the Qualifying Purchase device(s) and must be used at the time of purchase towards purchasing eligible Buds, and Watches, on samsung.com or in the Shop Samsung App. Gift is a one-time use e-certificate; any value not used is lost. Gift is non-transferable and limited to per Qualifying Purchase. If you return or cancel your purchase, the discount will be forfeit.
+∞ 4/27/2026 – 5/3/2026, Promotional discount up to $200 applies while supplies last, at samsung.com or in the Shop Samsung App when purchasing select Galaxy S26 Ultra device. Void where prohibited or restricted by law.
+Go to Top
+-->
+-->
+Enter Your Email
+Double check the address…just to make sure!
+Close popup
+Close popup
+Close popup
+Layer Popup Close

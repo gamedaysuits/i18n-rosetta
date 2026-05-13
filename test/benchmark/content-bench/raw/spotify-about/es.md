@@ -1,0 +1,90 @@
+Contacto - Spotify
+## H1: Acerca de nosotros
+Con Spotify es facilísimo encontrar la música o pódcasts perfectos para cada momento, en el ordenador, el teléfono, la tablet y más dispositivos.
+En Spotify encontrarás millones de canciones y episodios. Así, tanto si estás conduciendo como si estás haciendo ejercicio, de fiesta o tomándote un descanso, siempre tendrás a mano la música y pódcasts que más van contigo. Elige lo que quieres escuchar o déjate sorprender por Spotify.
+También puedes explorar las colecciones de amigos, artistas y famosos, o crear una emisora de radio y escucharla a tus anchas.
+Pon banda sonora a tu vida con Spotify. Suscríbete o escucha contenido gratis.
+## H2: Servicio de asistencia y atención al cliente
+Sitio de ayuda . Echa un vistazo a nuestro sitio de ayuda, donde puedes encontrar respuestas a tus preguntas y descubrir cómo sacarle el máximo partido a Spotify.
+Comunidad . Recibe asistencia rápida de usuarios expertos de Spotify. Si no encuentras respuesta a tu pregunta, publícala y alguien te responderá rápidamente. También puedes sugerir o votar nuevas ideas para Spotify o simplemente hablar de música con otros fans.
+Contacto . Si no consigues encontrar la solución en el sitio de asistencia ni en la comunidad, ponte en contacto con nuestro servicio de atención al cliente.
+@SpotifyAyuda . ¿Prefieres usar las redes sociales? Solo tienes que enviar un tuit a nuestro equipo y ellos te echarán una mano.
+## H2: O selecciona un tema:
+¿Anunciarse en Spotify? Sección para anunciantes
+¿Consultas de prensa? Sección para prensa
+¿Buscas trabajo? Sección de empleo Spotify USA, Inc. es la entidad encargada de proporcionar el servicio Spotify a los usuarios de Estados Unidos. En todos los demás mercados, es Spotify AB quien proporciona este servicio a los usuarios.
+## H1: Sede de Spotify
+Spotify AB
+Regeringsgatan
+SE-111 Stockholm
+Sweden
+Reg no: 556703-7485
+office@spotify.com
+## H1: Spotify en todo el mundo
+Spotify Belgium
+Square de Meeus
+4th floor
+1000 Brussels
+Belgium
+office@spotify.com Spotify GmbH
+Unter den Linden
+10117 Berlin
+Germany
+office@spotify.com Spotify Canada Inc.
+220 Adelaide Street West
+M5H 1W7 Toronto Ontario
+Canada
+office@spotify.com Spotify Denmark ApS
+Kampmannsgade 2,
+1604 Copenhagen
+Denmark
+office@spotify.com SPOTIFY SPAIN SL
+91-109-8709
+Paseo de Recoletos, 7-9
+28004 Madrid
+Spain
+office@spotify.com Spotify Finland Oy
+c/o Intertrust (Finland)
+Uudenmaankatu 1-5
+00120 Helsinki
+Finland
+office@spotify.com Spotify France SAS
+Rue la Bruyère
+75009
+Paris
+France
+office@spotify.com Spotify India LLP
+Jet Airways - Godrej BKC
+1st Floor, Unit and 2,
+Plot C-68, G Block, Bandra Kurla Complex, Bandra East,
+Mumbai Suburban 400051
+Maharashtra
+India
+office@spotify.com Spotify Italy S.r.l.
+Via Joe Colombo
+20124 Milano
+Italy
+office@spotify.com Spotify Netherlands
+Singel 540 3h
+1017AZ, Amsterdam
+Netherlands
+office@spotify.com Spotify Ltd
+Adelphi Building
+Savoy Place
+London WC2N 6AT
+United Kingdom
+office@spotify.com Spotify USA Inc
+World Trade Center
+150 Greenwich Street, 62nd Floor
+New York, NY 10007
+USA
+office@spotify.com Spotify Mexico
+Pedregal Torre Virreyes Piso
+Col. Molino del Rey
+DF 11040
+Mexico
+office@spotify.com Spotify Israel
+office@spotify.com Spotify Technology S.A.
+Boulevard Prince Henri
+L-1724 Luxembourg
+office@spotify.com
