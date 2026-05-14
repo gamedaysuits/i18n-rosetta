@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.2.0] - 2026-05-14
+
+### Added
+- **Quality gate** (`lib/validate.js`): Deterministic validation runs before translations are written to disk. Five checks catch common MT failure modes:
+  - Empty/blank output
+  - Source echo (model returned the English input)
+  - Hallucination loops (trigram repetition analysis, e.g., `"Qo' Qo' Qo'"`)
+  - Length inflation (configurable `maxLengthRatio`, default 4×)
+  - Script compliance (non-Latin locales must produce non-ASCII output)
+- **Retry cascade**: On JSON parse failure, the translation batch automatically retries: full batch → half-batch → individual keys. Budget-capped via `maxRetries` (default 3) to prevent runaway token spend.
+- **Prompt caching**: System/user message split across `llm.js`, `llm-coached.js`, and `openrouter-client.js`. The system message (register + rules) is identical across batches for a given locale, enabling provider-level prompt caching (Anthropic, Gemini).
+- **Per-language config overrides**: Language definitions now support `model`, `batchSize`, `maxRetries`, and `script` fields. Inheritance chain: pair-level > language-level > global config > defaults.
+- **`[GATE]` log prefix**: Quality gate failures are logged to stderr with `[GATE]` prefix, key name, reason, and value preview. No silent fallbacks.
+- **33 new tests** (`test/conlang-hardening.test.js`): Config schema, prompt caching, retry cascade, and quality gate validation.
+
+### Changed
+- `callOpenRouterJSON()` now returns `{ _parseError: true, rawContent, error }` on JSON parse failure instead of `null`. Callers can distinguish "API returned nothing" from "API returned garbage" and retry accordingly.
+- `callOpenRouter()` accepts optional `systemMessage` parameter. When provided, messages array becomes `[system, user]` instead of `[user]`. Falls back to single-message format when absent (backward compatible).
+- `PAIR_DEFAULTS` now includes `maxRetries: 3`.
+
 ## [3.1.0] - 2026-05-13
 
 ### Added
@@ -58,4 +78,4 @@ Initial public release. Per-pair translation engine with pluggable methods.
 
 ### Quality
 - 45+ language registers with culturally appropriate tones, RTL hints, and script directions.
-- 618 tests across 141 suites — zero external dependencies.
+- 651 tests across 148 suites — zero external dependencies.

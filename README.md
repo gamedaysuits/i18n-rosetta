@@ -4,15 +4,25 @@
 [![CI](https://github.com/gamedaysuits/i18n-rosetta/actions/workflows/ci.yml/badge.svg)](https://github.com/gamedaysuits/i18n-rosetta/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-> Most translation tools assume Google Translate speaks your language. For thousands of languages, it doesn't.
-
-**i18n-rosetta** is an open framework for deploying translation methods to any language — including ones that no commercial API supports. Each language pair can use a different method: an LLM prompt, coached LLM with grammar rules, Google Translate, a deterministic converter, or a custom API built by someone who actually speaks the language.
-
-Born from translating a production website into Plains Cree, where no off-the-shelf API exists. If you can figure out how to translate a language pair — whether through prompt engineering, community dictionaries, FST pipelines, or fine-tuned models — rosetta lets you package that method and deploy it.
+Translate your locale files with one command:
 
 ```bash
-npx i18n-rosetta sync       # translate all missing keys
+npx i18n-rosetta sync
 ```
+
+Rosetta auto-detects your locale files, their format, and the target languages. It translates missing keys, skips what's already done, and writes the results. That's it.
+
+## Why Not Just Script It Yourself?
+
+You could write a quick script that loops through your English keys and calls Google Translate. Most developers do — it takes about 30 lines. Here's why it breaks:
+
+- **No change detection.** When you update an English string, the translation stays stale forever. Rosetta tracks every source value with SHA-256 hashes and re-translates only what changed.
+- **No batching.** One API call per key means 200 keys = 200 round trips. Rosetta batches intelligently (configurable, default 30 keys/batch for LLM, 128 for Google).
+- **No quality gate.** Machine translation hallucinates, echoes the source back, or outputs in the wrong script. Rosetta validates every translation before writing it — wrong-script, length inflation, and source echoes are caught and rejected.
+- **No format awareness.** Hardcoded to JSON? Rosetta handles JSON, TOML, YAML, and Hugo Markdown (frontmatter + body) with auto-detection.
+- **No safety.** Rosetta guards against prototype pollution, path traversal via crafted locale codes, and code block corruption during Markdown translation.
+
+Rosetta is the production version of that script.
 
 ## Quick Start
 
@@ -22,7 +32,7 @@ npm install --save-dev i18n-rosetta
 
 ### Get an API Key
 
-Rosetta needs a translation API. Pick one:
+Rosetta needs a translation backend. Pick one:
 
 | Provider | Key | Best for |
 |----------|-----|----------|
@@ -43,9 +53,9 @@ export GOOGLE_TRANSLATE_API_KEY=...
 npx i18n-rosetta sync --method google-translate
 ```
 
-> **Note**: If only `GOOGLE_TRANSLATE_API_KEY` is set, rosetta auto-switches to Google Translate. No config change needed.
+> **Note**: If only `GOOGLE_TRANSLATE_API_KEY` is set, rosetta auto-switches to Google Translate. No config change needed. Uses the REST API directly — no SDK, no service account, no `pip install`. Just the key.
 
-That's it. Rosetta auto-detects your locale files, their format, and the target languages. For more control, create a config file:
+That's it. For more control, create a config file:
 
 ```bash
 npx i18n-rosetta init
@@ -65,13 +75,22 @@ Or set it permanently in your config:
 { "inputLocale": "fr" }
 ```
 
-## Why This Exists
+## What It Does
 
-Existing i18n translation tools are either **proprietary black boxes** (Google Translate, DeepL) that work great for major languages but offer nothing for underserved ones, or **manual workflows** where developers copy-paste into translation services and hope for the best.
+You handle the i18n framework (next-intl, i18next, Hugo). Rosetta handles the translation files.
 
-Rosetta takes a different approach: **the translation method is configurable per language pair.** Use Google Translate for French, an LLM with morphological coaching for Plains Cree, and a community-hosted API for Quechua — all in the same project, all with the same CLI.
+- **Multi-format** — JSON, TOML, YAML, and Hugo Markdown (front matter + body)
+- **Incremental** — Only translates what changed (SHA-256 hash tracking)
+- **Quality-gated** — Validates every translation: catches hallucinations, wrong-script output, source echoes, and length inflation
+- **Content-aware** — LLM methods shield code blocks, shortcodes, links, and interpolation variables during Markdown translation
+- **Pipeline tools** — `lint`, `audit`, `integrity`, `seo` for CI gates
+- **Zero dependencies** — Node.js built-ins only. No SDKs, no native modules. Requires Node 20+
 
-The companion [MT Eval Harness](https://github.com/gamedaysuits/gds-mt-eval-harness) lets you benchmark and compare translation approaches, then export working methods as rosetta plugins. Anyone who speaks both languages can develop, test, and share a translation method — no proprietary platform required.
+## Beyond Google Translate
+
+The quick start gets you running with an LLM or Google Translate. But Google Translate supports ~130 languages. There are over 7,000.
+
+**Rosetta's core idea: the translation method is configurable per language pair.** Use Google Translate for French, an LLM with morphological coaching for Plains Cree, and a community-hosted API for Quechua — all in the same project, all with the same CLI.
 
 ```json
 {
@@ -84,22 +103,13 @@ The companion [MT Eval Harness](https://github.com/gamedaysuits/gds-mt-eval-harn
 }
 ```
 
-If no config or pairs are specified, rosetta uses the default LLM method via OpenRouter.
+If you can figure out how to translate a language pair — through prompt engineering, community dictionaries, FST pipelines, or fine-tuned models — rosetta lets you package that method as a plugin and deploy it alongside everything else.
 
-## What It Does
+> Born from translating a production website into Plains Cree, where no off-the-shelf API exists. The per-pair architecture isn't theoretical — it exists because one project needed Google Translate for French and a coached FST pipeline for an Indigenous language, running side by side in the same sync command.
 
-You handle the i18n framework (next-intl, i18next, Hugo). Rosetta handles the translation files.
+The companion [MT Eval Harness](https://github.com/gamedaysuits/gds-mt-eval-harness) lets you benchmark and compare translation approaches, then export working methods as rosetta plugins. Anyone who speaks both languages can develop, test, and share a translation method — no proprietary platform required.
 
-- **Multi-format** — JSON, TOML, YAML, and Hugo Markdown (front matter + body)
-- **Incremental** — Only translates what changed (SHA-256 hash tracking)
-- **Pluggable methods** — LLM (default), coached LLM, Google Translate, or remote API via per-pair config
-- **Per-pair config** — Different models, methods, and quality tiers per language pair
-- **Language registers** — Culturally tuned tones (formal French, polite Japanese, etc.) — visible during setup, customizable per language
-- **Content-aware** — LLM methods shield code blocks, shortcodes, links, and interpolation variables during Markdown translation
-- **Pipeline tools** — `lint`, `audit`, `integrity`, `seo` for CI gates
-- **Zero dependencies** — Node.js built-ins only. Requires Node 20+
-
-## Choose Your Method
+### Choose Your Method
 
 | Method | Key | What It Does | Best For |
 |--------|-----|-------------|----------|
@@ -177,18 +187,26 @@ Create `i18n-rosetta.config.json` or run `i18n-rosetta init`:
 | `batchSize` | `30` | Keys per translation batch |
 | `pairs` | `{}` | Per-pair method, model, and quality overrides |
 
-**Zero-config mode**: No config file? Rosetta auto-detects locale files, format, and target languages from your project.
-
-**Custom registers**: Control translation tone per language:
+**Per-language overrides**: Languages that need special handling can override model, batch size, and retry budget:
 
 ```json
 {
   "languages": {
     "fr": "Formal academic French. Use vous-form.",
-    "ja": "Polite professional register (です/ます form)."
+    "crk": {
+      "name": "Plains Cree",
+      "register": "SRO syllabics with grammatical precision.",
+      "model": "google/gemini-2.5-pro",
+      "batchSize": 5,
+      "maxRetries": 5,
+      "script": "cans"
+    }
   }
 }
-```
+
+**Zero-config mode**: No config file? Rosetta auto-detects locale files, format, and target languages from your project.
+
+Language values can be a string (register shorthand) or an object (full control). Pair-level overrides in `pairs` take priority over language-level settings.
 
 Framework setup guides: [docs/INTEGRATION_GUIDES.md](https://github.com/gamedaysuits/i18n-rosetta/blob/main/docs/INTEGRATION_GUIDES.md)
 
@@ -197,6 +215,9 @@ Framework setup guides: [docs/INTEGRATION_GUIDES.md](https://github.com/gamedays
 - **Exponential backoff** — 3 retries with jitter on 429/5xx errors
 - **30s request timeout** — AbortController prevents hanging
 - **Response validation** — only accepts keys that were sent for translation
+- **Quality gate** — catches hallucination loops, wrong-script output, length inflation, and source echoes
+- **Retry cascade** — on JSON parse failure, retries batch → half-batch → individual keys (budget-capped via `maxRetries`)
+- **Prompt caching** — system/user message split enables provider-level caching, reducing token cost across batches
 - **Prototype pollution guard** — blocks `__proto__`, `constructor`, `prototype`
 - **Path containment** — file writes validated to stay within configured directories
 - **Block protection** — code blocks, shortcodes, HTML shielded during content translation
