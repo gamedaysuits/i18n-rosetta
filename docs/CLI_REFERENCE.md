@@ -26,6 +26,7 @@ Run `i18n-rosetta <command> --help` for detailed help on any command.
 --content-dir <path>    Hugo content directory for Markdown translation
 --source <code>         Override source locale (default: en)
 --model <model>         Override translation model
+--method <method>       Translation method: llm, google-translate (default: from config)
 --format <fmt>          Locale file format: json, toml, yaml, or auto
 --dry                   Preview changes without writing files
 ```
@@ -58,6 +59,8 @@ i18n-rosetta sync --dry                             # preview only
 i18n-rosetta sync --force-keys "hero.title"         # force re-translate
 i18n-rosetta sync --force-keys "a.title,a.subtitle" # multiple keys
 i18n-rosetta sync --content-dir ./content           # include Hugo Markdown
+i18n-rosetta sync --method google-translate          # force Google Translate
+i18n-rosetta sync --fallback                         # write [EN] prefixes on failure
 ```
 
 **Change detection**: i18n-rosetta stores SHA-256 hashes in `.i18n-rosetta.lock`. When source values change, the next sync automatically re-translates those keys. Commit the lock file so all developers share the baseline.

@@ -1,9 +1,8 @@
 {
   "name": "i18n-rosetta",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Research-grade translation engine for i18n projects. Pluggable methods, per-pair quality tiers, and deterministic script converters. Supports JSON (next-intl, i18next), TOML, and YAML (Hugo).",
   "type": "module",
-  "exports": "./lib/sync.js",
   "bin": {
     "i18n-rosetta": "bin/cli.js"
   },
@@ -18,7 +17,7 @@
     "test:lint": "node --test test/lint.test.js",
     "test:pairs": "node --test test/pairs.test.js",
     "test:methods": "node --test test/methods.test.js",
-    "test:migrate": "node --test test/migrate.test.js",
+
     "test:init-help": "node --test test/init-help.test.js",
     "test:sync-pairs": "node --test test/sync-pairs.test.js",
     "prepublishOnly": "npm test",
@@ -64,6 +63,8 @@
     "bin/",
     "lib/",
     "schemas/",
+    "docs/",
+    "!docs/planning/",
     "README.md",
     "LICENSE"
   ]

@@ -220,7 +220,7 @@ describe('diffLabel', () => {
 describe('resolveConfig', () => {
   it('uses defaults when no config file exists', () => {
     const config = resolveConfig({}, '/tmp/nonexistent');
-    assert.equal(config.sourceLocale, 'en');
+    assert.equal(config.inputLocale, 'en');
     assert.equal(config.model, 'openai/gpt-4o-mini');
     assert.equal(config.batchSize, 30);
     assert.equal(config.fallbackPrefix, '[EN] ');
@@ -232,7 +232,7 @@ describe('resolveConfig', () => {
       model: 'anthropic/claude-haiku',
       batchSize: '15',
     }, '/tmp/nonexistent');
-    assert.equal(config.sourceLocale, 'ja');
+    assert.equal(config.inputLocale, 'ja');
     assert.equal(config.model, 'anthropic/claude-haiku');
     assert.equal(config.batchSize, 15);
   });
@@ -309,7 +309,7 @@ describe('sync integration (dry-run)', () => {
   it('auto-detects languages from fixture directory', () => {
     const config = resolveConfig({}, import.meta.dirname);
     config.localesDir = path.join(import.meta.dirname, 'fixtures', 'locales');
-    config.sourceLocale = 'en';
+    config.inputLocale = 'en';
     const detected = autoDetectLanguages(config);
 
     assert.ok(detected['de'], 'Should detect de.json');
