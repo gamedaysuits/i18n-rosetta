@@ -1,13 +1,16 @@
 #!/usr/bin/env node
 /**
  * Conlang hardening test suite — validates the retry cascade,
- * quality gate, prompt caching, and config schema extensions.
+ * quality gate, prompt caching, config schema extensions, and
+ * script converters for constructed/low-resource languages.
  *
  * Tests cover:
  *   Phase 1: Config schema — per-language model/batchSize/maxRetries/script
  *   Phase 2: Prompt caching — system/user message split
  *   Phase 3: Retry cascade — parse error recovery (batch → half → individual)
  *   Phase 4: Quality gate — repetition, length ratio, script compliance, echo
+ *   Phase 5: Script converters — SRO→Syllabics, Latin→Cyrillic,
+ *            Romanization→pIqaD, Latin→Tengwar, Latin→Kryptonian
  */
 
 import { describe, it, beforeEach, afterEach } from 'node:test';
@@ -29,6 +32,19 @@ import {
   NON_LATIN_LOCALES,
   DEFAULT_THRESHOLDS,
 } from '../lib/validate.js';
+
+// Phase 5: Script converters
+import {
+  sroToSyllabics,
+  latinToCyrillicSr,
+  romanizationToPiqad,
+  latinToTengwar,
+  latinToKryptonian,
+  convertScript,
+  hasScriptConverter,
+  getConverterInfo,
+  SCRIPT_CONVERTERS,
+} from '../lib/scripts.js';
 
 // =================================================================
 // Phase 1: Config schema — per-language overrides
@@ -430,14 +446,6 @@ describe('Quality gate: NON_LATIN_LOCALES', () => {
 // =================================================================
 // Phase 5: Script converter integration
 // =================================================================
-import {
-  convertScript,
-  hasScriptConverter,
-  getConverterInfo,
-  sroToSyllabics,
-  latinToCyrillicSr,
-  SCRIPT_CONVERTERS,
-} from '../lib/scripts.js';
 
 describe('Script converter: registry', () => {
   it('has a converter registered for Plains Cree (crk)', () => {
@@ -525,5 +533,162 @@ describe('Script converter: convertScript API', () => {
     const { converted, converterUsed } = convertScript('Zdravo', 'sr');
     assert.ok(converterUsed, 'Should report converter used');
     assert.equal(converted, 'Здраво');
+  });
+});
+
+// =================================================================
+// Phase 5B: Klingon pIqaD converter
+// =================================================================
+describe('Script converter: Romanization → pIqaD', () => {
+  it('converts basic Klingon romanization to pIqaD', () => {
+    const result = romanizationToPiqad('nuqneH');
+    assert.ok(result.length > 0, 'Should produce output');
+    assert.ok(
+      [...result].some(ch => ch.charCodeAt(0) >= 0xF8D0 && ch.charCodeAt(0) <= 0xF8FF),
+      'Output should contain pIqaD PUA characters'
+    );
+  });
+
+  it('handles trigraph tlh correctly', () => {
+    const result = romanizationToPiqad('tlhIngan');
+    assert.ok(result.length < 'tlhIngan'.length, 'Trigraph should collapse to one character');
+    assert.equal(result[0], '\uF8E4', 'tlh should map to U+F8E4');
+  });
+
+  it('handles digraphs ch, gh, ng correctly', () => {
+    assert.equal(romanizationToPiqad('ch'), '\uF8D2', 'ch → U+F8D2');
+    assert.equal(romanizationToPiqad('gh'), '\uF8D5', 'gh → U+F8D5');
+    assert.equal(romanizationToPiqad('ng'), '\uF8DC', 'ng → U+F8DC');
+  });
+
+  it('is case-sensitive (D ≠ d)', () => {
+    assert.equal(romanizationToPiqad('D'), '\uF8D3', 'D maps to pIqaD D');
+    assert.equal(romanizationToPiqad('d'), 'd', 'lowercase d passes through unmapped');
+  });
+
+  it('handles glottal stop (apostrophe)', () => {
+    assert.ok(romanizationToPiqad("Qo'").endsWith('\uF8E9'), 'Apostrophe → glottal stop');
+  });
+
+  it('handles curly apostrophe (copy-paste safety)', () => {
+    assert.ok(romanizationToPiqad('Qo\u2019').endsWith('\uF8E9'), 'Curly quote → glottal stop');
+  });
+
+  it('preserves spaces and punctuation', () => {
+    const result = romanizationToPiqad('nuqneH! batlh.');
+    assert.ok(result.includes('!') && result.includes('.') && result.includes(' '));
+  });
+
+  it('handles empty string', () => {
+    assert.equal(romanizationToPiqad(''), '');
+  });
+});
+
+// =================================================================
+// Phase 5C: Tengwar (Sindarin Mode of Beleriand) converter
+// =================================================================
+describe('Script converter: Latin → Tengwar', () => {
+  it('converts basic Sindarin Latin to Tengwar', () => {
+    const result = latinToTengwar('mae govannen');
+    assert.ok(result.length > 0, 'Should produce output');
+    assert.ok(
+      [...result].some(ch => ch.charCodeAt(0) >= 0xE000 && ch.charCodeAt(0) <= 0xE07F),
+      'Output should contain Tengwar PUA characters'
+    );
+  });
+
+  it('handles digraph th correctly', () => {
+    assert.equal(latinToTengwar('th'), '\uE003', 'th → thúlë');
+  });
+
+  it('maps vowels as full letters (Beleriand mode)', () => {
+    assert.equal(latinToTengwar('a'), '\uE03F', 'a → short a tengwa');
+    assert.equal(latinToTengwar('e'), '\uE041', 'e → short e tengwa');
+  });
+
+  it('handles long vowels with diacritics', () => {
+    assert.equal(latinToTengwar('á'), '\uE040', 'á → long a carrier');
+    assert.equal(latinToTengwar('â'), '\uE040', 'â → long a carrier');
+  });
+
+  it('lowercases input for consistent mapping', () => {
+    assert.equal(latinToTengwar('MAE'), latinToTengwar('mae'));
+  });
+
+  it('preserves non-mapped characters', () => {
+    const result = latinToTengwar('elen 123!');
+    assert.ok(result.includes('123') && result.includes('!') && result.includes(' '));
+  });
+
+  it('handles empty string', () => {
+    assert.equal(latinToTengwar(''), '');
+  });
+});
+
+// =================================================================
+// Phase 5D: Kryptonian converter (1:1 Latin cipher)
+// =================================================================
+describe('Script converter: Latin → Kryptonian', () => {
+  it('converts Latin text to Kryptonian PUA characters', () => {
+    const result = latinToKryptonian('Kal-El');
+    assert.equal(result.charCodeAt(0), 0xE10A, 'K → U+E10A');
+  });
+
+  it('maps A-Z to sequential PUA block U+E100-E119', () => {
+    assert.equal(latinToKryptonian('A').charCodeAt(0), 0xE100, 'A → U+E100');
+    assert.equal(latinToKryptonian('Z').charCodeAt(0), 0xE119, 'Z → U+E119');
+    assert.equal(latinToKryptonian('M').charCodeAt(0), 0xE10C, 'M → U+E10C');
+  });
+
+  it('is case-insensitive', () => {
+    assert.equal(latinToKryptonian('A'), latinToKryptonian('a'));
+  });
+
+  it('preserves non-alpha characters', () => {
+    const result = latinToKryptonian('Kal-El 123!');
+    assert.ok(result.includes('-') && result.includes(' ') && result.includes('123') && result.includes('!'));
+  });
+
+  it('handles empty string', () => {
+    assert.equal(latinToKryptonian(''), '');
+  });
+});
+
+// =================================================================
+// Phase 5E: convertScript API — conlang integration
+// =================================================================
+describe('Script converter: convertScript API — conlangs', () => {
+  it('converts Klingon romanization via tlh locale', () => {
+    const { converted, converterUsed } = convertScript('nuqneH', 'tlh');
+    assert.ok(converterUsed && converterUsed.includes('pIqaD'));
+    assert.ok([...converted].some(ch => ch.charCodeAt(0) >= 0xF8D0));
+  });
+
+  it('converts Sindarin Latin via x-elvish-s locale', () => {
+    const { converted, converterUsed } = convertScript('mae govannen', 'x-elvish-s');
+    assert.ok(converterUsed && converterUsed.includes('Tengwar'));
+  });
+
+  it('converts Latin to Kryptonian via x-kryptonian locale', () => {
+    const { converted, converterUsed } = convertScript('Kal-El', 'x-kryptonian');
+    assert.ok(converterUsed && converterUsed.includes('Kryptonian'));
+  });
+
+  it('registry has all 5 converters registered', () => {
+    for (const code of ['crk', 'sr', 'tlh', 'x-elvish-s', 'x-kryptonian']) {
+      assert.ok(hasScriptConverter(code), `${code} should be registered`);
+    }
+  });
+
+  it('getConverterInfo returns fontNote for PUA-based converters', () => {
+    assert.ok(getConverterInfo('tlh').fontNote?.includes('pIqaD'));
+    assert.ok(getConverterInfo('x-elvish-s').fontNote);
+    assert.ok(getConverterInfo('x-kryptonian').fontNote);
+    assert.equal(getConverterInfo('x-kryptonian').type, 'font-based');
+  });
+
+  it('non-PUA converters (crk, sr) have no fontNote', () => {
+    assert.equal(getConverterInfo('crk').fontNote, undefined);
+    assert.equal(getConverterInfo('sr').fontNote, undefined);
   });
 });
