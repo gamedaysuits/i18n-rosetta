@@ -1,0 +1,7 @@
+# Exclude internal planning docs, tests, and development artifacts from npm
+docs/planning/
+test/
+.vault/
+.github/
+.rosetta-backup/
+*.lock

@@ -4,6 +4,42 @@ Step-by-step setup for i18n-rosetta with popular frameworks.
 
 ---
 
+## API Key Setup
+
+Before integrating with any framework, you need a translation API key. Rosetta supports two providers:
+
+### Option A: OpenRouter (recommended)
+
+[OpenRouter](https://openrouter.ai) provides a unified API for 200+ LLM models. Free tier available.
+
+```bash
+# Sign up at https://openrouter.ai, then:
+export OPENROUTER_API_KEY=sk-or-v1-...
+
+# Or add to .env.local:
+OPENROUTER_API_KEY=sk-or-v1-your-key-here
+```
+
+Best for: content-heavy projects, Markdown translation, and projects needing content-aware shielding (code blocks, shortcodes, interpolation variables).
+
+### Option B: Google Translate
+
+```bash
+export GOOGLE_TRANSLATE_API_KEY=...
+```
+
+Best for: high-volume key-value string pairs (130+ languages). **Not recommended** for Markdown content — Google Translate has no awareness of code blocks, shortcodes, or interpolation variables.
+
+To use Google Translate explicitly:
+
+```bash
+i18n-rosetta sync --method google-translate
+```
+
+> **Tip**: If only `GOOGLE_TRANSLATE_API_KEY` is set (no OpenRouter key), rosetta auto-switches to Google Translate automatically.
+
+---
+
 ## Hugo (TOML / YAML / Markdown)
 
 ### Project structure

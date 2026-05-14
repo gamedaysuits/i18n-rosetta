@@ -5,92 +5,57 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.0.0] - 2026-05-13
-
-### ⚠️ BREAKING
-
-- **Pure ESM** — the package is now ESM-only (`"type": "module"`). `require()` is no longer supported.
-- **Node.js 20.11+** required (uses `import.meta.dirname`).
-- **Config filename** — `i18n-rosetta.config.json` only. Legacy `i18n-autopilot.config.json` is no longer auto-detected.
-- **Lock filename** — `.i18n-rosetta.lock` only.
-- **CLI binary** — `i18n-rosetta` only. The `i18n-autopilot` alias has been removed.
-- **API method env var** — `ROSETTA_API_KEY` replaces `GDS_TRANSLATE_API_KEY` for remote translation endpoints.
-- **Pair-based architecture** — the translation engine is restructured around a pair graph. Each source→target pair is independently configurable.
-- **Library errors** — core modules throw `Error` objects instead of calling `process.exit()`, enabling programmatic use.
+## [3.1.0] - 2026-05-13
 
 ### Added
-- **Pair graph** (`lib/pairs.js`): Per-pair configuration with method, model, quality tier, batch size, and register. Pairs are resolved from config, auto-detected locales, and built-in register defaults.
-- **Pluggable translation methods**: LLM (default), coached LLM, Google Translate, and remote API via the method registry. Each pair can use a different method.
-- **Plugin system** (`lib/plugins.js`): Install, remove, list, and validate pre-packaged translation recipes (`method.json` manifests). Stored in `.rosetta/methods/`.
-- **Google Translate method** (`lib/methods/google-translate.js`): Built-in baseline using Google Cloud Translation API v2. API key sent via header, not query string.
-- **API method** (`lib/methods/api.js`): Thin HTTP client for remote translation endpoints. Zero translation logic client-side.
-- **Coached translation method** (`lib/methods/llm-coached.js`): Grammar rules, dictionaries, and style notes injected into LLM prompts via `.rosetta/coaching/<locale>.json`.
-- **Provenance tracking** (`lib/provenance.js`): Licensing audit for translation resources. Reports commercial readiness and flags per method.
-- **Script converters** (`lib/scripts.js`): Deterministic transliteration (Simplified↔Traditional Chinese, Cyrillic↔Latin Serbian, etc.) — zero-LLM, zero-cost, lossless.
-- **Lint command** (`lib/lint.js`): Static analysis for hardcoded strings in source code. Supports `.rosettaignore`.
-- **Wrap command** (`lib/commands/wrap.js`): Auto-wrap hardcoded strings in `t()` calls with undo support.
-- **SEO auditing** (`lib/seo.js`): Generate hreflang tags, sitemap.xml, and JSON-LD schema. Validates language meta attributes.
-- **Integrity auditing** (`lib/integrity.js`): Detects placeholder corruption, encoding issues, and orphaned keys.
-- **Migration tool** (`lib/migrate.js`): Automated v2→v3 config migration with backup.
-- **Interactive init wizard** (`lib/commands/init.js`): Guided setup with language preset groups. Silent defaults via `--yes`.
-- **Per-command `--help`**: Every command supports `i18n-rosetta <cmd> --help` with focused usage, options, and examples.
-- **JSON Schema** (`schemas/rosetta-plugin.schema.json`): Machine-readable contract for plugin manifests. Published in npm package for IDE autocompletion.
-- **Centralized OpenRouter client** (`lib/methods/openrouter-client.js`): Shared HTTP client with retry, backoff, and security filtering.
-- **Multi-format locale support**: JSON, TOML, and YAML. Auto-detected from file extensions.
-- **Hugo content translation** (`lib/content.js`): Markdown front matter + body translation with block protection for code fences, shortcodes, and HTML.
-- **Red-team test suite** (`test/redteam.test.js`): Adversarial testing for injection, prototype pollution, prompt manipulation, and path traversal.
-- **45+ language registers** with culturally appropriate tones, RTL hints, and script directions.
-- **635 tests** across 144 suites — zero external dependencies.
+- **`--method` CLI flag**: Override the default translation method from the command line (`llm`, `google-translate`, `api`).
+- **Smart method detection**: If `GOOGLE_TRANSLATE_API_KEY` is set but no `OPENROUTER_API_KEY`, auto-switches to Google Translate.
+- **Markdown safety warnings**: Google Translate method now warns when content translation falls back to LLM, explaining that Google Translate has no awareness of code blocks, shortcodes, or interpolation variables.
+- **Register display**: `init` wizard shows the active register for each selected language. `status` command shows registers with `(default)` or `(custom)` labels.
 
 ### Changed
-- **CLI decomposed**: `bin/cli.js` refactored from monolithic dispatcher to 69-line entry point with 11 command modules in `lib/commands/`.
-- **All internal imports** use `node:` prefix and `.js` extensions (ESM-compliant).
-- **Prototype pollution guard**: `__proto__`, `constructor`, `prototype` rejected from source files and LLM responses.
-- **Path containment**: File writes validated to stay within configured directories.
+- **Config field standardized**: `inputLocale` is the canonical field. The deprecated `sourceLocale` alias has been removed.
+- **Simplified config pipeline**: Removed v2→v3 auto-migration system (no external users to migrate).
+- **Pairs use `defaultMethod`**: The pair graph respects the global `defaultMethod` config value, enabling CLI-driven and env-driven method selection.
 
-## [2.0.1] - 2026-05-04
+### Removed
+- `lib/migrate.js` — v2→v3 migration system (dead code).
+- `sourceLocale` config alias — use `inputLocale` instead.
+- v2 compatibility branch in translation dispatch.
 
-### Fixed
-- **Placeholder corruption detection**: After restoring protected blocks in translated Markdown, the engine scans for orphaned `⟦PROTECTED_N⟧` tokens. Mangled placeholders cause the translated body to be discarded with a warning.
-- **TOML nested table handling**: Parser now properly skips keys inside `[section]` headers.
+## [3.0.0] - 2026-05-12
 
-## [2.0.0] - 2026-05-04
+Initial public release. Per-pair translation engine with pluggable methods.
 
-### Added
-- Multi-format locale support (TOML, YAML alongside JSON).
-- Hugo content translation with front matter and body.
-- Raw content translation via OpenRouter.
+### Architecture
+- **Pair graph** (`lib/pairs.js`): Each source→target pair is independently configurable with method, model, quality tier, batch size, and register.
+- **Pluggable methods**: LLM (default), coached LLM, Google Translate, and remote API. Each pair can use a different method.
+- **Plugin system** (`lib/plugins.js`): Install, remove, and validate pre-packaged translation recipes (JSON manifests, not code).
+- **Pure ESM** with Node.js 20.11+ required.
 
-### Changed
-- Package published as `i18n-rosetta` on npm.
+### Translation Methods
+- **LLM** (`lib/methods/llm.js`): Default method via OpenRouter with exponential backoff, key validation, and content-aware Markdown shielding.
+- **Google Translate** (`lib/methods/google-translate.js`): Google Cloud Translation API v2 for key-value pairs. API key sent via header.
+- **Coached LLM** (`lib/methods/llm-coached.js`): Grammar rules, dictionaries, and style notes injected into LLM prompts.
+- **Remote API** (`lib/methods/api.js`): Thin HTTP client for community-hosted or IP-protected endpoints.
+- **Script converters** (`lib/scripts.js`): Deterministic transliteration (Simplified↔Traditional Chinese, Cyrillic↔Latin Serbian) — zero-LLM, zero-cost.
 
-## [1.3.0] - 2026-05-04
+### Formats & Content
+- JSON, TOML, YAML locale files (auto-detected from file extensions).
+- Hugo Markdown translation with front matter + body block protection (code fences, shortcodes, HTML).
 
-### Added
-- Context-aware translation prompts with per-key type hints.
-- Gender-neutrality instruction for gendered languages.
-- 5 new language registers (bg, cs, da, fi, sk).
-- Security hardening: prototype pollution guard, path containment.
+### Developer Tools
+- `sync`, `watch`, `audit`, `lint`, `wrap`, `seo`, `integrity`, `status`, `provenance`, `plugin` commands.
+- Interactive `init` wizard with language preset groups and register display.
+- Per-command `--help` for every command.
+- JSON Schema for plugin manifests (`schemas/rosetta-plugin.schema.json`).
 
-## [1.2.0] - 2026-05-03
+### Security
+- Prototype pollution guard: `__proto__`, `constructor`, `prototype` rejected.
+- Path containment: file writes validated to configured directories.
+- Response validation: rejects hallucinated keys from LLM responses.
+- Adversarial test suite (`test/redteam.test.js`).
 
-### Added
-- SHA-256 content hashing with `.i18n-rosetta.lock` manifest for automatic stale detection.
-- `--force-keys` CLI flag for explicit re-translation.
-
-## [1.1.0] - 2026-05-02
-
-### Added
-- 30+ built-in language registers.
-- Constructed/novelty language support (Klingon, Pirate English, Elvish).
-- `audit` command and `watch` mode.
-
-## [1.0.0] - 2026-05-01
-
-### Added
-- Initial release.
-- OpenRouter translation engine with batching, backoff, and timeout.
-- Response key validation (rejects hallucinated keys).
-- `[EN]`-prefixed fallbacks when API is unavailable.
-- JSON flatten/unflatten for nested locales.
-- Zero external dependencies.
+### Quality
+- 45+ language registers with culturally appropriate tones, RTL hints, and script directions.
+- 618 tests across 141 suites — zero external dependencies.

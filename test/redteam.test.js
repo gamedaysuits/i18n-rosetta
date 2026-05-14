@@ -207,7 +207,7 @@ describe('RED TEAM: resolveConfig edge cases', () => {
     );
     // Should not throw — should fall back to defaults
     const config = resolveConfig({}, tmpDir);
-    assert.equal(config.sourceLocale, 'en');
+    assert.equal(config.inputLocale, 'en');
     assert.equal(config.model, 'openai/gpt-4o-mini');
   });
 
@@ -219,14 +219,14 @@ describe('RED TEAM: resolveConfig edge cases', () => {
     );
     // Empty string is not valid JSON, should fall back
     const config = resolveConfig({}, tmpDir);
-    assert.equal(config.sourceLocale, 'en');
+    assert.equal(config.inputLocale, 'en');
   });
 
   it('survives a config with unexpected types', () => {
     fs.writeFileSync(
       path.join(tmpDir, 'i18n-rosetta.config.json'),
       JSON.stringify({
-        sourceLocale: 12345,        // Should be string
+        inputLocale: 12345,        // Should be string
         batchSize: 'not-a-number',  // Should be number
         languages: 'not-an-array',  // Should be array or object
       }),
@@ -234,21 +234,21 @@ describe('RED TEAM: resolveConfig edge cases', () => {
     );
     // Should not throw
     const config = resolveConfig({}, tmpDir);
-    assert.equal(config.sourceLocale, 12345); // Passes through — no validation
+    assert.equal(config.inputLocale, 12345); // Passes through — no validation
   });
 
   it('handles config with extra unknown fields gracefully', () => {
     fs.writeFileSync(
       path.join(tmpDir, 'i18n-rosetta.config.json'),
       JSON.stringify({
-        sourceLocale: 'en',
+        inputLocale: 'en',
         unknownField: 'should be ignored',
         anotherRandom: { nested: true },
       }),
       'utf-8'
     );
     const config = resolveConfig({}, tmpDir);
-    assert.equal(config.sourceLocale, 'en');
+    assert.equal(config.inputLocale, 'en');
     // Unknown fields pass through but shouldn't break anything
     assert.equal(config.unknownField, 'should be ignored');
   });
@@ -315,7 +315,7 @@ describe('RED TEAM: autoDetectLanguages', () => {
     fs.writeFileSync(path.join(tmpDir, 'data.yaml'), 'also not');
     fs.writeFileSync(path.join(tmpDir, 'en.json'), '{}');
 
-    const config = { sourceLocale: 'en', localesDir: tmpDir };
+    const config = { inputLocale: 'en', localesDir: tmpDir };
     const detected = autoDetectLanguages(config);
     assert.ok(detected['fr'], 'Should detect fr.json');
     assert.ok(!detected['readme'], 'Should not detect txt files');
@@ -327,7 +327,7 @@ describe('RED TEAM: autoDetectLanguages', () => {
     fs.writeFileSync(path.join(tmpDir, 'en.json'), '{}');
     fs.writeFileSync(path.join(tmpDir, 'fr.json'), '{}');
 
-    const config = { sourceLocale: 'en', localesDir: tmpDir };
+    const config = { inputLocale: 'en', localesDir: tmpDir };
     const detected = autoDetectLanguages(config);
     assert.ok(!detected['en'], 'Should not include source locale');
     assert.ok(detected['fr'], 'Should include non-source locales');
@@ -337,7 +337,7 @@ describe('RED TEAM: autoDetectLanguages', () => {
     fs.writeFileSync(path.join(tmpDir, 'en.json'), '{}');
     fs.writeFileSync(path.join(tmpDir, 'xx-custom.json'), '{}');
 
-    const config = { sourceLocale: 'en', localesDir: tmpDir };
+    const config = { inputLocale: 'en', localesDir: tmpDir };
     const detected = autoDetectLanguages(config);
     // Unknown codes should get the code itself as the name
     assert.equal(detected['xx-custom'].name, 'xx-custom');
@@ -345,13 +345,13 @@ describe('RED TEAM: autoDetectLanguages', () => {
   });
 
   it('handles empty locales directory', () => {
-    const config = { sourceLocale: 'en', localesDir: tmpDir };
+    const config = { inputLocale: 'en', localesDir: tmpDir };
     const detected = autoDetectLanguages(config);
     assert.deepEqual(detected, {});
   });
 
   it('handles nonexistent locales directory', () => {
-    const config = { sourceLocale: 'en', localesDir: '/tmp/does-not-exist-12345' };
+    const config = { inputLocale: 'en', localesDir: '/tmp/does-not-exist-12345' };
     const detected = autoDetectLanguages(config);
     assert.deepEqual(detected, {});
   });

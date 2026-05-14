@@ -179,20 +179,23 @@ describe('resolvePairs — simple mode', () => {
     assert.equal(pair.source, 'es');
   });
 
-  it('falls back to sourceLocale if inputLocale is missing', () => {
+  it('uses undefined source when inputLocale is missing', () => {
     const config = {
-      sourceLocale: 'fr',
       resolvedLanguages: {
         en: { name: 'English', register: 'Standard.' },
       },
     };
 
     const pairs = resolvePairs(config);
-    assert.ok(pairs.has('fr:en'));
+    // Without inputLocale, the source is undefined — pair key is "undefined:en"
+    assert.equal(pairs.size, 1);
+    const pair = [...pairs.values()][0];
+    assert.equal(pair.source, undefined);
   });
 
-  it('defaults to en when no locale is specified', () => {
+  it('uses provided inputLocale as source (resolveConfig sets the default)', () => {
     const config = {
+      inputLocale: 'en', // resolveConfig would set this default
       resolvedLanguages: {
         fr: { name: 'French', register: 'Standard.' },
       },

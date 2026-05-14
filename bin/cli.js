@@ -42,6 +42,20 @@ const command = args._[0] || 'help';
 const cwd = process.cwd();
 
 // -----------------------------------------------------------------
+// --version: print version from package.json and exit
+// -----------------------------------------------------------------
+if (args.version) {
+  import('node:fs').then(fs => {
+    import('node:url').then(url => {
+      const pkgPath = new URL('../package.json', import.meta.url);
+      const pkg = JSON.parse(fs.readFileSync(pkgPath, 'utf-8'));
+      console.log(`i18n-rosetta v${pkg.version}`);
+      process.exit(0);
+    });
+  });
+} else
+
+// -----------------------------------------------------------------
 // Per-command --help: intercept before loading command modules
 // If the user runs `rosetta <cmd> --help`, show focused help for
 // that command without loading its module (fast, no side effects).
@@ -82,7 +96,12 @@ if (args.help && command !== 'help') {
         console.error(`[ERR] ${command} failed:`, err.message);
         process.exit(1);
       });
-  } else {
+  } else if (command === 'help') {
     import('../lib/commands/help.js').then(mod => mod.run());
+  } else {
+    // Unknown command — error loudly so CI typos don't silently pass
+    console.error(`[ERR] Unknown command: "${command}"`);
+    console.error('      Run "i18n-rosetta help" to see all commands.');
+    process.exit(1);
   }
 }
