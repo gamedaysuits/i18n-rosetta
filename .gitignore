@@ -34,7 +34,5 @@ coverage/
 # Test temp directories
 test/fixtures/_tmp_*
 
-# Benchmark tooling
-test/benchmark/.venv/
-test/benchmark/results/raw/
-test/benchmark/results/analysis/
+# Benchmark data — large scraped corpora and results (kept locally, not in git/npm)
+test/benchmark/

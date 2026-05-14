@@ -426,3 +426,104 @@ describe('Quality gate: NON_LATIN_LOCALES', () => {
     assert.ok(!NON_LATIN_LOCALES.has('es'));
   });
 });
+
+// =================================================================
+// Phase 5: Script converter integration
+// =================================================================
+import {
+  convertScript,
+  hasScriptConverter,
+  getConverterInfo,
+  sroToSyllabics,
+  latinToCyrillicSr,
+  SCRIPT_CONVERTERS,
+} from '../lib/scripts.js';
+
+describe('Script converter: registry', () => {
+  it('has a converter registered for Plains Cree (crk)', () => {
+    assert.ok(hasScriptConverter('crk'));
+  });
+
+  it('has a converter registered for Serbian (sr)', () => {
+    assert.ok(hasScriptConverter('sr'));
+  });
+
+  it('returns false for locales without converters', () => {
+    assert.ok(!hasScriptConverter('fr'));
+    assert.ok(!hasScriptConverter('de'));
+    assert.ok(!hasScriptConverter('ja'));
+  });
+
+  it('getConverterInfo returns from/to/type for registered locales', () => {
+    const info = getConverterInfo('crk');
+    assert.ok(info);
+    assert.equal(info.type, 'deterministic');
+    assert.ok(info.from.includes('SRO'));
+    assert.ok(info.to.includes('Syllabics'));
+  });
+
+  it('getConverterInfo returns null for unregistered locales', () => {
+    assert.equal(getConverterInfo('fr'), null);
+  });
+});
+
+describe('Script converter: SRO → Syllabics', () => {
+  it('converts basic SRO to syllabics', () => {
+    const result = sroToSyllabics('tânisi');
+    assert.ok(result.length > 0, 'Should produce output');
+    // Verify the output is non-ASCII (syllabic characters)
+    assert.ok(!isAsciiOnly(result), 'Output should contain syllabic characters');
+  });
+
+  it('preserves spaces and punctuation', () => {
+    const result = sroToSyllabics('tânisi! kiya.');
+    assert.ok(result.includes('!'), 'Should preserve exclamation');
+    assert.ok(result.includes('.'), 'Should preserve period');
+    assert.ok(result.includes(' '), 'Should preserve space');
+  });
+
+  it('handles empty string', () => {
+    assert.equal(sroToSyllabics(''), '');
+  });
+});
+
+describe('Script converter: Latin → Cyrillic Serbian', () => {
+  it('converts basic Latin Serbian to Cyrillic', () => {
+    const result = latinToCyrillicSr('Dobro');
+    assert.ok(!isAsciiOnly(result), 'Output should be Cyrillic');
+    assert.equal(result, 'Добро');
+  });
+
+  it('handles digraphs correctly (lj, nj, dž)', () => {
+    const result = latinToCyrillicSr('ljeto');
+    assert.ok(result.startsWith('љ'), 'lj digraph should map to single character');
+  });
+
+  it('preserves non-mapped characters', () => {
+    const result = latinToCyrillicSr('Test 123!');
+    assert.ok(result.includes('123'), 'Numbers should pass through');
+    assert.ok(result.includes('!'), 'Punctuation should pass through');
+  });
+});
+
+describe('Script converter: convertScript API', () => {
+  it('converts SRO text for crk locale', () => {
+    const { converted, converterUsed } = convertScript('tânisi', 'crk');
+    assert.ok(converterUsed, 'Should report converter used');
+    assert.ok(converterUsed.includes('SRO'), 'Should mention source script');
+    assert.ok(converterUsed.includes('Syllabics'), 'Should mention target script');
+    assert.ok(!isAsciiOnly(converted), 'Output should be non-ASCII');
+  });
+
+  it('returns text unchanged for locales without converters', () => {
+    const { converted, converterUsed } = convertScript('Bonjour', 'fr');
+    assert.equal(converted, 'Bonjour', 'Text should pass through unchanged');
+    assert.equal(converterUsed, null, 'No converter should be reported');
+  });
+
+  it('converts Serbian Latin to Cyrillic', () => {
+    const { converted, converterUsed } = convertScript('Zdravo', 'sr');
+    assert.ok(converterUsed, 'Should report converter used');
+    assert.equal(converted, 'Здраво');
+  });
+});
