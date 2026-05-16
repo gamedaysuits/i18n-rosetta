@@ -37,3 +37,6 @@ test/fixtures/_tmp_*
 # Benchmark data — large scraped corpora and results (kept locally, not in git/npm)
 test/benchmark/
 .rosetta/
+
+# Co-located ecosystem projects (separate git repos, not part of rosetta)
+crk-translate/
