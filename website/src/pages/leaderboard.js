@@ -1,10 +1,27 @@
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo, useEffect } from "react";
 import Layout from "@theme/Layout";
 import Heading from "@theme/Heading";
 import Link from "@docusaurus/Link";
 
-import leaderboardData from "../data/leaderboard.json";
 import styles from "./leaderboard.module.css";
+
+// Supabase public config — safe to embed (RLS restricts to read-only)
+const SUPABASE_URL = "https://sjdomynysdljkbemupqa.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_bV6CFNFnzxhQI0wlBx2J0A_5Vm5gFBp";
+
+// Hardcoded dataset metadata (not stored in Supabase)
+const DATASETS = [
+  {
+    id: "edtekla-dev-v1",
+    name: "EDTeKLA Development Set v1",
+    pair: "eng → crk",
+    domain: "educational",
+    size: 124,
+    version: "1.0.0",
+    source: "EDTeKLA project, University of Alberta",
+    notes: "62 gold standard + 62 textbook entries. DO NOT TRAIN.",
+  },
+];
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -119,7 +136,7 @@ function TrustBadge({ trust }) {
 
 /** Expanded row detail panel. */
 function RowDetail({ entry }) {
-  const dataset = leaderboardData.datasets.find(
+  const dataset = DATASETS.find(
     (d) => d.id === entry.dataset,
   );
 
@@ -240,21 +257,76 @@ export default function LeaderboardPage() {
   const [sortKey, setSortKey] = useState("chrF");
   const [sortDir, setSortDir] = useState("desc");
   const [expandedIndex, setExpandedIndex] = useState(null);
+  const [entries, setEntries] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [fetchError, setFetchError] = useState(null);
+
+  // Fetch leaderboard data from Supabase on mount
+  useEffect(() => {
+    async function fetchLeaderboard() {
+      try {
+        const resp = await fetch(
+          `${SUPABASE_URL}/rest/v1/run_cards?select=*&order=chrf_plus_plus.desc.nullslast`,
+          {
+            headers: {
+              apikey: SUPABASE_ANON_KEY,
+              Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+            },
+          }
+        );
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const data = await resp.json();
+
+        // Map Supabase rows to leaderboard entry shape
+        const mapped = data.map((row) => ({
+          method: row.condition?.includes("+") ? `fst-gate-${row.condition}` : `prompt-${row.condition}`,
+          model: row.model_slug,
+          condition: row.condition,
+          pair: row.language_pair?.replace(">", " → ") || "?",
+          dataset: row.dataset_id,
+          metrics: {
+            chrF: row.chrf_plus_plus,
+            exactMatch: row.exact_match_rate,
+            fstAcceptance: row.fst_acceptance_rate,
+          },
+          author: row.submitter,
+          trust: row.trust,
+          fingerprint: row.run_card?.fingerprint || {},
+          harnessVersion: row.harness_version,
+          runCardHash: row.id,
+          corpusSize: row.corpus_size,
+          date: row.run_timestamp?.split("T")[0] || row.submitted_at?.split("T")[0],
+          cost_usd: row.total_cost_usd,
+          elapsed_seconds: row.elapsed_seconds,
+          // Full run card for the detail panel
+          _runCard: row.run_card,
+        }));
+        setEntries(mapped);
+      } catch (err) {
+        setFetchError(err.message);
+        // Fall back to empty
+        setEntries([]);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchLeaderboard();
+  }, []);
 
   // ---- Derived data ----
 
   // Unique language pairs across all entries
   const pairs = useMemo(() => {
-    const set = new Set(leaderboardData.entries.map((e) => e.pair));
+    const set = new Set(entries.map((e) => e.pair));
     return Array.from(set);
-  }, []);
+  }, [entries]);
 
   // Unique conditions across all entries, used to show only
   // condition pills that actually appear in the data
   const conditions = useMemo(() => {
-    const set = new Set(leaderboardData.entries.map((e) => e.condition));
+    const set = new Set(entries.map((e) => e.condition));
     return Array.from(set);
-  }, []);
+  }, [entries]);
 
   // Which condition groups have at least one entry in the data?
   const availableConditionGroups = useMemo(() => {
@@ -269,9 +341,9 @@ export default function LeaderboardPage() {
 
   // Filter entries by selected pair
   const pairFilteredEntries = useMemo(() => {
-    if (activePair === "all") return leaderboardData.entries;
-    return leaderboardData.entries.filter((e) => e.pair === activePair);
-  }, [activePair]);
+    if (activePair === "all") return entries;
+    return entries.filter((e) => e.pair === activePair);
+  }, [activePair, entries]);
 
   // Filter entries by condition (applied after pair filter)
   const filteredEntries = useMemo(() => {
@@ -346,7 +418,7 @@ export default function LeaderboardPage() {
   // Rank is always based on the active metric on the primary dataset,
   // computed as a dense rank (no gaps) in descending order.
   const rankMap = useMemo(() => {
-    const primaryDataset = leaderboardData.datasets.find((d) => d.primary);
+    const primaryDataset = DATASETS.find((d) => d.primary);
     const primaryId = primaryDataset ? primaryDataset.id : null;
 
     // Only rank entries from the primary dataset within the current display set
@@ -516,131 +588,147 @@ export default function LeaderboardPage() {
           </div>
         </div>
 
-        {/* Results Table (or Empty State) */}
-        {sortedEntries.length === 0 ? (
-          <div className={styles.emptyState} id="leaderboard-empty">
-            <div className={styles.emptyIcon}>📭</div>
-            <p>
-              No submissions yet for{" "}
-              {activePair === "all" ? "any pair" : formatPair(activePair)}.
-            </p>
-            <p>Be the first to submit a benchmark result!</p>
+        {/* Loading / Error States */}
+        {loading && (
+          <div className={styles.loadingState}>
+            <p>Loading leaderboard data...</p>
           </div>
-        ) : (
-          <div className={styles.tableContainer}>
-            <table className={styles.table} id="leaderboard-table">
-              <thead>
-                <tr>
-                  <th>Rank</th>
-                  <th
-                    className={sortClass("method")}
-                    onClick={() => handleSort("method")}
-                    id="col-method"
-                  >
-                    Method
-                  </th>
-                  <th
-                    className={sortClass("model")}
-                    onClick={() => handleSort("model")}
-                    id="col-model"
-                  >
-                    Model
-                  </th>
-                  <th
-                    className={sortClass("chrF")}
-                    onClick={() => handleSort("chrF")}
-                    id="col-chrf"
-                  >
-                    chrF++
-                  </th>
-                  <th
-                    className={sortClass("exactMatch")}
-                    onClick={() => handleSort("exactMatch")}
-                    id="col-em"
-                  >
-                    EM%
-                  </th>
-                  <th
-                    className={sortClass("fstAcceptance")}
-                    onClick={() => handleSort("fstAcceptance")}
-                    id="col-fst"
-                  >
-                    FST%
-                  </th>
-                  <th>Trust</th>
-                  <th
-                    className={sortClass("author")}
-                    onClick={() => handleSort("author")}
-                    id="col-author"
-                  >
-                    Author
-                  </th>
-                  <th
-                    className={sortClass("date")}
-                    onClick={() => handleSort("date")}
-                    id="col-date"
-                  >
-                    Date
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                {sortedEntries.map((entry, index) => {
-                  const isExpanded = expandedIndex === index;
-                  const rank = rankMap.get(entry);
+        )}
+        {fetchError && (
+          <div className={styles.errorState}>
+            <p>⚠️ Could not load leaderboard: {fetchError}</p>
+          </div>
+        )}
 
-                  return (
-                    <React.Fragment key={`${entry.method}-${entry.model}-${index}`}>
-                      {/* Data row */}
-                      <tr
-                        className={styles.tableRow}
-                        onClick={() => handleRowClick(index)}
-                        id={`row-${index}`}
-                        aria-expanded={isExpanded}
+        {/* Results Table (or Empty State) — only after loading completes */}
+        {!loading && (
+          <>
+            {sortedEntries.length === 0 ? (
+              <div className={styles.emptyState} id="leaderboard-empty">
+                <div className={styles.emptyIcon}>📭</div>
+                <p>
+                  No submissions yet for{" "}
+                  {activePair === "all" ? "any pair" : formatPair(activePair)}.
+                </p>
+                <p>Be the first to submit a benchmark result!</p>
+              </div>
+            ) : (
+              <div className={styles.tableContainer}>
+                <table className={styles.table} id="leaderboard-table">
+                  <thead>
+                    <tr>
+                      <th>Rank</th>
+                      <th
+                        className={sortClass("method")}
+                        onClick={() => handleSort("method")}
+                        id="col-method"
                       >
-                        <td className={styles.rankCell}>
-                          {rank != null ? rank : "–"}
-                        </td>
-                        <td>{entry.method}</td>
-                        <td>{entry.model}</td>
-                        <td
-                          className={`${styles.metricCell} ${activeMetric === "chrF" ? styles.metricHighlight : ""}`}
-                        >
-                          {formatMetric(entry.metrics.chrF, "")}
-                        </td>
-                        <td
-                          className={`${styles.metricCell} ${activeMetric === "exactMatch" ? styles.metricHighlight : ""}`}
-                        >
-                          {formatMetric(entry.metrics.exactMatch, "%")}
-                        </td>
-                        <td
-                          className={`${styles.metricCell} ${activeMetric === "fstAcceptance" ? styles.metricHighlight : ""}`}
-                        >
-                          {formatMetric(entry.metrics.fstAcceptance, "%")}
-                        </td>
-                        <td>
-                          <TrustBadge trust={entry.trust} />
-                        </td>
-                        <td>{entry.author}</td>
-                        <td>{formatDate(entry.date)}</td>
-                      </tr>
+                        Method
+                      </th>
+                      <th
+                        className={sortClass("model")}
+                        onClick={() => handleSort("model")}
+                        id="col-model"
+                      >
+                        Model
+                      </th>
+                      <th
+                        className={sortClass("chrF")}
+                        onClick={() => handleSort("chrF")}
+                        id="col-chrf"
+                      >
+                        chrF++
+                      </th>
+                      <th
+                        className={sortClass("exactMatch")}
+                        onClick={() => handleSort("exactMatch")}
+                        id="col-em"
+                      >
+                        EM%
+                      </th>
+                      <th
+                        className={sortClass("fstAcceptance")}
+                        onClick={() => handleSort("fstAcceptance")}
+                        id="col-fst"
+                      >
+                        FST%
+                      </th>
+                      <th>Trust</th>
+                      <th
+                        className={sortClass("author")}
+                        onClick={() => handleSort("author")}
+                        id="col-author"
+                      >
+                        Author
+                      </th>
+                      <th
+                        className={sortClass("date")}
+                        onClick={() => handleSort("date")}
+                        id="col-date"
+                      >
+                        Date
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {sortedEntries.map((entry, index) => {
+                      const isExpanded = expandedIndex === index;
+                      const rank = rankMap.get(entry);
 
-                      {/* Expanded detail row */}
-                      <tr className={styles.expandedRow}>
-                        <td colSpan={9}>
-                          <div
-                            className={`${styles.expandedContent} ${isExpanded ? styles.expandedContentOpen : ""}`}
+                      return (
+                        <React.Fragment key={`${entry.method}-${entry.model}-${index}`}>
+                          {/* Data row */}
+                          <tr
+                            className={styles.tableRow}
+                            onClick={() => handleRowClick(index)}
+                            id={`row-${index}`}
+                            aria-expanded={isExpanded}
                           >
-                            {isExpanded && <RowDetail entry={entry} />}
-                          </div>
-                        </td>
-                      </tr>
-                    </React.Fragment>
-                  );
-                })}
-              </tbody>
-            </table>
-          </div>
+                            <td className={styles.rankCell}>
+                              {rank != null ? rank : "–"}
+                            </td>
+                            <td>{entry.method}</td>
+                            <td>{entry.model}</td>
+                            <td
+                              className={`${styles.metricCell} ${activeMetric === "chrF" ? styles.metricHighlight : ""}`}
+                            >
+                              {formatMetric(entry.metrics.chrF, "")}
+                            </td>
+                            <td
+                              className={`${styles.metricCell} ${activeMetric === "exactMatch" ? styles.metricHighlight : ""}`}
+                            >
+                              {formatMetric(entry.metrics.exactMatch, "%")}
+                            </td>
+                            <td
+                              className={`${styles.metricCell} ${activeMetric === "fstAcceptance" ? styles.metricHighlight : ""}`}
+                            >
+                              {formatMetric(entry.metrics.fstAcceptance, "%")}
+                            </td>
+                            <td>
+                              <TrustBadge trust={entry.trust} />
+                            </td>
+                            <td>{entry.author}</td>
+                            <td>{formatDate(entry.date)}</td>
+                          </tr>
+
+                          {/* Expanded detail row */}
+                          <tr className={styles.expandedRow}>
+                            <td colSpan={9}>
+                              <div
+                                className={`${styles.expandedContent} ${isExpanded ? styles.expandedContentOpen : ""}`}
+                              >
+                                {isExpanded && <RowDetail entry={entry} />}
+                              </div>
+                            </td>
+                          </tr>
+                        </React.Fragment>
+                      );
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            )}
+          </>
         )}
 
         {/* Trust Legend */}
