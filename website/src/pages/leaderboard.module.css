@@ -1,0 +1,759 @@
+/* ===================================================================
+   Leaderboard Page — CSS Module
+   Obsidian theme: violet primaries, cyan accents, dark surfaces.
+   =================================================================== */
+
+/* ---------------------------------------------------------------
+   Page Header
+   --------------------------------------------------------------- */
+.pageHeader {
+  background: linear-gradient(
+    135deg,
+    rgba(108, 92, 231, 0.08) 0%,
+    rgba(0, 210, 211, 0.04) 100%
+  );
+  padding: 3rem 0 2.5rem;
+  text-align: center;
+}
+
+.pageTitle {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-heading-color);
+}
+
+.pageSubtitle {
+  font-size: 1.05rem;
+  color: var(--ifm-font-color-secondary);
+  max-width: 640px;
+  margin: 0 auto 1rem;
+  line-height: 1.6;
+}
+
+.pageNote {
+  font-size: 0.88rem;
+  color: var(--ifm-font-color-secondary);
+  opacity: 0.75;
+}
+
+.pageNote a {
+  color: var(--ifm-color-primary);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* ---------------------------------------------------------------
+   Controls Bar (pair filter + metric toggle)
+   --------------------------------------------------------------- */
+.controlsBar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ---------------------------------------------------------------
+   Pair Filter Pills
+   --------------------------------------------------------------- */
+.pairFilter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pairPill {
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 20px;
+  padding: 0.4rem 1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  background: transparent;
+  color: var(--ifm-color-primary);
+  transition: background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+  white-space: nowrap;
+}
+
+.pairPill:hover {
+  background: rgba(108, 92, 231, 0.1);
+}
+
+.pairPillActive {
+  background: var(--ifm-color-primary);
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(108, 92, 231, 0.3);
+}
+
+.pairPillActive:hover {
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+/* ---------------------------------------------------------------
+   Metric Toggle (segmented control)
+   --------------------------------------------------------------- */
+.metricToggle {
+  display: inline-flex;
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.metricBtn {
+  padding: 0.4rem 1rem;
+  font-size: 0.84rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  color: var(--ifm-color-primary);
+  transition: background 0.2s ease, color 0.2s ease;
+  white-space: nowrap;
+}
+
+/* Divider between segments */
+.metricBtn + .metricBtn {
+  border-left: 1px solid var(--ifm-color-primary);
+}
+
+.metricBtn:hover {
+  background: rgba(108, 92, 231, 0.1);
+}
+
+.metricBtnActive {
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.metricBtnActive:hover {
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+/* ---------------------------------------------------------------
+   Condition Filter
+   Sits below pair + metric controls as a full-width row.
+   Groups conditions into manageable categories.
+   --------------------------------------------------------------- */
+.conditionFilter {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.conditionFilterLabel {
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ifm-font-color-secondary);
+  white-space: nowrap;
+}
+
+.conditionPills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.conditionPill {
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 16px;
+  padding: 0.3rem 0.8rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  background: transparent;
+  color: var(--ifm-color-primary);
+  transition: background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+  white-space: nowrap;
+}
+
+.conditionPill:hover {
+  background: rgba(108, 92, 231, 0.1);
+}
+
+.conditionPillActive {
+  background: var(--ifm-color-primary);
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(108, 92, 231, 0.3);
+}
+
+.conditionPillActive:hover {
+  background: var(--ifm-color-primary);
+  color: #fff;
+}
+
+/* "Best Only" gets a teal/cyan accent to distinguish it
+   as a special mode rather than a regular condition */
+.conditionPillBest {
+  border-color: #00D2D3;
+  color: #00D2D3;
+}
+
+.conditionPillBest:hover {
+  background: rgba(0, 210, 211, 0.1);
+}
+
+.conditionPillBest.conditionPillActive {
+  background: #00D2D3;
+  color: #0F0F14;
+  border-color: #00D2D3;
+  box-shadow: 0 2px 8px rgba(0, 210, 211, 0.35);
+}
+
+.conditionPillBest.conditionPillActive:hover {
+  background: #00D2D3;
+  color: #0F0F14;
+}
+
+/* ---------------------------------------------------------------
+   Table Container
+   --------------------------------------------------------------- */
+.tableContainer {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid var(--ifm-toc-border-color);
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ---------------------------------------------------------------
+   Table
+   --------------------------------------------------------------- */
+.table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+/* Table Header */
+.table th {
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.75rem 1rem;
+  background: rgba(108, 92, 231, 0.06);
+  white-space: nowrap;
+  text-align: left;
+  color: var(--ifm-font-color-secondary);
+  user-select: none;
+  position: relative;
+}
+
+/* Sortable column header */
+.sortable {
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+
+.sortable:hover {
+  color: var(--ifm-color-primary);
+}
+
+/* Sort arrow indicator via ::after */
+.sortAsc::after {
+  content: " ▲";
+  font-size: 0.65rem;
+  opacity: 0.85;
+}
+
+.sortDesc::after {
+  content: " ▼";
+  font-size: 0.65rem;
+  opacity: 0.85;
+}
+
+/* Table Cells */
+.table td {
+  padding: 0.75rem 1rem;
+  font-size: 0.92rem;
+  border-top: 1px solid var(--ifm-toc-border-color);
+  vertical-align: middle;
+}
+
+/* Row hover / click */
+.tableRow {
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.tableRow:hover {
+  background: rgba(108, 92, 231, 0.05);
+}
+
+/* Rank column styling */
+.rankCell {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--ifm-color-primary);
+  text-align: center;
+  min-width: 48px;
+}
+
+/* Metric cells — tabular numbers for alignment */
+.metricCell {
+  font-variant-numeric: tabular-nums;
+  font-weight: 500;
+  text-align: right;
+}
+
+/* Highlight the active sort metric */
+.metricHighlight {
+  color: var(--ifm-color-primary);
+  font-weight: 700;
+}
+
+/* ---------------------------------------------------------------
+   Trust Badges
+   --------------------------------------------------------------- */
+.trustBadge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.trustSelf {
+  background: rgba(245, 158, 11, 0.15);
+  color: #F59E0B;
+}
+
+.trustVerified {
+  background: rgba(16, 185, 129, 0.15);
+  color: #10B981;
+}
+
+.trustCommunity {
+  background: rgba(59, 130, 246, 0.15);
+  color: #3B82F6;
+}
+
+/* ---------------------------------------------------------------
+   Expanded Row Detail
+   --------------------------------------------------------------- */
+.expandedRow td {
+  padding: 0;
+  border-top: none;
+}
+
+.expandedContent {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.35s ease, padding 0.35s ease;
+}
+
+.expandedContentOpen {
+  max-height: 600px;
+}
+
+.expandedInner {
+  padding: 1.5rem;
+  background: rgba(108, 92, 231, 0.03);
+  border-top: 1px solid var(--ifm-toc-border-color);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1rem 2rem;
+}
+
+.detailField {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.detailLabel {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ifm-font-color-secondary);
+  font-weight: 600;
+}
+
+.detailValue {
+  font-size: 0.9rem;
+  color: var(--ifm-heading-color);
+}
+
+.mono {
+  font-family: "SFMono-Regular", "Consolas", "Liberation Mono", "Menlo", monospace;
+  font-size: 0.82rem;
+  word-break: break-all;
+}
+
+/* ---------------------------------------------------------------
+   Trust Legend
+   --------------------------------------------------------------- */
+.trustLegend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  align-items: center;
+  background: rgba(108, 92, 231, 0.04);
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  padding: 1rem 1.5rem;
+  margin-top: 2rem;
+}
+
+.legendTitle {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ifm-font-color-secondary);
+  margin-right: 0.5rem;
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.88rem;
+}
+
+.legendStatus {
+  font-size: 0.78rem;
+  color: var(--ifm-font-color-secondary);
+  font-style: italic;
+}
+
+/* ---------------------------------------------------------------
+   Disclaimer
+   --------------------------------------------------------------- */
+.disclaimer {
+  font-size: 0.84rem;
+  color: var(--ifm-font-color-secondary);
+  font-style: italic;
+  margin-top: 1rem;
+  line-height: 1.5;
+  opacity: 0.8;
+}
+
+/* ---------------------------------------------------------------
+   How It Works Section
+   --------------------------------------------------------------- */
+.howItWorks {
+  background: rgba(108, 92, 231, 0.04);
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  padding: 2rem;
+  margin-top: 2.5rem;
+}
+
+.howItWorksTitle {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+  color: var(--ifm-heading-color);
+}
+
+.howItWorksList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.howItWorksItem {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  line-height: 1.55;
+}
+
+.howItWorksIcon {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--ifm-color-primary);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.82rem;
+  font-weight: 700;
+  margin-top: 0.1rem;
+}
+
+.howItWorksText {
+  font-size: 0.92rem;
+  color: var(--ifm-font-color-base);
+}
+
+.howItWorksText strong {
+  color: var(--ifm-heading-color);
+}
+
+/* ---------------------------------------------------------------
+   Empty State
+   --------------------------------------------------------------- */
+.emptyState {
+  text-align: center;
+  color: var(--ifm-font-color-secondary);
+  padding: 3rem 1rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.emptyIcon {
+  font-size: 2.4rem;
+  margin-bottom: 0.75rem;
+  opacity: 0.5;
+}
+
+/* ---------------------------------------------------------------
+   Content wrapper (inside Layout)
+   --------------------------------------------------------------- */
+.contentWrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+/* ---------------------------------------------------------------
+   Loading / Error States
+   --------------------------------------------------------------- */
+.loadingState {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--ifm-font-color-secondary);
+  font-size: 1.1rem;
+}
+
+.errorState {
+  text-align: center;
+  padding: 2rem;
+  color: #ff6b6b;
+  background: rgba(255, 107, 107, 0.08);
+  border: 1px solid rgba(255, 107, 107, 0.2);
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+/* ---------------------------------------------------------------
+   DARK MODE OVERRIDES
+   --------------------------------------------------------------- */
+[data-theme="dark"] .pageHeader {
+  background: linear-gradient(
+    135deg,
+    rgba(162, 155, 254, 0.1) 0%,
+    rgba(0, 229, 230, 0.04) 100%
+  );
+}
+
+[data-theme="dark"] .pairPill {
+  border-color: #A29BFE;
+  color: #A29BFE;
+}
+
+[data-theme="dark"] .pairPill:hover {
+  background: rgba(162, 155, 254, 0.15);
+}
+
+[data-theme="dark"] .pairPillActive {
+  background: #A29BFE;
+  color: #0F0F14;
+  box-shadow: 0 2px 12px rgba(162, 155, 254, 0.35);
+}
+
+[data-theme="dark"] .pairPillActive:hover {
+  background: #A29BFE;
+  color: #0F0F14;
+}
+
+[data-theme="dark"] .metricToggle {
+  border-color: #A29BFE;
+}
+
+[data-theme="dark"] .metricBtn {
+  color: #A29BFE;
+}
+
+[data-theme="dark"] .metricBtn + .metricBtn {
+  border-left-color: #A29BFE;
+}
+
+[data-theme="dark"] .metricBtn:hover {
+  background: rgba(162, 155, 254, 0.15);
+}
+
+[data-theme="dark"] .metricBtnActive {
+  background: #A29BFE;
+  color: #0F0F14;
+}
+
+[data-theme="dark"] .metricBtnActive:hover {
+  background: #A29BFE;
+  color: #0F0F14;
+}
+
+[data-theme="dark"] .tableContainer {
+  border-color: #2A2A3C;
+}
+
+[data-theme="dark"] .table th {
+  background: rgba(162, 155, 254, 0.08);
+  color: #8E8EA8;
+}
+
+[data-theme="dark"] .table td {
+  border-top-color: #2A2A3C;
+  color: #E4E4F0;
+}
+
+[data-theme="dark"] .tableRow:hover {
+  background: rgba(162, 155, 254, 0.07);
+}
+
+[data-theme="dark"] .rankCell {
+  color: #A29BFE;
+}
+
+[data-theme="dark"] .metricHighlight {
+  color: #A29BFE;
+}
+
+[data-theme="dark"] .expandedInner {
+  background: rgba(162, 155, 254, 0.04);
+  border-top-color: #2A2A3C;
+}
+
+[data-theme="dark"] .detailLabel {
+  color: #8E8EA8;
+}
+
+[data-theme="dark"] .detailValue {
+  color: #E4E4F0;
+}
+
+[data-theme="dark"] .trustLegend {
+  background: rgba(162, 155, 254, 0.05);
+  border-color: #2A2A3C;
+}
+
+[data-theme="dark"] .legendTitle {
+  color: #8E8EA8;
+}
+
+[data-theme="dark"] .howItWorks {
+  background: rgba(162, 155, 254, 0.05);
+  border-color: #2A2A3C;
+}
+
+[data-theme="dark"] .sortable:hover {
+  color: #A29BFE;
+}
+
+/* Condition filter — dark mode */
+[data-theme="dark"] .conditionFilterLabel {
+  color: #8E8EA8;
+}
+
+[data-theme="dark"] .conditionPill {
+  border-color: #A29BFE;
+  color: #A29BFE;
+}
+
+[data-theme="dark"] .conditionPill:hover {
+  background: rgba(162, 155, 254, 0.15);
+}
+
+[data-theme="dark"] .conditionPillActive {
+  background: #A29BFE;
+  color: #0F0F14;
+  box-shadow: 0 2px 12px rgba(162, 155, 254, 0.35);
+}
+
+[data-theme="dark"] .conditionPillActive:hover {
+  background: #A29BFE;
+  color: #0F0F14;
+}
+
+/* "Best Only" retains its teal accent in dark mode */
+[data-theme="dark"] .conditionPillBest {
+  border-color: #00E5E6;
+  color: #00E5E6;
+}
+
+[data-theme="dark"] .conditionPillBest:hover {
+  background: rgba(0, 229, 230, 0.12);
+}
+
+[data-theme="dark"] .conditionPillBest.conditionPillActive {
+  background: #00E5E6;
+  color: #0F0F14;
+  border-color: #00E5E6;
+  box-shadow: 0 2px 12px rgba(0, 229, 230, 0.35);
+}
+
+[data-theme="dark"] .conditionPillBest.conditionPillActive:hover {
+  background: #00E5E6;
+  color: #0F0F14;
+}
+
+/* ---------------------------------------------------------------
+   RESPONSIVE — mobile breakpoint
+   --------------------------------------------------------------- */
+@media (max-width: 768px) {
+  .pageHeader {
+    padding: 2rem 1rem 1.75rem;
+  }
+
+  .pageTitle {
+    font-size: 1.8rem;
+  }
+
+  .controlsBar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .pairFilter {
+    flex-wrap: wrap;
+  }
+
+  .tableContainer {
+    border-radius: 8px;
+    /* Allow horizontal scroll for the table */
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+  }
+
+  .table th,
+  .table td {
+    padding: 0.6rem 0.75rem;
+    font-size: 0.82rem;
+  }
+
+  .expandedInner {
+    grid-template-columns: 1fr;
+    padding: 1rem;
+  }
+
+  .trustLegend {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .howItWorks {
+    padding: 1.25rem;
+  }
+
+  .contentWrapper {
+    padding: 1.25rem 1rem 3rem;
+  }
+}

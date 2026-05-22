@@ -5,6 +5,7 @@ import Layout from '@theme/Layout';
 import CodeBlock from '@theme/CodeBlock';
 import Heading from '@theme/Heading';
 
+import leaderboardData from '../data/leaderboard.json';
 import styles from './index.module.css';
 
 function HeroBanner() {
@@ -239,6 +240,72 @@ function ComparisonTeaser() {
   );
 }
 
+/**
+ * LeaderboardWidget — compact mini-leaderboard for the landing page.
+ * Shows the top 5 methods by chrF++ score and links to the full leaderboard.
+ */
+function formatPair(pair) {
+  const [src, tgt] = pair.split('>');
+  return `${src.toUpperCase()} → ${tgt.toUpperCase()}`;
+}
+
+function LeaderboardWidget() {
+  // Sort entries by chrF++ descending, take top 5
+  const sorted = [...leaderboardData.entries]
+    .sort((a, b) => b.metrics.chrF - a.metrics.chrF)
+    .slice(0, 5);
+
+  if (sorted.length === 0) return null;
+
+  return (
+    <section className={styles.leaderboardWidget}>
+      <div className="container">
+        <div className={styles.leaderboardWidgetInner}>
+          <div className={styles.leaderboardWidgetHeader}>
+            <div>
+              <Heading as="h2" className={styles.sectionTitle} style={{marginBottom: '0.5rem', textAlign: 'left'}}>
+                🏆 Method Leaderboard
+              </Heading>
+              <p className={styles.leaderboardWidgetSubtitle}>
+                Top translation methods ranked by chrF++ score
+              </p>
+            </div>
+            <Link to="/leaderboard" className="button button--primary button--sm">
+              View Full Leaderboard →
+            </Link>
+          </div>
+          <div className={styles.leaderboardWidgetTable}>
+            <table>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Method</th>
+                  <th>Model</th>
+                  <th>Pair</th>
+                  <th>chrF++</th>
+                  <th>EM%</th>
+                </tr>
+              </thead>
+              <tbody>
+                {sorted.map((entry, idx) => (
+                  <tr key={idx}>
+                    <td className={styles.leaderboardRank}>{idx + 1}</td>
+                    <td className={styles.leaderboardMethod}>{entry.method}</td>
+                    <td className={styles.leaderboardModel}>{entry.model}</td>
+                    <td>{formatPair(entry.pair)}</td>
+                    <td className={styles.leaderboardScore}>{entry.metrics.chrF}</td>
+                    <td className={styles.leaderboardScore}>{entry.metrics.exactMatch}%</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -251,6 +318,7 @@ export default function Home() {
         <FeaturesSection />
         <QuickExample />
         <UseCasesSection />
+        <LeaderboardWidget />
         <ComparisonTeaser />
       </main>
     </Layout>

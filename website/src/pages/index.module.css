@@ -33,12 +33,12 @@
 
 .heroCode pre {
   background: rgba(0, 0, 0, 0.35) !important;
-  border: 1px solid rgba(79, 209, 197, 0.25) !important;
+  border: 1px solid rgba(162, 155, 254, 0.25) !important;
   border-radius: 10px !important;
 }
 
 .heroCode code {
-  color: #4fd1c5 !important;
+  color: #00E5E6 !important;
 }
 
 .buttons {
@@ -55,7 +55,7 @@
 }
 
 .buttonOutline:hover {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(162, 155, 254, 0.15);
   border-color: #ffffff;
   color: #ffffff;
 }
@@ -68,9 +68,9 @@
 }
 
 [data-theme='dark'] .statsBar {
-  background: rgba(56, 178, 172, 0.08);
-  border-top: 1px solid rgba(56, 178, 172, 0.15);
-  border-bottom: 1px solid rgba(56, 178, 172, 0.15);
+  background: rgba(162, 155, 254, 0.08);
+  border-top: 1px solid rgba(162, 155, 254, 0.15);
+  border-bottom: 1px solid rgba(162, 155, 254, 0.15);
 }
 
 .stat {
@@ -128,13 +128,13 @@
 
 .featureCard:hover {
   border-color: var(--ifm-color-primary);
-  background: rgba(56, 178, 172, 0.04);
+  background: rgba(108, 92, 231, 0.04);
   transform: translateY(-2px);
-  box-shadow: 0 4px 16px rgba(56, 178, 172, 0.1);
+  box-shadow: 0 4px 16px rgba(108, 92, 231, 0.1);
 }
 
 [data-theme='dark'] .featureCard:hover {
-  background: rgba(56, 178, 172, 0.06);
+  background: rgba(162, 155, 254, 0.06);
 }
 
 .featureIcon {
@@ -187,7 +187,11 @@
 
 .useCaseCard:hover {
   border-color: var(--ifm-color-primary);
-  box-shadow: 0 4px 16px rgba(56, 178, 172, 0.1);
+  box-shadow: 0 4px 16px rgba(108, 92, 231, 0.1);
+}
+
+[data-theme='dark'] .useCaseCard:hover {
+  box-shadow: 0 4px 16px rgba(162, 155, 254, 0.1);
 }
 
 .useCaseCard h3 {
@@ -229,6 +233,108 @@
   line-height: 1.7;
 }
 
+/* ---- Leaderboard Widget ---- */
+.leaderboardWidget {
+  padding: 4rem 0;
+  border-top: 1px solid var(--ifm-toc-border-color);
+}
+
+.leaderboardWidgetInner {
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: border-color 0.2s ease;
+}
+
+.leaderboardWidgetInner:hover {
+  border-color: var(--ifm-color-primary);
+}
+
+.leaderboardWidgetHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2rem 1rem;
+  gap: 1rem;
+}
+
+.leaderboardWidgetSubtitle {
+  font-size: 0.92rem;
+  color: var(--ifm-font-color-secondary);
+  margin: 0;
+}
+
+.leaderboardWidgetTable {
+  overflow-x: auto;
+}
+
+.leaderboardWidgetTable table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+.leaderboardWidgetTable thead th {
+  font-weight: 600;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.6rem 1rem;
+  white-space: nowrap;
+  background: rgba(108, 92, 231, 0.05);
+  border-top: 1px solid var(--ifm-toc-border-color);
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+  color: var(--ifm-font-color-secondary);
+  text-align: left;
+}
+
+[data-theme='dark'] .leaderboardWidgetTable thead th {
+  background: rgba(162, 155, 254, 0.06);
+}
+
+.leaderboardWidgetTable tbody td {
+  padding: 0.6rem 1rem;
+  font-size: 0.88rem;
+  border-top: 1px solid var(--ifm-toc-border-color);
+  vertical-align: middle;
+}
+
+.leaderboardWidgetTable tbody tr:first-child td {
+  border-top: none;
+}
+
+.leaderboardWidgetTable tbody tr:hover {
+  background: rgba(108, 92, 231, 0.03);
+}
+
+[data-theme='dark'] .leaderboardWidgetTable tbody tr:hover {
+  background: rgba(162, 155, 254, 0.05);
+}
+
+.leaderboardRank {
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+  width: 2rem;
+  text-align: center;
+}
+
+.leaderboardMethod {
+  font-weight: 600;
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.85rem;
+}
+
+.leaderboardModel {
+  color: var(--ifm-font-color-secondary);
+  font-size: 0.85rem;
+}
+
+.leaderboardScore {
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--ifm-color-primary);
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 768px) {
   .heroTitle {
@@ -245,5 +351,11 @@
 
   .stat {
     font-size: 2rem;
+  }
+
+  .leaderboardWidgetHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1.25rem 1rem 0.75rem;
   }
 }

@@ -1,0 +1,18 @@
+{
+  "datasets": [
+    {
+      "id": "edtekla-dev-v1",
+      "name": "EDTeKLA Development Set v1",
+      "pair": "en>crk",
+      "domain": "educational",
+      "size": 124,
+      "version": "1.0.0",
+      "hash": "sha256:pending",
+      "primary": true,
+      "public": true,
+      "source": "EDTeKLA project, University of Alberta",
+      "notes": "62 gold standard + 62 textbook entries. DO NOT TRAIN."
+    }
+  ],
+  "entries": []
+}

@@ -1,40 +1,51 @@
 /**
- * i18n-rosetta documentation theme
+ * i18n-rosetta documentation theme — "Obsidian"
  *
- * Color palette: teal/emerald tones — professional, dev-tool appropriate,
- * avoids generic blue/orange vibecode. Named after the Rosetta Stone's
- * carved green granodiorite.
+ * Color palette: cool purples & violets — modern dark-mode-first dev tool
+ * aesthetic. Technical and sharp, inspired by obsidian glass.
  */
 
 /* ---------- Light mode ---------- */
 :root {
-  /* Primary — deep teal, evokes the stone's patina */
-  --ifm-color-primary: #0d7377;
-  --ifm-color-primary-dark: #0b676a;
-  --ifm-color-primary-darker: #0a6164;
-  --ifm-color-primary-darkest: #085052;
-  --ifm-color-primary-light: #0f7f84;
-  --ifm-color-primary-lighter: #10858a;
-  --ifm-color-primary-lightest: #149ca2;
+  /* Primary — violet */
+  --ifm-color-primary: #6C5CE7;
+  --ifm-color-primary-dark: #5A4BD1;
+  --ifm-color-primary-darker: #4E40C4;
+  --ifm-color-primary-darkest: #3D31A3;
+  --ifm-color-primary-light: #7D6FEC;
+  --ifm-color-primary-lighter: #8E82F0;
+  --ifm-color-primary-lightest: #A89BFE;
+
+  --ifm-background-color: #FAFAFA;
+  --ifm-background-surface-color: #F4F4F7;
+  --ifm-toc-border-color: #E2E2EA;
+  --ifm-font-color-base: #1A1A2E;
+  --ifm-font-color-secondary: #6E6E8A;
 
   --ifm-code-font-size: 95%;
   --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
   --ifm-heading-font-family: 'Inter', system-ui, -apple-system, sans-serif;
 
-  --docusaurus-highlighted-code-line-bg: rgba(13, 115, 119, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(108, 92, 231, 0.08);
 }
 
 /* ---------- Dark mode ---------- */
 [data-theme='dark'] {
-  --ifm-color-primary: #38b2ac;
-  --ifm-color-primary-dark: #2c9f99;
-  --ifm-color-primary-darker: #299691;
-  --ifm-color-primary-darkest: #227b77;
-  --ifm-color-primary-light: #4bbdb8;
-  --ifm-color-primary-lighter: #54c1bc;
-  --ifm-color-primary-lightest: #76cec9;
+  --ifm-color-primary: #A29BFE;
+  --ifm-color-primary-dark: #8B83F5;
+  --ifm-color-primary-darker: #7D75ED;
+  --ifm-color-primary-darkest: #6C5CE7;
+  --ifm-color-primary-light: #B3ADFE;
+  --ifm-color-primary-lighter: #C4BFFE;
+  --ifm-color-primary-lightest: #D5D2FF;
 
-  --docusaurus-highlighted-code-line-bg: rgba(56, 178, 172, 0.15);
+  --ifm-background-color: #0F0F14;
+  --ifm-background-surface-color: #1A1A24;
+  --ifm-toc-border-color: #2A2A3C;
+  --ifm-font-color-base: #E4E4F0;
+  --ifm-font-color-secondary: #8E8EA8;
+
+  --docusaurus-highlighted-code-line-bg: rgba(162, 155, 254, 0.1);
 }
 
 /* ---------- Typography ---------- */
@@ -68,11 +79,11 @@
 
 /* Hero section on landing page */
 .hero--primary {
-  background: linear-gradient(135deg, #0d7377 0%, #085052 100%);
+  background: linear-gradient(135deg, #1A1A2E, #0F0F28);
 }
 
 [data-theme='dark'] .hero--primary {
-  background: linear-gradient(135deg, #1a1a2e 0%, #0d2137 50%, #0a3d3f 100%);
+  background: linear-gradient(135deg, #0F0F14, #14142A);
 }
 
 /* ---------- Code block copy button ---------- */
@@ -89,7 +100,7 @@
 
 .clean-btn[class*="copyButton"]:hover {
   opacity: 1;
-  background: rgba(56, 178, 172, 0.15);
+  background: rgba(162, 155, 254, 0.15);
 }
 
 /* ---------- Admonitions ---------- */
@@ -121,11 +132,11 @@ table {
 }
 
 table thead th {
-  background: rgba(56, 178, 172, 0.06);
+  background: rgba(108, 92, 231, 0.06);
   font-weight: 600;
   white-space: nowrap;
 }
 
 [data-theme='dark'] table thead th {
-  background: rgba(56, 178, 172, 0.08);
+  background: rgba(162, 155, 254, 0.08);
 }

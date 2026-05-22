@@ -54,6 +54,16 @@ const sidebars = {
         'reference/plugin-spec',
       ],
     },
+    {
+      type: 'category',
+      label: 'Evaluation',
+      items: [
+        'eval/index',
+        'eval/harness',
+        'eval/datasets',
+        'eval/run-card',
+      ],
+    },
   ],
 };
 

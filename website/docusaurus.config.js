@@ -113,6 +113,8 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/eval', label: 'Eval', position: 'left'},
+          {to: '/leaderboard', label: 'Leaderboard', position: 'left'},
           {
             type: 'docsVersionDropdown',
             position: 'right',
@@ -177,6 +179,10 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
+              },
+              {
+                label: 'Leaderboard',
+                to: '/leaderboard',
               },
               {
                 label: 'GitHub',
