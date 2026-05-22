@@ -757,3 +757,87 @@
     padding: 1.25rem 1rem 3rem;
   }
 }
+
+/* ---------------------------------------------------------------
+   Method Card Section (in expanded row detail)
+   --------------------------------------------------------------- */
+
+.methodCardSection {
+  grid-column: 1 / -1;
+  background: linear-gradient(
+    135deg,
+    rgba(108, 92, 231, 0.06) 0%,
+    rgba(0, 210, 211, 0.03) 100%
+  );
+  border: 1px solid rgba(108, 92, 231, 0.15);
+  border-radius: 8px;
+  padding: 0.875rem 1rem;
+  margin: 0.25rem 0;
+}
+
+.methodCardHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  margin-bottom: 0.375rem;
+}
+
+.classBadge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  background: rgba(108, 92, 231, 0.15);
+  color: var(--ifm-color-primary);
+  white-space: nowrap;
+}
+
+.methodCardName {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--ifm-heading-color);
+}
+
+.methodCardDesc {
+  font-size: 0.85rem;
+  color: var(--ifm-font-color-secondary);
+  line-height: 1.45;
+  margin: 0.25rem 0 0.5rem;
+}
+
+.toolTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  margin-bottom: 0.375rem;
+}
+
+.toolTag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 0.125rem 0.45rem;
+  border-radius: 3px;
+  background: rgba(0, 210, 211, 0.1);
+  color: var(--ifm-font-color-secondary);
+  border: 1px solid rgba(0, 210, 211, 0.15);
+}
+
+.methodCardMeta {
+  display: flex;
+  gap: 0.75rem;
+  font-size: 0.78rem;
+  color: var(--ifm-font-color-secondary);
+  opacity: 0.85;
+}
+
+.ossBadge {
+  font-weight: 600;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  background: rgba(46, 213, 115, 0.1);
+  color: rgb(46, 213, 115);
+}

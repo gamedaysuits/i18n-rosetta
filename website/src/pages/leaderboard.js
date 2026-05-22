@@ -162,6 +162,41 @@ function RowDetail({ entry }) {
         <span className={styles.detailValue}>{entry.condition}</span>
       </div>
 
+      {/* Method card — author-provided method description */}
+      {entry.methodCard ? (
+        <div className={styles.methodCardSection}>
+          <div className={styles.methodCardHeader}>
+            <span className={styles.classBadge}>{entry.methodCard.class}</span>
+            <span className={styles.methodCardName}>{entry.methodCard.name}</span>
+          </div>
+          {entry.methodCard.description && (
+            <p className={styles.methodCardDesc}>{entry.methodCard.description}</p>
+          )}
+          {entry.methodCard.tools_used?.length > 0 && (
+            <div className={styles.toolTags}>
+              {entry.methodCard.tools_used.map((tool, i) => (
+                <span key={i} className={styles.toolTag}>{tool}</span>
+              ))}
+            </div>
+          )}
+          <div className={styles.methodCardMeta}>
+            {entry.methodCard.author && (
+              <span>By {entry.methodCard.author}</span>
+            )}
+            {entry.methodCard.open_source != null && (
+              <span className={styles.ossBadge}>
+                {entry.methodCard.open_source ? "Open Source" : "Closed Source"}
+              </span>
+            )}
+          </div>
+        </div>
+      ) : (
+        <div className={styles.detailField}>
+          <span className={styles.detailLabel}>Method</span>
+          <span className={styles.detailValue}>Harness-native configuration</span>
+        </div>
+      )}
+
       {/* Cost — only shown when the entry includes cost data */}
       {entry.cost_usd != null && (
         <div className={styles.detailField}>
@@ -300,6 +335,8 @@ export default function LeaderboardPage() {
           elapsed_seconds: row.elapsed_seconds,
           // Full run card for the detail panel
           _runCard: row.run_card,
+          // Method card — author-provided method description (embedded in run card)
+          methodCard: row.run_card?.method_card || null,
         }));
         setEntries(mapped);
       } catch (err) {
